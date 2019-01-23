@@ -1,0 +1,14 @@
+{
+  "string": "hello",
+  "int": 5,
+  "double": 12.4,
+  "bool": false,
+  "array": [
+    "item1",
+    "item2"
+  ],
+  "object": {
+    "value": "oof",
+    "oof": 666
+  }
+}

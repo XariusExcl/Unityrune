@@ -9,12 +9,20 @@ public class RalseiController : MonoBehaviour {
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
+	bool inputConfirm = false;
+	bool inputCancel = false;
+	bool inputMenu = false;
 	
 	// Update is called once per frame
 	void Update () {
 		// Getting the movement axes
 		inputHorizontal = Input.GetAxisRaw("Horizontal");
 		inputVertical = Input.GetAxisRaw("Vertical");
+
+		// Getting button presses (will be ported inside unity soon)
+		inputConfirm = (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Z));
+		inputCancel = (Input.GetKeyDown(KeyCode.Backspace) || Input.GetKeyDown(KeyCode.X));
+		inputMenu = (Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.C));
 
 		// Setting them in the animator
 		animator.SetFloat("Horizontal", inputHorizontal);
