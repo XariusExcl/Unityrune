@@ -12,14 +12,16 @@ public class JsonTest : MonoBehaviour
 
             //                JsonConvert.SerializeObject(item) convertit l'objet item au format JSON
             //                l'option Formatting.Indented fournit un affichage propre
-            Debug.Log("SerializeObject : " + JsonConvert.SerializeObject(item));
+            JsonConvert.SerializeObject(item);
+
 
             // Lire tout le contenu d'un fichier texte
             string json_text = System.IO.File.ReadAllText("Assets/json/item.json");
-
-            Debug.Log("ReadAllText : " + json_text);
+            Debug.Log(json_text);
 
             // Crée un Item à partir d'un texte JSON. Le type Item est nécessaire pour la conversion
             JsonItem another_item = JsonConvert.DeserializeObject<JsonItem>(json_text);
+            
+            Debug.Log(another_item);
     }
 }

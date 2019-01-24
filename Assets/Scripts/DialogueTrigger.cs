@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class DialogueTrigger : MonoBehaviour
 {
-    public Dialogue dialogue;
+
+
+    public string[] dialogue = {"* Oh, Kris!", "* It's the training dummy I made!", "* Why wouldn't we do a little bit of training then...?"};
 
     public void TriggerDialogue()
     {

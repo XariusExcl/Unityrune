@@ -1,14 +1,6 @@
 {
-  "string": "hello",
-  "int": 5,
-  "double": 12.4,
-  "bool": false,
-  "array": [
-    "item1",
-    "item2"
-  ],
-  "object": {
-    "value": "oof",
-    "oof": 666
-  }
+  "text1": "hello",
+  "text2": "this is some text",
+  "text3": "I'm getting tired",
+  "text4": "because I don't know how JSON works."
 }
