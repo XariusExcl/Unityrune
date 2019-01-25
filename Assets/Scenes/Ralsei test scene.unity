@@ -861,7 +861,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.15
-  m_Text: "* Oh, Kris!\n* It's the training dummy \n  I made!"
+  m_Text: 
 --- !u!222 &1637327313
 CanvasRenderer:
   m_ObjectHideFlags: 0
