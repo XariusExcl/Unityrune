@@ -1,7 +1,19 @@
-# UnityRune v0.0 ! 
+# UnityRune vIndev ! (development branch) 
 
-This is a recreation on Deltarune's engine in Unity (I'm using Unity2018.3.2f1, that's quite a mouthful.)
+This is the development branch, updated daily with new content (except it might be broken, most of the time.)
+Download at your own risks! (Except it's not risky at all. It might just not work.)
 
-This project started somewhere in January 2019, and is being worked on by me, a student in... Web development...?
+# Features
 
-Alright I don't have a lot to say in this, right now nothing is working :)
+- A main menu (Woaaaah! Incredible!)
+- A very primitive world to test collisions
+- Music
+- One character is playable (Ralsei), walking is fully animated and he has a collider.
+- Textboxes can display text, images, and speak (although the latter is still WIP)
+
+# What to expect in future releases
+
+- Tilemapped worlds
+- More characters
+- Events that will trigger textboxes automatically
+- Many more!

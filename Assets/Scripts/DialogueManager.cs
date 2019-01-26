@@ -10,22 +10,19 @@ public class DialogueManager : MonoBehaviour
 
     public Text textboxText;
     public GameObject Textbox;
-
     private Queue<string> sentences;
+	private AudioClip[] voicesClip;
+	private int voiceIndex = 7;
+	private AudioSource audioClip;
+
 	void Start () {
 		sentences = new Queue<string>();
+		voicesClip = Resources.LoadAll<AudioClip>("Audio/Voices");
+		Debug.Log("Loaded " + voicesClip.Length + " Voices!");
 	}
 
-    // DISPLAYING DOESN'T WORK, NEED TO FIX THAT WHEN YOU COME BACK JULES
-	public void StartDialogue (string[] dialogu) // "dialogu" is a temporary fix, i'm directly implementing the array inside the function
+	public void StartDialogue (string[] dialogue)
 	{
-        string[] dialogue = new string[3];
-        dialogue[0] = "* Oh, Kris!";
-        dialogue[1] = "* It's the training dummy I made!";
-        dialogue[2] = "* Why wouldn't we do a little bit of training then...?";
-
-        // The actual code is here.
-
         Debug.Log("Starting Dialogue");
 
 		Textbox.SetActive(true);
@@ -60,10 +57,22 @@ public class DialogueManager : MonoBehaviour
 		StringBuilder textboxTextSB = new StringBuilder("");
 		foreach (char letter in sentence.ToCharArray())
 		{
-			textboxTextSB.Append(letter.ToString());
-            Debug.Log(textboxText.ToString());
-			yield return null;
-            textboxText.text = textboxTextSB.ToString();
+			var letterStr = letter.ToString();
+			textboxTextSB.Append(letterStr);     // Appends letter for the typing effect
+            textboxText.text = textboxTextSB.ToString(); // Converts to string to be displayed by the textbox
+
+			if (letterStr == "," || letterStr == "." || letterStr == "?" || letterStr == "!")  // Don't play voice + longer pause if the appended letter are those
+			{
+				yield return new WaitForSeconds(.066f);
+
+			} else if(letterStr != " " ) { // Normal pause, but no sound for spaces
+				audioClip = GetComponent<AudioSource>();
+				audioClip.clip = voicesClip[voiceIndex];
+				audioClip.Play();
+				Debug.Log("Playing audio...");
+			}
+
+			yield return new WaitForSeconds(.033f);
 		}
 	}
 
