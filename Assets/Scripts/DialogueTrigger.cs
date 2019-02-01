@@ -6,8 +6,9 @@ public class DialogueTrigger : MonoBehaviour
 {
     string[] dialogue = {"* Oh, Kris!", "* It's the training dummy I made!", "* Now seems like a great chance to prepare for the enemy."};
 
+
     public void TriggerDialogue()
     {
-        FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
+        FindObjectOfType<DialogueManager>().StartDialogue(dialogue, "Ralsei", "happy");
     }
 }

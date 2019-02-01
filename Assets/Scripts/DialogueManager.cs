@@ -11,18 +11,17 @@ public class DialogueManager : MonoBehaviour
     public Text textboxText;
     public GameObject Textbox;
     private Queue<string> sentences;
-	private AudioClip[] voicesClip;
-	private int voiceIndex = 7;
+	private AudioClip voice;
 	private AudioSource audioClip;
 
 	void Start () {
 		sentences = new Queue<string>();
-		voicesClip = Resources.LoadAll<AudioClip>("Audio/Voices");
-		Debug.Log("Loaded " + voicesClip.Length + " Voices!");
 	}
 
-	public void StartDialogue (string[] dialogue)
+	public void StartDialogue (string[] dialogue, string character, string face)
 	{
+		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + character);
+
         Debug.Log("Starting Dialogue");
 
 		Textbox.SetActive(true);
@@ -34,7 +33,7 @@ public class DialogueManager : MonoBehaviour
             Debug.Log("Enqueing...");
 			sentences.Enqueue(sentence);
 		}
-        
+        FindObjectOfType<TextboxImageManager>().DisplayImage(character + "_" + face);
 		DisplayNextSentence();
 	}
 
@@ -52,22 +51,22 @@ public class DialogueManager : MonoBehaviour
 		StartCoroutine(TypeSentence(sentence));
 	}
 
-	IEnumerator TypeSentence (string sentence)
+	IEnumerator TypeSentence (string sentence) // The typing and speaking engine
 	{
 		StringBuilder textboxTextSB = new StringBuilder("");
 		foreach (char letter in sentence.ToCharArray())
 		{
 			var letterStr = letter.ToString();
-			textboxTextSB.Append(letterStr);     // Appends letter for the typing effect
+			textboxTextSB.Append(letterStr);     		 // Appends letter for the typing effect
             textboxText.text = textboxTextSB.ToString(); // Converts to string to be displayed by the textbox
 
-			if (letterStr == "," || letterStr == "." || letterStr == "?" || letterStr == "!")  // Don't play voice + longer pause if the appended letter are those
+			if (letterStr == "," || letterStr == "." || letterStr == "?" || letterStr == "!")	// Don't play voice + longer pause if the appended letter are those
 			{
 				yield return new WaitForSeconds(.066f);
 
-			} else if(letterStr != " " ) { // Normal pause, but no sound for spaces
+			} else if(letterStr != " " ) {		// Normal pause, but no sound for spaces
 				audioClip = GetComponent<AudioSource>();
-				audioClip.clip = voicesClip[voiceIndex];
+				audioClip.clip = voice;
 				audioClip.Play();
 				Debug.Log("Playing audio...");
 			}
