@@ -20,7 +20,12 @@ public class DialogueManager : MonoBehaviour
 
 	public void StartDialogue (string[] dialogue, string character, string face)
 	{
-		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + character);
+		// TO BE MODIFIED :
+
+		// Give an "event" array in the function, and englobe the whole function in a foreach, to parse each sentence, voice and face
+		// that will be extracted from json somewhere hopefully.
+
+		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + character);	// To find the voice clip
 
         Debug.Log("Starting Dialogue");
 
@@ -33,7 +38,7 @@ public class DialogueManager : MonoBehaviour
             Debug.Log("Enqueing...");
 			sentences.Enqueue(sentence);
 		}
-        FindObjectOfType<TextboxImageManager>().DisplayImage(character + "_" + face);
+        FindObjectOfType<TextboxImageManager>().DisplayImage(character + "_" + face);	// To find the face to display
 		DisplayNextSentence();
 	}
 

@@ -6,10 +6,12 @@ using UnityEngine.SceneManagement;
 public class SceneSwitcher : MonoBehaviour
 {
     // This will be much more complex in the future.
-    public void LoadScene()
+    // Or maybe not, idk.
+    public string sceneName = "";
+    public void LoadScene(string scene)
     {
-        Debug.Log("Loading Scene...");
-        SceneManager.LoadScene (sceneName:"Ralsei test scene");
+        Debug.Log("Loading Scene : \"" + scene + "\"");
+        SceneManager.LoadScene (sceneName:scene);
     }
 
     public void QuitGame()
