@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class TextboxImageManager : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
-    Sprite faceSprite;
 
     void Start()
     {
@@ -15,8 +14,7 @@ public class TextboxImageManager : MonoBehaviour
     public void DisplayImage(string faceName)
     {
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
-        faceSprite = Resources.Load<Sprite>("Sprites/Faces/" + faceName);
-        spriteRenderer.sprite = faceSprite;
+        spriteRenderer.sprite = Resources.Load<Sprite>("Sprites/Faces/" + faceName);
     }
         
 

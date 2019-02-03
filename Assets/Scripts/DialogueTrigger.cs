@@ -4,17 +4,25 @@ using UnityEngine;
 
 public class DialogueTrigger : MonoBehaviour
 {
-    string[] dialogue = { "* Oh, Kris!", "* It's the training dummy I made!", "* Now seems like a great chance to prepare for the enemy."};
-    string[,] dialogueEvent = new string[,] {
-    {"* Oh, Kris!", "Ralsei", "shocked"},
-    {"* It's the training dummy I made!", "Ralsei", "happy"}, 
-    {"* Now seems like a great chance to prepare for the enemy.", "Ralsei", "happy"}};
-
-
-    public void TriggerDialogue(string dialogueEvent)
+    DialogEvent dialogEvent = new DialogEvent( new DialogTextBox[]
     {
-        // JSON EXTRACTING STUFF GOES HERE
+        new DialogTextBox("* Oh, Kris!", "Ralsei", "shocked"),
+        new DialogTextBox("* It's the training dummy I made!", "", "happy"),
+        new DialogTextBox("* Now seems like a great chance to prepare for the enemy.", "Ralsei", "happy")
+    }
+    );
+    public string dialogueID;
+    private void OnTriggerEnter2D()
+    {
+        TriggerDialogue(dialogueID);
+    }
 
-        FindObjectOfType<DialogueManager>().StartDialogue(dialogue, "Ralsei", "happy");
+    public void TriggerDialogue(string ID)
+    {
+        Debug.Log("Dialogue ID : " + ID);
+
+        // JSON EXTRACTING STUFF GOES HERE, TO EXTRACT A DIALOGEVENT FROM JSON
+
+        FindObjectOfType<DialogueManager>().StartDialogue(dialogEvent);
     }
 }

@@ -9,29 +9,47 @@ public class RalseiController : MonoBehaviour {
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
-	bool inputConfirm = false;
-	bool inputCancel = false;
-	bool inputMenu = false;
+	[HideInInspector]
+	public bool inDialogue = false;
+
 	
 	// Update is called once per frame
-	void Update () {
-		// Getting the movement axes
+	void Update ()
+	{	
+		if (!inDialogue)
+		{
 		inputHorizontal = Input.GetAxisRaw("Horizontal");
 		inputVertical = Input.GetAxisRaw("Vertical");
+		} else {
+			inputHorizontal = 0f;
+			inputVertical = 0f;
+		}
 
-		// Getting button presses (will be ported inside unity soon)
-		inputConfirm = (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Z));
-		inputCancel = (Input.GetKeyDown(KeyCode.Backspace) || Input.GetKeyDown(KeyCode.X));
-		inputMenu = (Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.C));
+		/*
+		if (Input.GetButtonDown("Confirm")) // Enter or Z key
+		{
+			Debug.Log("Confirm key pressed!");
+		}
+
+		if (Input.GetButtonDown("Cancel")) // Backspace or X key
+		{
+			Debug.Log("Cancel key pressed!");
+		}
+
+		if (Input.GetButtonDown("Menu")) // Right Ctrl or C key
+		{
+			Debug.Log("Menu key pressed!");
+		}
+		*/
+
 
 		// Setting them in the animator
 		animator.SetFloat("Horizontal", inputHorizontal);
 		animator.SetFloat("Vertical", inputVertical);
 	}
 
-	void FixedUpdate() {
-		// Moving the character
+	void FixedUpdate()
+	{
 		rb.velocity = new Vector2(inputHorizontal, inputVertical);
-
 	}
 }
