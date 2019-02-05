@@ -5,14 +5,8 @@ using Newtonsoft.Json;
 
 public class DialogueTrigger : MonoBehaviour
 {
+    public DialogueManager dialogueManager;
     private Dictionary<string, DialogEvent> textLibrary = new Dictionary<string, DialogEvent>();
-       
-    DialogEvent dialogEvent = new DialogEvent( new DialogTextBox[]
-    {
-        new DialogTextBox("* Oh, Kris!", "Ralsei", "shocked"),
-        new DialogTextBox("* It's the training dummy I made!", "", "happy"),
-        new DialogTextBox("* Now seems like a great chance to prepare for the enemy.", "Ralsei", "happy")
-    });
 
     DialogEvent eventNotFound = new DialogEvent(new DialogTextBox[]
     {
@@ -45,13 +39,9 @@ public class DialogueTrigger : MonoBehaviour
     {
         Debug.Log("Dialogue ID : " + ID);
 
-        // JSON EXTRACTING STUFF GOES HERE, TO EXTRACT A DIALOGEVENT FROM JSON
-
-        // FindObjectOfType<DialogueManager>().StartDialogue(dialogEvent);
-
         if (textLibrary.ContainsKey(ID))
-            FindObjectOfType<DialogueManager>().StartDialogue(textLibrary[ID]);
+            dialogueManager.StartDialogue(textLibrary[ID]);
         else
-            FindObjectOfType<DialogueManager>().StartDialogue(eventNotFound);
+            dialogueManager.StartDialogue(eventNotFound);
     }
 }

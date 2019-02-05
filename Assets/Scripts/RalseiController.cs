@@ -10,13 +10,12 @@ public class RalseiController : MonoBehaviour {
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
 	[HideInInspector]
-	public bool inDialogue = false;
+	public static bool inMenu = false;
 
 	
-	// Update is called once per frame
 	void Update ()
 	{	
-		if (!inDialogue)
+		if (!inMenu)
 		{
 		inputHorizontal = Input.GetAxisRaw("Horizontal");
 		inputVertical = Input.GetAxisRaw("Vertical");

@@ -14,7 +14,7 @@ public class DialogueManager : MonoBehaviour
     private Queue<DialogTextBox> Textboxes;
 	private AudioClip voice;
 	private AudioSource audioClip;
-	
+	public TextboxImageManager textboxImageManager;
 
 	void Start ()
 	{
@@ -31,7 +31,7 @@ public class DialogueManager : MonoBehaviour
 
 	public void StartDialogue (DialogEvent dialogEvent)
 	{
-		FindObjectOfType<RalseiController>().inDialogue = true;
+		RalseiController.inMenu = true;
 		Textboxes.Clear();
 		goTextbox.SetActive(true);
 
@@ -54,7 +54,7 @@ public class DialogueManager : MonoBehaviour
 
 		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + Textbox.Character);     			   // Load the voice clip
 
-		FindObjectOfType<TextboxImageManager>().DisplayImage(Textbox.Character + "_" + Textbox.Face);  // Load the face to display
+		textboxImageManager.DisplayImage(Textbox.Character + "_" + Textbox.Face);  // Load the face to display
 
 		if(Textbox.Character == "" || Textbox.Face == "" )   // Use larger textarea when face/character isn't specified
 		{
@@ -94,6 +94,6 @@ public class DialogueManager : MonoBehaviour
 	void EndDialogue()
 	{
 		goTextbox.SetActive(false);
-		FindObjectOfType<RalseiController>().inDialogue = false; // there might be an other way but whatever
+		RalseiController.inMenu = false; // there might be an other way but whatever
 	}
 }
