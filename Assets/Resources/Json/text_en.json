@@ -1,0 +1,26 @@
+{
+  "dummy_1": {
+    "textboxes": [
+      {
+        "text": "* Oh, Kris!",
+        "character": "Ralsei",
+        "face": "shocked"
+      },
+      {
+        "text": "(You look at the training dummy.)",
+        "character": "",
+        "face": "happy"
+      },
+      {
+        "text": "* It's the training dummy I made!",
+        "character": "Ralsei",
+        "face": "happy"
+      },
+      {
+        "text": "* Now seems like a great chance to prepare for the enemy.",
+        "character": "Ralsei",
+        "face": "happy"
+      }
+    ]
+  }
+}
