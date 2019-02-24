@@ -18,6 +18,7 @@ public class DialogueManager : MonoBehaviour
 
 	void Start ()
 	{
+		audioClip = GetComponent<AudioSource>();
 		Textboxes = new Queue<DialogTextBox>();
 	}
 
@@ -44,6 +45,8 @@ public class DialogueManager : MonoBehaviour
 
 	public void DisplayNextSentence ()
 	{
+		string voiceStr = "";
+
 		if (Textboxes.Count == 0)
 		{
 			StopAllCoroutines();
@@ -52,23 +55,42 @@ public class DialogueManager : MonoBehaviour
 		}
 		DialogTextBox Textbox = Textboxes.Dequeue();  // Loads next textbox in "Textbox"
 
-		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + Textbox.Character);     			   // Load the voice clip
-
-		textboxImageManager.DisplayImage(Textbox.Character + "_" + Textbox.Face);  // Load the face to display
-
-		if(Textbox.Character == "" || Textbox.Face == "" )   // Use larger textarea when face/character isn't specified
+		if (Textbox.Character != null)
 		{
-			textboxText.rectTransform.sizeDelta = new Vector2(1000,250);
-		}else{
-			textboxText.rectTransform.sizeDelta = new Vector2(800,250);
+			string[] split = Textbox.Character.Split('_');  // Formatting :)
+			voiceStr = split[0];
 		}
 
+		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + voiceStr);  // Load the voice clip
+		audioClip.clip = voice;
+
+		textboxImageManager.DisplayImage(Textbox.Character);  // Load the face to display
+
+		if (Textbox.Pos != new Vector2(0, 0))
+		{
+			textboxText.rectTransform.anchoredPosition = Textbox.Pos;  // Use custom pos when set
+		}else{
+			textboxText.rectTransform.anchoredPosition = new Vector2(10, 0); // Default pos
+		}
+
+		if (Textbox.Size != new Vector2(0, 0))
+		{
+			textboxText.rectTransform.sizeDelta = Textbox.Size;  // Use custom size when set
+		}else if(Textbox.Character == "Narrator" || Textbox.Character == null){
+			textboxText.rectTransform.sizeDelta = new Vector2(1020,250);  // Use larger textarea when narrating
+		}else{
+			textboxText.rectTransform.sizeDelta = new Vector2(800,250);   // Default size
+		}
+		
 		StopAllCoroutines();
-		StartCoroutine(TypeSentence(Textbox.Text));
+		StartCoroutine(TypeSentence(Textbox.Text, Textbox.Character, Textbox.ShortDelay, Textbox.LongDelay));
 	}
 
-	IEnumerator TypeSentence (string sentence) // The typing and speaking engine
+	IEnumerator TypeSentence (string sentence, string character, float shortDelay = .033f, float longDelay = .066f) // The typing and speaking engine
 	{
+		if (shortDelay == 0){shortDelay = .033f;}
+		if (longDelay == 0) {longDelay  = .066f;}
+
 		StringBuilder textboxTextSB = new StringBuilder("");
 		foreach (char letter in sentence)
 		{
@@ -79,21 +101,20 @@ public class DialogueManager : MonoBehaviour
 
 			if (array.Contains(letter))		// Don't play voice + longer pause if the letter is one of those
 			{
-				yield return new WaitForSeconds(.066f);
+				yield return new WaitForSeconds(longDelay);
 
 			} else if(letter != ' ') {		// Normal pause, but no sound for spaces
-				audioClip = GetComponent<AudioSource>();
-				audioClip.clip = voice;
 				audioClip.Play();
 			}
 
-			yield return new WaitForSeconds(.033f);
+			yield return new WaitForSeconds(shortDelay);
 		}
 	}
 
-	void EndDialogue()
+	public void EndDialogue()
 	{
 		goTextbox.SetActive(false);
+		textboxText.text = "";
 		RalseiController.inMenu = false; // there might be an other way but whatever
 	}
 }

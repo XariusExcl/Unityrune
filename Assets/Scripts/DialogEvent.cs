@@ -4,6 +4,7 @@ using UnityEngine;
 using Newtonsoft.Json;
 
 [JsonObject(MemberSerialization.OptIn)]
+
 public class DialogEvent
 {
     [JsonProperty("textboxes")] public DialogTextBox[] TextBoxes;
@@ -19,7 +20,7 @@ public class DialogEvent
 
         foreach(var textbox in TextBoxes)
         {
-            output += textbox.Character + ", " + textbox.Face + ", says \"" + textbox.Text + "\".\n";
+            output += textbox.Character + " says \"" + textbox.Text + "\".\n";
         }
 
         return output;

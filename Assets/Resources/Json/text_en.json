@@ -1,25 +1,356 @@
 {
+  "error_1": {
+    "textboxes": [
+      {
+        "text": "oh no..."
+      },
+      {
+        "text": "it seems...                    the game...                    has crashed."
+      },
+      {
+        "text": "it does that sometimes..."
+      },
+      {
+        "text": "but it's okay!"
+      },
+      {
+        "text": "if you really think there is an issue..."
+      },
+      {
+        "text": "you can tell the developer!"
+      },
+      {
+        "text": "or..."
+      },
+      {
+        "text": "you can watch this relaxing dog sleeping."
+      }
+    ]
+  },
+  "error_2": {
+    "textboxes": [
+      {
+        "text": "you're still waiting...?"
+      },
+      {
+        "text": "ask for help!"
+      },
+      {
+        "text": "we believe in you..."
+      }
+    ]
+  },
+  "error_3": {
+    "textboxes": [
+      {
+        "text": "maybe this dog has some kind of untapped power..."
+      },
+      {
+        "text": "...that wastes people time by doing absolutely nothing else than sleeping."
+      },
+      {
+        "text": "...."
+      },
+      {
+        "text": "I wish I could do that..."
+      },
+      {
+        "text": "it would be an amazing superpower."
+      }
+    ]
+  },
+  "error_4": {
+    "textboxes": [
+      {
+        "text": "or maybe it's the music..."
+      },
+      {
+        "text": "I like it too..."
+      },
+      {
+        "text": "very relaxing..."
+      },
+      {
+        "text": "it's saying \"everything will be okay\" in some way..."
+      },
+      {
+        "text": "thanks, music."
+      }
+    ]
+  },
+  "error_5": {
+    "textboxes": [
+      {
+        "text": "maybe you were expecting something else..."
+      },
+      {
+        "text": "but there's not much else beyond this point."
+      },
+      {
+        "text": "thanks for looking through every nook and cranny of the game, though."
+      },
+      {
+        "text": "or maybe you found this in the files.",
+        "hello": "greetings to you :)"
+      },
+      {
+        "text": "it's alright too!"
+      },
+      {
+        "text": "okay, you can safely turn off the game now."
+      },
+      {
+        "text": "good night...!"
+      }
+    ]
+  },
+  "intro_1": {
+    "textboxes": [
+      {
+        "text": "Once upon a time, a LEGEND was whispered among shadows.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1
+      }
+    ]
+  },
+  "intro_2a": {
+    "textboxes": [
+      {
+        "text": "It was a LEGEND of HOPE.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width": 300,
+        "height": 250,
+        "posx" : -300
+      },
+      {
+        "text": "It was a LEGEND of LIGHT.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 300,
+        "height": 250,
+        "posx" : -300
+      }
+    ]
+  },
+  "intro_2b": {
+    "textboxes": [
+      {
+        "text": "It was a LEGEND of DREAMS.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 300,
+        "height": 250,
+        "posx" : 300
+      },
+      {
+        "text": "It was a LEGEND of DARK.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 300,
+        "height": 250,
+        "posx" : 300
+      }
+    ]
+  },
+  "intro_3a": {
+    "textboxes": [
+      {
+        "text": "This is the legend of",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 750,
+        "height": 250
+      }
+    ]
+  },
+  "intro_3b": {
+    "textboxes": [
+      {
+        "text": "DELTA RUNE",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 350,
+        "height": 250,
+        "posy" : -70
+      }
+    ]
+  },
+  "intro_4": {
+    "textboxes": [
+      {
+        "text": "For millenia, LIGHT and DARK have lived in balance,",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+        
+      },
+      {
+        "text": "Bringing peace to the WORLD.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "But if this harmony were to shatter...",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "A terrible calamity would occur.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      }
+    ]
+  },
+  "intro_5": {
+    "textboxes": [
+      {
+        "text": "The sky will run black with terror",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 1150,
+        "height": 250
+      },
+      {
+        "text": "And the land will crack with fear.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 1150,
+        "height": 250
+      },
+      {
+        "text": "Then, her heart pounding...",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "The EARTH will draw her final breath.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 1150,
+        "height": 250
+      },
+      {
+        "text": "Only then, shining with hope...",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "Three HEROES apprear at WORLD's edge.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      }
+    ]
+  },
+  "intro_6a": {
+    "textboxes": [
+      {
+        "text": "A HUMAN,",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 300,
+        "height": 250,
+        "posx" : -400
+      }
+    ]
+  },
+  "intro_6b": {
+    "textboxes": [
+      {
+        "text": "A MONSTER,",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 350,
+        "height": 250,
+        "posx" : -50
+      }
+    ]
+  },
+  "intro_6c": {
+    "textboxes": [
+      {
+        "text": "And a PRINCE FROM THE DARK.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 500,
+        "height": 250,
+        "posx" : 400
+      }
+    ]
+  },
+  "intro_7": {
+    "textboxes": [
+      {
+        "text": "Only they can seal the fountains",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 1150,
+        "height": 250
+      },
+      {
+        "text": "And banish the ANGEL'S HEAVEN.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "Only then will balance be restored,",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "And the WORLD saved from destruction.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "Today, the FOUNTAIN OF DARKNESS-",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 1050,
+        "height": 250
+      },
+      {
+        "text": "The geyser that gives this land form-",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 1050,
+        "height": 250
+      },
+      {
+        "text": "Stands tall at the center of the kingdom.",
+        "shortDelay": 0.1,
+        "longDelay": 0.1,
+        "width" : 1050,
+        "height": 250
+      },
+      {
+        "text": "But recently, another fountain has appeared on the horizon...",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      },
+      {
+        "text": "And with it, the balance of LIGHT and DARK begins to shift...",
+        "shortDelay": 0.066,
+        "longDelay": 0.066
+      }
+    ]
+  },
   "dummy_1": {
     "textboxes": [
       {
         "text": "* Oh, Kris!",
-        "character": "Ralsei",
-        "face": "shocked"
+        "character": "Ralsei_shocked"
       },
       {
         "text": "(You look at the training dummy.)",
-        "character": "",
-        "face": "happy"
+        "character": "Narrator"
       },
       {
         "text": "* It's the training dummy I made!",
-        "character": "Ralsei",
-        "face": "happy"
+        "character": "Ralsei_happy"
       },
       {
         "text": "* Now seems like a great chance to prepare for the enemy.",
-        "character": "Ralsei",
-        "face": "happy"
+        "character": "Ralsei_happy"
       }
     ]
   }

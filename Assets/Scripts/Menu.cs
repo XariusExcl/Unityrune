@@ -8,12 +8,6 @@ public class Menu : MonoBehaviour
     bool isOpen = false;
     
     public Animator animator;
-
-    //public RalseiController ralseiController;
-
-	void Start()
-	{
-	}
     void Update()
     {
         if (Input.GetButtonDown("Menu")) // Open the menu if the menu key is pressed
@@ -21,8 +15,11 @@ public class Menu : MonoBehaviour
             isOpen = !isOpen;
             animator.SetBool("IsOpen", isOpen);
             RalseiController.inMenu = isOpen;
+            foreach(Transform child in transform)
+            {
+                child.gameObject.SetActive(isOpen);
+            }
+            // need to highlight the first button
         }
-
-
     }
 }
