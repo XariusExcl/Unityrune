@@ -109,47 +109,50 @@
       {
         "text": "Once upon a time, a LEGEND was whispered among shadows.",
         "shortDelay": 0.1,
-        "longDelay": 0.1
+        "longDelay": 0.1,
+        "width": 900,
+        "height": 250,
+        "posx" : -50
       }
     ]
   },
   "intro_2a": {
     "textboxes": [
       {
-        "text": "It was a LEGEND of HOPE.",
+        "text": "It was\na LEGEND of HOPE.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
-        "width": 300,
+        "width": 320,
         "height": 250,
-        "posx" : -300
+        "posx" : -320
       },
       {
-        "text": "It was a LEGEND of LIGHT.",
+        "text": "It was\na LEGEND of LIGHT.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
-        "width" : 300,
+        "width" : 320,
         "height": 250,
-        "posx" : -300
+        "posx" : -320
       }
     ]
   },
   "intro_2b": {
     "textboxes": [
       {
-        "text": "It was a LEGEND of DREAMS.",
+        "text": "It was\na LEGEND of DREAMS.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
-        "width" : 300,
+        "width" : 320,
         "height": 250,
-        "posx" : 300
+        "posx" : 280
       },
       {
-        "text": "It was a LEGEND of DARK.",
+        "text": "It was\na LEGEND of DARK.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
-        "width" : 300,
+        "width" : 320,
         "height": 250,
-        "posx" : 300
+        "posx" : 280
       }
     ]
   },
@@ -172,7 +175,8 @@
         "longDelay": 0.1,
         "width" : 350,
         "height": 250,
-        "posy" : -70
+        "posy" : -70,
+        "posx" : -30
       }
     ]
   },
@@ -192,12 +196,19 @@
       {
         "text": "But if this harmony were to shatter...",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 620,
+        "height": 250,
+        "posx" : -60
       },
       {
         "text": "A terrible calamity would occur.",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 1040,
+        "height": 250,
+        "posx" : 0,
+        "posy" : 320
       }
     ]
   },
@@ -207,37 +218,49 @@
         "text": "The sky will run black with terror",
         "shortDelay": 0.066,
         "longDelay": 0.066,
-        "width" : 1150,
-        "height": 250
+        "width" : 560,
+        "height" : 250,
+        "posx" : -30,
+        "posy" : -110
       },
       {
         "text": "And the land will crack with fear.",
         "shortDelay": 0.066,
         "longDelay": 0.066,
-        "width" : 1150,
-        "height": 250
+        "width" : 560,
+        "height" : 250,
+        "posx" : -30,
+        "posy" : -110
       },
       {
         "text": "Then, her heart pounding...",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "posy" : -110
       },
       {
         "text": "The EARTH will draw her final breath.",
         "shortDelay": 0.066,
         "longDelay": 0.066,
-        "width" : 1150,
-        "height": 250
+        "width" : 650,
+        "height" : 250,
+        "posx" : 0,
+        "posy" : -110
       },
       {
         "text": "Only then, shining with hope...",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "posy" : -110
       },
       {
-        "text": "Three HEROES apprear at WORLD's edge.",
+        "text": "Three HEROES appear at WORLD's edge.",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 620,
+        "height" : 250,
+        "posx" : 0,
+        "posy" : -110
       }
     ]
   },
@@ -249,7 +272,8 @@
         "longDelay": 0.066,
         "width" : 300,
         "height": 250,
-        "posx" : -400
+        "posx" : -400,
+        "posy" : -110
       }
     ]
   },
@@ -261,7 +285,8 @@
         "longDelay": 0.066,
         "width" : 350,
         "height": 250,
-        "posx" : -50
+        "posx" : -50,
+        "posy" : -110
       }
     ]
   },
@@ -273,7 +298,8 @@
         "longDelay": 0.066,
         "width" : 500,
         "height": 250,
-        "posx" : 400
+        "posx" : 400,
+        "posy" : -110
       }
     ]
   },
@@ -284,43 +310,59 @@
         "shortDelay": 0.066,
         "longDelay": 0.066,
         "width" : 1150,
-        "height": 250
+        "height": 250,
+        "posx" : 60,
+        "posy" : -110
       },
       {
         "text": "And banish the ANGEL'S HEAVEN.",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 1150,
+        "height": 250,
+        "posx" : 60,
+        "posy" : -110
       },
       {
         "text": "Only then will balance be restored,",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 720,
+        "height" : 250,
+        "posx" : 40,
+        "posy" : -110
       },
       {
         "text": "And the WORLD saved from destruction.",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width" : 620,
+        "height" : 250,
+        "posx" : 0,
+        "posy" : -110
       },
       {
         "text": "Today, the FOUNTAIN OF DARKNESS-",
-        "shortDelay": 0.1,
-        "longDelay": 0.1,
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
         "width" : 1050,
         "height": 250
       },
       {
-        "text": "The geyser that gives this land form-",
-        "shortDelay": 0.1,
-        "longDelay": 0.1,
-        "width" : 1050,
-        "height": 250
+        "text": "The geyser that\ngives this land form-",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 680,
+        "height" : 250,
+        "posx" : 0
       },
       {
-        "text": "Stands tall at the center of the kingdom.",
-        "shortDelay": 0.1,
-        "longDelay": 0.1,
-        "width" : 1050,
-        "height": 250
+        "text": "Stands tall at the\ncenter of the kingdom.",
+        "shortDelay": 0.066,
+        "longDelay": 0.066,
+        "width" : 720,
+        "height" : 250,
+        "posx" : 0
       },
       {
         "text": "But recently, another fountain has appeared on the horizon...",
@@ -328,9 +370,12 @@
         "longDelay": 0.066
       },
       {
-        "text": "And with it, the balance of LIGHT and DARK begins to shift...",
+        "text": "And with it, the balance of\nLIGHT and DARK begins to shift...",
         "shortDelay": 0.066,
-        "longDelay": 0.066
+        "longDelay": 0.066,
+        "width": 1060,
+        "height": 250,
+        "posx": -10
       }
     ]
   },

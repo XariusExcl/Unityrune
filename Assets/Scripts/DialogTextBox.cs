@@ -9,7 +9,6 @@ public class DialogTextBox
 {
     [JsonProperty("text")]       public string Text;
     [JsonProperty("character")]  public string Character;
-    
     [JsonProperty("posx")]       public int PosX;
     [JsonProperty("posy")]       public int PosY;
     [JsonProperty("width")]      public int Width;

@@ -69,8 +69,10 @@ public class DialogueManager : MonoBehaviour
 		if (Textbox.Pos != new Vector2(0, 0))
 		{
 			textboxText.rectTransform.anchoredPosition = Textbox.Pos;  // Use custom pos when set
+		}else if(Textbox.Character != null){
+			textboxText.rectTransform.anchoredPosition = new Vector2(-83, -12); // Default pos for character textboxes
 		}else{
-			textboxText.rectTransform.anchoredPosition = new Vector2(10, 0); // Default pos
+			textboxText.rectTransform.anchoredPosition = new Vector2(10, 0); // Default pos for floating text
 		}
 
 		if (Textbox.Size != new Vector2(0, 0))

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Newtonsoft.Json;
+using UnityEngine.SceneManagement;
 
 public class Cutscene_Intro : MonoBehaviour
 {
@@ -14,6 +15,19 @@ public class Cutscene_Intro : MonoBehaviour
     public DialogueManager dialogueManager_a;
     public DialogueManager dialogueManager_b;
     public DialogueManager dialogueManager_c;
+    public GameObject mask;
+    public GameObject castle;
+    public GameObject balance1;
+    public GameObject balance2;
+    public GameObject earth;
+    public GameObject hope;
+    public GameObject threeheroes;
+    public GameObject human;
+    public GameObject monster;
+    public GameObject prince;
+    public GameObject angelsheaven;
+    public GameObject fountains;
+
     int i = 1;
     void Start()
     {
@@ -61,6 +75,10 @@ public class Cutscene_Intro : MonoBehaviour
                 if (Time.timeSinceLevelLoad > 23.73f)
                 {
                     Debug.Log("intro_4");
+                    mask.SetActive(false);
+                    castle.SetActive(false);
+                    balance1.SetActive(true);
+                    balance2.SetActive(true);
                     dialogueManager_a.DisplayNextSentence();
 
                     dialogueManager_a.StartDialogue(textLibrary["intro_" + i]);
@@ -71,9 +89,14 @@ public class Cutscene_Intro : MonoBehaviour
                 }
                 break;
             case 5:
-                if (Time.timeSinceLevelLoad > 42.06f)
+                if (Time.timeSinceLevelLoad > 42.03f)
                 {
                     Debug.Log("intro_5");
+                    balance1.SetActive(false);
+                    balance2.SetActive(false);
+                    hope.SetActive(true);
+                    threeheroes.SetActive(true);
+                    earth.SetActive(true);
                     dialogueManager_a.DisplayNextSentence();
 
                     dialogueManager_a.StartDialogue(textLibrary["intro_" + i]);
@@ -86,9 +109,16 @@ public class Cutscene_Intro : MonoBehaviour
                 }
                 break;
             case 6:
-                if (Time.timeSinceLevelLoad > 69.44f)
+                if (Time.timeSinceLevelLoad > 69.40f)
                 {
                     Debug.Log("intro_6");
+                    hope.SetActive(false);
+                    earth.SetActive(false);
+                    threeheroes.SetActive(false);
+                    human.SetActive(true);
+                    monster.SetActive(true);
+                    prince.SetActive(true);
+ 
                     dialogueManager_a.StartDialogue(textLibrary["intro_" + i + "a"]);
                     StartCoroutine(StartDialogueInvokeB("intro_" + i + "b", 2.46f));
                     StartCoroutine(StartDialogueInvokeC("intro_" + i + "c", 4.76f));
@@ -99,6 +129,12 @@ public class Cutscene_Intro : MonoBehaviour
                 if (Time.timeSinceLevelLoad > 78.80f)
                 {
                     Debug.Log("intro_7");
+                    human.SetActive(false);
+                    monster.SetActive(false);
+                    prince.SetActive(false);
+                    angelsheaven.SetActive(true);
+                    fountains.SetActive(true);
+                    mask.SetActive(true);
 
                     dialogueManager_a.DisplayNextSentence();
                     dialogueManager_b.DisplayNextSentence();
@@ -114,6 +150,12 @@ public class Cutscene_Intro : MonoBehaviour
                     dialogueManager_a.Invoke("DisplayNextSentence", 33.13f);
                     dialogueManager_a.Invoke("DisplayNextSentence", 39.66f);
                     i++;
+                }
+                break;
+            case 8:
+                if(Time.timeSinceLevelLoad > 129f)
+                {
+                    SceneManager.LoadScene ("MainMenu");
                 }
                 break;
         }
