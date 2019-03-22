@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
     {
         if(isFollowing)
         {
-            tr.position = player.transform.position + new Vector3(0,0,-15f);
+            tr.position = player.transform.position + new Vector3(0,0,-3f);
         }   // 5AM coding ftw.
     }
 }
