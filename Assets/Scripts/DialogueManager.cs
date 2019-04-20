@@ -33,6 +33,7 @@ public class DialogueManager : MonoBehaviour
 	public void StartDialogue (DialogEvent dialogEvent)
 	{
 		RalseiController.inMenu = true;
+		Menu.enableMenu = false;
 		Textboxes.Clear();
 		goTextbox.SetActive(true);
 
@@ -93,7 +94,7 @@ public class DialogueManager : MonoBehaviour
 		if (shortDelay == 0){shortDelay = .033f;}
 		if (longDelay == 0) {longDelay  = .066f;}
 
-		StringBuilder textboxTextSB = new StringBuilder("");
+		StringBuilder textboxTextSB = new StringBuilder();
 		foreach (char letter in sentence)
 		{
 			textboxTextSB.Append(letter);     			 // Appends letter for the typing effect
@@ -117,6 +118,7 @@ public class DialogueManager : MonoBehaviour
 	{
 		goTextbox.SetActive(false);
 		textboxText.text = "";
-		RalseiController.inMenu = false; // there might be an other way but whatever
+		RalseiController.inMenu = false;
+		Menu.enableMenu = true;
 	}
 }

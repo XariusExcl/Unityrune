@@ -1,0 +1,92 @@
+{
+    "kris": {
+        "name" : "Kris",
+        "description" : "LVL 1 leader/nCommands the party with various ACTs.",
+        "color" : [0, 1, 1],
+        "hp" : 70,
+        "maxhp" : 90,
+        "equipment" : {
+
+            "weapon" : "",
+            "armor1" : "",
+            "armor2" : ""
+            
+        },
+        "inventory" : [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "stats" : {
+
+            "attack" : 10,
+            "defense" : 2,
+            "magic" : 0
+        }
+    },
+    "susie": {
+        "name" : "Susie",
+        "description" : "",
+        "color" : [1, 0, 1],
+        "hp" : 110,
+        "maxhp" : 110,
+        "equipment" : {
+
+            "weapon" : "",
+            "armor1" : "",
+            "armor2" : ""
+            
+        },
+        "inventory" : [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "stats" : {
+
+            "attack" : 0,
+            "defense" : 0,
+            "magic" : 0
+        }
+    },
+    "ralsei": {
+        "name" : "Ralsei",
+        "description" : "",
+        "color" : [0, 1, 0],
+        "hp" : 55,
+        "maxhp" : 70,
+        "equipment" : {
+
+            "weapon" : "",
+            "armor1" : "",
+            "armor2" : ""
+            
+        },
+        "inventory" : [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "stats" : {
+
+            "attack" : 0,
+            "defense" : 0,
+            "magic" : 0
+        }
+    }
+}

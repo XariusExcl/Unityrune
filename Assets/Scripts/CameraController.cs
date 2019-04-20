@@ -8,6 +8,11 @@ public class CameraController : MonoBehaviour
     public Transform tr;
     public bool isFollowing = true;
 
+    void Start()
+    {
+        tr = GetComponent<Transform>();
+    }
+    
     void Update()
     {
         if(isFollowing)
