@@ -398,5 +398,17 @@
         "character": "Ralsei_happy"
       }
     ]
+  },
+  "dummy_tutorial": {
+    "textboxes": [
+      {
+        "text" : "* Hello, my name is Ralsei!",
+        "character" : "Ralsei_happy"
+      },
+      {
+        "text" : "I'm looking forward to our adventures together!",
+        "character" : "Ralsei_worried_smile_lookup_blush"
+      }
+    ]
   }
 }

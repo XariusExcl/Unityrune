@@ -43,9 +43,12 @@ public class MenuCharaInfo : MonoBehaviour
             else if (character.Name.Length == 5)
                 nameTextSB.Append(" ");
 
+            /*
             if (character.Name[]);
             nameTextSB.Append(letter);
+            */
             }
+            
 
             nameText.text = nameTextSB.ToString();
 
