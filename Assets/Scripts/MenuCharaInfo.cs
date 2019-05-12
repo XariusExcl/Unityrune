@@ -49,7 +49,9 @@ public class MenuCharaInfo : MonoBehaviour
 
             
             nameTextSB.Append(letter);
+            */
             }
+            
 
             nameText.text = nameTextSB.ToString();
 
