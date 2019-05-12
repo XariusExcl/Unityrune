@@ -33,7 +33,7 @@ public class DialogueManager : MonoBehaviour
 	public void StartDialogue (DialogEvent dialogEvent)
 	{
 		RalseiController.inMenu = true;
-		Menu.enableMenu = false;
+		MenuTop.enableMenu = false;
 		Textboxes.Clear();
 		goTextbox.SetActive(true);
 
@@ -119,6 +119,6 @@ public class DialogueManager : MonoBehaviour
 		goTextbox.SetActive(false);
 		textboxText.text = "";
 		RalseiController.inMenu = false;
-		Menu.enableMenu = true;
+		MenuTop.enableMenu = true;
 	}
 }

@@ -3,7 +3,7 @@
         "name" : "Kris",
         "description" : "LVL 1 leader/nCommands the party with various ACTs.",
         "color" : [0, 1, 1],
-        "hp" : 70,
+        "hp" : 75,
         "maxhp" : 90,
         "equipment" : {
 

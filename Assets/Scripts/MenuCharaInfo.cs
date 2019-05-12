@@ -28,6 +28,10 @@ public class MenuCharaInfo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        string json = Resources.Load<TextAsset>("Json/chara").text;
+
+        characterLibrary = JsonConvert.DeserializeObject<Dictionary<string, Character>>(json);
+
         if (characterLibrary.ContainsKey(partyMember))
         {
             character = characterLibrary[partyMember];
@@ -43,7 +47,7 @@ public class MenuCharaInfo : MonoBehaviour
             else if (character.Name.Length == 5)
                 nameTextSB.Append(" ");
 
-            if (character.Name[]);
+            
             nameTextSB.Append(letter);
             }
 
@@ -67,7 +71,13 @@ public class MenuCharaInfo : MonoBehaviour
 
             hpText.text = hpTextSB.ToString();
 
-            hpBar.transform.localScale = new Vector3 (((float)character.Hp/character.Maxhp)*2, 2f, 0f);
+            float barScale = ((float)character.Hp/character.Maxhp)*2;
+            if (barScale < 0)
+                barScale = 0;
+            if (barScale > 2)
+                barScale = 2;
+
+            hpBar.transform.localScale = new Vector3 (barScale, 2f, 0f);
 
             hpBar.GetComponent<SpriteRenderer>().color = new Color (character.Color[0], character.Color[1], character.Color[2]);
         } else {

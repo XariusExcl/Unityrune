@@ -11,7 +11,6 @@ public class RalseiController : MonoBehaviour {
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
-	[HideInInspector]
 	public static bool inMenu = false;
 
 	void Start()
@@ -20,9 +19,8 @@ public class RalseiController : MonoBehaviour {
     }
 	void Update ()
 	{	
-		Debug.Log("inMenu State : " + inMenu);
 		
-		if (inMenu) // Freezes up the player if inside of a menu/textbox
+		if (MenuTop.isOpen || inMenu) // Freezes up the player if inside of a menu/textbox
 		{
 		inputHorizontal = 0f;
 		inputVertical = 0f;
