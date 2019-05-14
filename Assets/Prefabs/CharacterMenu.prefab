@@ -89,9 +89,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2368112328202601766}
   - component: {fileID: 2368112328202601817}
-  - component: {fileID: 2368112328202601816}
+  - component: {fileID: 4940479342651463880}
   m_Layer: 0
-  m_Name: PlayerMenu1
+  m_Name: PlayerMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -165,7 +165,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2368112328202601816
+--- !u!114 &4940479342651463880
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -174,10 +174,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2368112328202601767}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fdb0f15004cf9f943ae39eefbc1a4da2, type: 3}
+  m_Script: {fileID: 11500000, guid: 78087c815b635ab44a5857a3c168825f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  partyMember: kris
+  partyMember: 
   nameText: {fileID: 2368112328542387164}
   playerImg: {fileID: 2368112329790033466}
   hpText: {fileID: 2368112329769145848}
@@ -260,7 +260,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.15
-  m_Text: K  R  I  S
+  m_Text: UNKNWN
 --- !u!1 &2368112328986282232
 GameObject:
   m_ObjectHideFlags: 0
@@ -409,7 +409,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 101
   m_Sprite: {fileID: 21300000, guid: 1b22db30132c4474882c144f2f5dd055, type: 3}
-  m_Color: {r: 0, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -497,7 +497,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.15
-  m_Text: 90/     90
+  m_Text: 88/     88
 --- !u!1 &2368112329790033464
 GameObject:
   m_ObjectHideFlags: 0
@@ -566,7 +566,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 101
-  m_Sprite: {fileID: 21300000, guid: 096b492dbc12f86459fa60e82e8b1668, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 20e6c1d5fe6c2a04f9d7bb2f512f2a25, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

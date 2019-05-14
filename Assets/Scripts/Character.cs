@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 [JsonObject(MemberSerialization.OptIn)]
 public class Character
 {
+    [JsonProperty("inParty")]     public bool InParty;
     [JsonProperty("name")]        public string Name;
     [JsonProperty("color")]       public float[] Color;
     [JsonProperty("description")] public string Description;

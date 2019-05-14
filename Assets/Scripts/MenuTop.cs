@@ -9,16 +9,19 @@ public class MenuTop : MonoBehaviour
     [HideInInspector]
     public static bool isOpen = false;
     public static bool enableMenu = true;
-    public Animator animator;
+    Animator anim;
     private Component[] buttons;
-
+    void Start()
+    {
+        anim = gameObject.GetComponent<Animator>();
+    }
     void Update()
     {
-        if (Input.GetButtonDown("Menu") && enableMenu == true) // Needs something else to be able to be opened only in the overworld
+        if (Input.GetButtonDown("Menu") && enableMenu == true)
         {
             isOpen = !isOpen;
 
-            animator.SetBool("IsOpen", isOpen);
+            anim.SetBool("IsOpen", isOpen);
 
             buttons = GetComponentsInChildren<Button>();
 

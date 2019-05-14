@@ -1,7 +1,8 @@
 {
     "kris": {
+        "inParty": true,
         "name" : "Kris",
-        "description" : "LVL 1 leader/nCommands the party with various ACTs.",
+        "description" : "LVL 1 leader\nCommands the party with various ACTs.",
         "color" : [0, 1, 1],
         "hp" : 75,
         "maxhp" : 90,
@@ -30,6 +31,7 @@
         }
     },
     "susie": {
+        "inParty": true,
         "name" : "Susie",
         "description" : "",
         "color" : [1, 0, 1],
@@ -60,6 +62,7 @@
         }
     },
     "ralsei": {
+        "inParty": true,
         "name" : "Ralsei",
         "description" : "",
         "color" : [0, 1, 0],

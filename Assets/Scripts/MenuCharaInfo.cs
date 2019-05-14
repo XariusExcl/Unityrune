@@ -1,55 +1,42 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
-using Newtonsoft.Json;
 public class MenuCharaInfo : MonoBehaviour
 {
-    public string partyMember; // Temporary, need to find a solution (assign character to display by nth of child)
-    // Also I need a "party members" thing somewhere"
-    [Space]
     public Character character;
     public Text nameText;
     public SpriteRenderer playerImg;
     public Text hpText;
     public GameObject hpBar;
-    private Dictionary<string, Character> characterLibrary = new Dictionary<string, Character>();
-
-
-    void Start()
-    {
-        string json = Resources.Load<TextAsset>("Json/chara").text;
-
-        characterLibrary = JsonConvert.DeserializeObject<Dictionary<string, Character>>(json);
-    }
 
     // Update is called once per frame
     void Update()
     {
-        string json = Resources.Load<TextAsset>("Json/chara").text;
-
-        characterLibrary = JsonConvert.DeserializeObject<Dictionary<string, Character>>(json);
-
-        if (characterLibrary.ContainsKey(partyMember))
+        if (character != null)
         {
-            character = characterLibrary[partyMember];
-
-            StringBuilder nameTextSB = new StringBuilder();
+            StringBuilder nameTextSB = new StringBuilder(6);
 
             // Adds automatic spaces to names
+            int i = 0;
             foreach (char letter in character.Name) 
             {
-            if (character.Name.Length <= 4)
-                nameTextSB.Append("  ");
+                i++;
+
+                if (character.Name.Length <= 4)
+                    nameTextSB.Append("  ");
                 
-            else if (character.Name.Length == 5)
-                nameTextSB.Append(" ");
+                else if (character.Name.Length == 5)
+                    nameTextSB.Append(" ");
 
             
-            nameTextSB.Append(letter);
-            */
+                if (character.Name.Length > 6 && i == 6)
+                {
+                    nameTextSB.Append(".");
+                    break;
+                }
+                nameTextSB.Append(letter);
             }
             
 
@@ -82,9 +69,6 @@ public class MenuCharaInfo : MonoBehaviour
             hpBar.transform.localScale = new Vector3 (barScale, 2f, 0f);
 
             hpBar.GetComponent<SpriteRenderer>().color = new Color (character.Color[0], character.Color[1], character.Color[2]);
-        } else {
-            nameText.text = "MISSING";
-            // Maybe more code ?
         }
     }
 }
