@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,32 +7,57 @@ public class RalseiController : MonoBehaviour {
 
 	public Rigidbody2D rb;
 	public Animator animator;
+	Transform tr;
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
-	bool inputConfirm = false;
-	bool inputCancel = false;
-	bool inputMenu = false;
-	
-	// Update is called once per frame
-	void Update () {
-		// Getting the movement axes
+	public static bool inMenu = false;
+
+	void Start()
+    {
+        tr = GetComponent<Transform>();
+    }
+	void Update ()
+	{	
+		
+		if (MenuTop.isOpen || inMenu) // Freezes up the player if inside of a menu/textbox
+		{
+		inputHorizontal = 0f;
+		inputVertical = 0f;
+		} else {
 		inputHorizontal = Input.GetAxisRaw("Horizontal");
 		inputVertical = Input.GetAxisRaw("Vertical");
+		}
 
-		// Getting button presses (will be ported inside unity soon)
-		inputConfirm = (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Z));
-		inputCancel = (Input.GetKeyDown(KeyCode.Backspace) || Input.GetKeyDown(KeyCode.X));
-		inputMenu = (Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.C));
+		/*
+		if (Input.GetButtonDown("Confirm")) // Enter or Z key
+		{
+			Debug.Log("Confirm key pressed!");
+		}
+
+		if (Input.GetButtonDown("Cancel")) // Backspace or X key
+		{
+			Debug.Log("Cancel key pressed!");
+		}
+
+		if (Input.GetButtonDown("Menu")) // Right Ctrl or C key
+		{
+			Debug.Log("Menu key pressed!");
+		}
+		*/
+
 
 		// Setting them in the animator
 		animator.SetFloat("Horizontal", inputHorizontal);
 		animator.SetFloat("Vertical", inputVertical);
 	}
-
-	void FixedUpdate() {
-		// Moving the character
+	
+	void FixedUpdate()
+	{
 		rb.velocity = new Vector2(inputHorizontal, inputVertical);
-
+		tr.position = new Vector3(Convert.ToSingle(Math.Round(tr.position.x, 2)),
+                                  Convert.ToSingle(Math.Round(tr.position.y, 2)),
+                                  tr.position.z);
 	}
+	
 }
