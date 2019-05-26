@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+(Attached to Ralsei)
+Moves Ralsei, and freezes their movement when inside of a menu/textbox.
+*/
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -20,7 +24,7 @@ public class RalseiController : MonoBehaviour {
 	void Update ()
 	{	
 		
-		if (MenuTop.isOpen || inMenu) // Freezes up the player if inside of a menu/textbox
+		if (MenuTop.isOpen || inMenu) // If inside of a menu/textbox
 		{
 		inputHorizontal = 0f;
 		inputVertical = 0f;

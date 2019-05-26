@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+(When attached to something, will trigger a dialogue when collided with the player)
+Starts by desializing every DialogueEvent in the game inside of text_en.json and will trigger a dialogue based on the key that has been given inside of TriggerDialogue(key)
+Also has a debug "error" text when the dialogue wasn't found.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Newtonsoft.Json;

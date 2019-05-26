@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueManager: {fileID: 1581311726}
-  dialogueID: dummy_tutorial
+  dialogueID: dummy_1
 --- !u!61 &157356270
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -378,7 +378,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.3}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -389,7 +389,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8, y: 0.8}
+  m_Size: {x: 0.6, y: 0.4}
   m_EdgeRadius: 0
 --- !u!212 &157356271
 SpriteRenderer:
@@ -732,18 +732,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 6.48, y: 3}
   m_EdgeRadius: 0
---- !u!114 &498362530 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4746906511550370361, guid: 8fe9aa8c9ee936a4997c419e8dd8824c,
-    type: 3}
-  m_PrefabInstance: {fileID: 4746906511488760475}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a0e5fcdf3085d24c8e7ff808b622a11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &539812107
 GameObject:
   m_ObjectHideFlags: 0
@@ -3422,6 +3410,12 @@ MonoBehaviour:
   player: {fileID: 1833479696}
   tr: {fileID: 0}
   isFollowing: 1
+--- !u!212 &1951777965 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 4746906511550370360, guid: 8fe9aa8c9ee936a4997c419e8dd8824c,
+    type: 3}
+  m_PrefabInstance: {fileID: 4746906511488760475}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1963117955
 GameObject:
   m_ObjectHideFlags: 0
@@ -3793,7 +3787,17 @@ PrefabInstance:
         type: 3}
       propertyPath: textboxImageManager
       value: 
-      objectReference: {fileID: 498362530}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394240847509065361, guid: 2e562aff692057b459f1a7a3577feef8,
+        type: 3}
+      propertyPath: spriteRenderer
+      value: 
+      objectReference: {fileID: 1951777965}
+    - target: {fileID: 3394240847509065361, guid: 2e562aff692057b459f1a7a3577feef8,
+        type: 3}
+      propertyPath: textboxImage
+      value: 
+      objectReference: {fileID: 1951777965}
     - target: {fileID: 3394240847509065360, guid: 2e562aff692057b459f1a7a3577feef8,
         type: 3}
       propertyPath: m_LocalPosition.x

@@ -1,5 +1,5 @@
-{
-    "kris": {
+[
+    {
         "inParty": true,
         "name" : "Kris",
         "description" : "LVL 1 leader\nCommands the party with various ACTs.",
@@ -30,7 +30,7 @@
             "magic" : 0
         }
     },
-    "susie": {
+    {
         "inParty": true,
         "name" : "Susie",
         "description" : "",
@@ -61,7 +61,7 @@
             "magic" : 0
         }
     },
-    "ralsei": {
+    {
         "inParty": true,
         "name" : "Ralsei",
         "description" : "",
@@ -92,4 +92,4 @@
             "magic" : 0
         }
     }
-}
+]

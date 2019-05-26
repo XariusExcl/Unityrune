@@ -1,12 +1,14 @@
-﻿using System.Collections;
+﻿/*
+Switches scenes when LoadScene(sceneName) is called.
+This will be much more complex in the future, or maybe not, idk.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
-    // This will be much more complex in the future.
-    // Or maybe not, idk.
     public string sceneName = "";
     public void LoadScene(string scene)
     {

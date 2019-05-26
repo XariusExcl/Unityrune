@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* 
+(Attached to MenuTop)
+The logic for the top Menu, which has buttons to open certain menus.
+*/
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

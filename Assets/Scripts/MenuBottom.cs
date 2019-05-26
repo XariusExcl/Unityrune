@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+(Attached to MenuBottom)
+Displays the characters on the bottom menu by reading the json, putting them in a list and checking if they are "inParty"
+For now, it desializes the Json each frame the menu is up, which takes a bit of performance.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +14,7 @@ using Newtonsoft.Json;
 public class MenuBottom : MonoBehaviour
 {
     Animator anim;
-    private Dictionary<string, Character> characterLibrary = new Dictionary<string, Character>();
+    private List<Character> characterList;
     public GameObject characterMenu;
     List<Transform> childrensTransforms;
     void Start()
@@ -25,38 +30,35 @@ public class MenuBottom : MonoBehaviour
         
         if (MenuTop.isOpen)
         {
-            // Read the json
+            // Read the json and put Characters in a list
             string json = Resources.Load<TextAsset>("Json/chara").text;
-            characterLibrary = JsonConvert.DeserializeObject<Dictionary<string, Character>>(json);
-            string[] keys = characterLibrary.Keys.ToArray();
+            characterList = JsonConvert.DeserializeObject<List<Character>>(json);
             
-            // For each character inside the json
-            foreach(string key in keys)
+            foreach(Character chara in characterList)
             {
-                Character chara = characterLibrary[key];
                 string menuName = chara.Name + "_menu";
                 Transform menuTransform = gameObject.transform.Find(menuName);
 
-                if (chara.InParty)
+                if (chara.InParty) // If the character is in party
                 {
-                    if (menuTransform == null)
+                    if (menuTransform == null) // And is not being currently displayed, Instantiate a new characterMenu
                     {
                         GameObject newMenu = Instantiate(characterMenu, gameObject.transform);
                         newMenu.name = menuName;
                         MenuCharaInfo menuCharaInfo = newMenu.gameObject.GetComponent<MenuCharaInfo>();
                         menuCharaInfo.character = chara;
-                    } else {
+                    } else { // Else, just update the infos.
                         MenuCharaInfo menuCharaInfo = menuTransform.gameObject.GetComponent<MenuCharaInfo>();
                         menuCharaInfo.character = chara;
                     }
 
-                } else if (menuTransform != null) { // Not in party, and the menu exists
+                } else if (menuTransform != null) { // If not in party, and the characterMenu exists
                     Destroy(menuTransform.gameObject);
                 }
             }
         }
     }
-    public void OnTransformChildrenChanged()
+    public void OnTransformChildrenChanged() // Update the characterMenu's positions when their number has changed.
     {
         childrensTransforms.Clear();
         foreach (Transform child in transform)

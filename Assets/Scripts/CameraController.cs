@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+(Attached to the main Camera)
+Moves the camera to follow the player (or not)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

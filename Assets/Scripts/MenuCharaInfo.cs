@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+(Attached to characterMenu prefab)
+Takes care of displaying the Character's infos correctly in a characterMenu.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
