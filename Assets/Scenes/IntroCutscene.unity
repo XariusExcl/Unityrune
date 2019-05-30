@@ -320,7 +320,6 @@ GameObject:
   m_Component:
   - component: {fileID: 154249951}
   - component: {fileID: 154249953}
-  - component: {fileID: 154249952}
   m_Layer: 0
   m_Name: CharacterRenderer
   m_TagString: Untagged
@@ -342,18 +341,6 @@ Transform:
   m_Father: {fileID: 1085471239}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &154249952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 154249950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a0e5fcdf3085d24c8e7ff808b622a11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &154249953
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -530,7 +517,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 914846062}
   goTextbox: {fileID: 1085471238}
-  textboxImageManager: {fileID: 154249952}
+  textboxImage: {fileID: 0}
+  fullText: 
 --- !u!4 &229714906
 Transform:
   m_ObjectHideFlags: 0
@@ -1129,7 +1117,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 729651526}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72e4381d04efad141b2ff324529c9564, type: 3}
+  m_Script: {fileID: 11500000, guid: d45f34981cdcd574fb87632f49372b1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueManager_a: {fileID: 1053641370}
@@ -1318,10 +1306,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 886791487}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e314e3855cc071488d57a375801e43d, type: 3}
+  m_Script: {fileID: 11500000, guid: 4870b1e72dcaf564d8272f378cb57811, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tr: {fileID: 886791490}
 --- !u!1 &913746149
 GameObject:
   m_ObjectHideFlags: 0
@@ -1631,7 +1618,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 453437903}
   goTextbox: {fileID: 1085471238}
-  textboxImageManager: {fileID: 154249952}
+  textboxImage: {fileID: 0}
+  fullText: 
 --- !u!82 &1053641371
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2377,7 +2365,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 705338720}
   goTextbox: {fileID: 1085471238}
-  textboxImageManager: {fileID: 154249952}
+  textboxImage: {fileID: 0}
+  fullText: 
 --- !u!4 &1650696715
 Transform:
   m_ObjectHideFlags: 0
@@ -2548,10 +2537,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1934431211}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e314e3855cc071488d57a375801e43d, type: 3}
+  m_Script: {fileID: 11500000, guid: 4870b1e72dcaf564d8272f378cb57811, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tr: {fileID: 1934431213}
 --- !u!95 &1934431215
 Animator:
   serializedVersion: 3

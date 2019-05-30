@@ -268,7 +268,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 483659887}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9cbe973cc1e9b8349860f4b430bdcb02, type: 3}
+  m_Script: {fileID: 11500000, guid: 67ae73d3ae676094b9d19587c7fbb631, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueTrigger: {fileID: 483659892}
@@ -416,7 +416,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 1112341001}
   goTextbox: {fileID: 458542802}
-  textboxImageManager: {fileID: 2089387363}
+  textboxImage: {fileID: 0}
+  fullText: 
 --- !u!4 &809676690
 Transform:
   m_ObjectHideFlags: 0

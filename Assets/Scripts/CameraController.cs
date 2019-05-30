@@ -9,7 +9,7 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {
     public GameObject player;
-    public Transform tr;
+    Transform tr;
     public bool isFollowing = true;
 
     void Start()
