@@ -517,7 +517,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 914846062}
   goTextbox: {fileID: 1085471238}
-  textboxImage: {fileID: 0}
+  textboxImage: {fileID: 154249953}
   fullText: 
 --- !u!4 &229714906
 Transform:
@@ -1618,7 +1618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 453437903}
   goTextbox: {fileID: 1085471238}
-  textboxImage: {fileID: 0}
+  textboxImage: {fileID: 154249953}
   fullText: 
 --- !u!82 &1053641371
 AudioSource:
@@ -1892,7 +1892,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e314e3855cc071488d57a375801e43d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tr: {fileID: 0}
 --- !u!212 &1484584411
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2365,7 +2364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textboxText: {fileID: 705338720}
   goTextbox: {fileID: 1085471238}
-  textboxImage: {fileID: 0}
+  textboxImage: {fileID: 154249953}
   fullText: 
 --- !u!4 &1650696715
 Transform:

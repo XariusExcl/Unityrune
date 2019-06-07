@@ -33,6 +33,12 @@ public class RalseiController : MonoBehaviour {
 		inputVertical = Input.GetAxisRaw("Vertical");
 		}
 
+		if (Input.GetButton("Sprint"))
+		{
+			inputHorizontal *= 1.5f;
+			inputVertical *= 1.5f;
+		}
+
 		/*
 		if (Input.GetButtonDown("Confirm")) // Enter or Z key
 		{
