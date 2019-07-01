@@ -1,16 +1,16 @@
 ﻿/*
-(Attached to Ralsei)
-Moves Ralsei, and freezes their movement when inside of a menu/textbox.
+(Attached to the player-controlled character)
+Moves the character, and freezes their movement when inside of a menu/textbox.
 */
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RalseiController : MonoBehaviour {
+public class PlayerController : MonoBehaviour {
 
-	public Rigidbody2D rb;
-	public Animator animator;
+	Rigidbody2D rb;
+	Animator anim;
 	Transform tr;
 
 	float inputHorizontal = 0f;
@@ -20,6 +20,8 @@ public class RalseiController : MonoBehaviour {
 	void Start()
     {
         tr = GetComponent<Transform>();
+		rb = GetComponent<Rigidbody2D>();
+		anim = GetComponent<Animator>();
     }
 	void Update ()
 	{	
@@ -58,8 +60,8 @@ public class RalseiController : MonoBehaviour {
 
 
 		// Setting them in the animator
-		animator.SetFloat("Horizontal", inputHorizontal);
-		animator.SetFloat("Vertical", inputVertical);
+		anim.SetFloat("Horizontal", inputHorizontal);
+		anim.SetFloat("Vertical", inputVertical);
 	}
 	
 	void FixedUpdate()

@@ -5,6 +5,7 @@ For now, it desializes the Json each frame the menu is up, which takes a bit of 
 */
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using UnityEngine;
@@ -22,6 +23,10 @@ public class MenuBottom : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
         // I need to get rid of animators and make my own probably
         childrensTransforms = new List<Transform>();
+
+        // Read the json and put Characters in a list
+        string json = Resources.Load<TextAsset>("Json/chara").text;
+        characterList = JsonConvert.DeserializeObject<List<Character>>(json);
     }
 
     void Update()
@@ -30,10 +35,6 @@ public class MenuBottom : MonoBehaviour
         
         if (MenuTop.isOpen)
         {
-            // Read the json and put Characters in a list
-            string json = Resources.Load<TextAsset>("Json/chara").text;
-            characterList = JsonConvert.DeserializeObject<List<Character>>(json);
-            
             foreach(Character chara in characterList)
             {
                 string menuName = chara.Name + "_menu";
@@ -83,5 +84,10 @@ public class MenuBottom : MonoBehaviour
                 childrensTransforms[2].transform.localPosition = new Vector3 (436, 80, 0);
                 break;
         }
+    }
+
+    public void SaveCharacters()
+    {
+        File.WriteAllText(@"..\Resources\Json\chara.json", JsonConvert.SerializeObject(characterList));
     }
 }

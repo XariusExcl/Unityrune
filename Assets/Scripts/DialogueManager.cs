@@ -60,7 +60,7 @@ public class DialogueManager : MonoBehaviour
 
 	public void StartDialogue (DialogEvent dialogEvent)
 	{
-		RalseiController.inMenu = true;
+		PlayerController.inMenu = true;
 		MenuTop.enableMenu = false;
 		Textboxes.Clear();
 		goTextbox.SetActive(true);
@@ -154,7 +154,7 @@ public class DialogueManager : MonoBehaviour
 	{
 		goTextbox.SetActive(false);
 		textboxText.text = "";
-		RalseiController.inMenu = false;
+		PlayerController.inMenu = false;
 		MenuTop.enableMenu = true;
 	}
 }
