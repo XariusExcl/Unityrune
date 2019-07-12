@@ -1,0 +1,7661 @@
+fileFormatVersion: 2
+guid: ec67deac1ea001949a128de9573f3d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4915410714383146579
+    second: bg_cc_throneroom_tiles_0
+  - first:
+      213: -5312443267707947951
+    second: bg_cc_throneroom_tiles_1
+  - first:
+      213: -8573803083711648789
+    second: bg_cc_throneroom_tiles_2
+  - first:
+      213: 3544310712782184651
+    second: bg_cc_throneroom_tiles_3
+  - first:
+      213: 332151675050172179
+    second: bg_cc_throneroom_tiles_4
+  - first:
+      213: -6692627376111407938
+    second: bg_cc_throneroom_tiles_5
+  - first:
+      213: 4476606603145890846
+    second: bg_cc_throneroom_tiles_6
+  - first:
+      213: 1458342713623955169
+    second: bg_cc_throneroom_tiles_7
+  - first:
+      213: -4005239713086540214
+    second: bg_cc_throneroom_tiles_8
+  - first:
+      213: 3628561299075513130
+    second: bg_cc_throneroom_tiles_9
+  - first:
+      213: 9051065119916430168
+    second: bg_cc_throneroom_tiles_10
+  - first:
+      213: -3538258590473045822
+    second: bg_cc_throneroom_tiles_11
+  - first:
+      213: -7867850122048649045
+    second: bg_cc_throneroom_tiles_12
+  - first:
+      213: 707274006470879007
+    second: bg_cc_throneroom_tiles_13
+  - first:
+      213: 4594292493200077574
+    second: bg_cc_throneroom_tiles_14
+  - first:
+      213: 2193259607081690289
+    second: bg_cc_throneroom_tiles_15
+  - first:
+      213: -3193932918342327057
+    second: bg_cc_throneroom_tiles_16
+  - first:
+      213: -5270265175454344795
+    second: bg_cc_throneroom_tiles_17
+  - first:
+      213: -8069217381560588588
+    second: bg_cc_throneroom_tiles_18
+  - first:
+      213: -7818613282815009912
+    second: bg_cc_throneroom_tiles_19
+  - first:
+      213: -7049187708889001652
+    second: bg_cc_throneroom_tiles_20
+  - first:
+      213: -7070380969388142334
+    second: bg_cc_throneroom_tiles_21
+  - first:
+      213: -7024102926035654407
+    second: bg_cc_throneroom_tiles_22
+  - first:
+      213: -4966503761438491079
+    second: bg_cc_throneroom_tiles_23
+  - first:
+      213: -892833469296408227
+    second: bg_cc_throneroom_tiles_24
+  - first:
+      213: -5103061469571448116
+    second: bg_cc_throneroom_tiles_25
+  - first:
+      213: -1754573753498275703
+    second: bg_cc_throneroom_tiles_26
+  - first:
+      213: 4983757307452421435
+    second: bg_cc_throneroom_tiles_27
+  - first:
+      213: -8405662274186555803
+    second: bg_cc_throneroom_tiles_28
+  - first:
+      213: -4438342405119273231
+    second: bg_cc_throneroom_tiles_29
+  - first:
+      213: 324598495621094866
+    second: bg_cc_throneroom_tiles_30
+  - first:
+      213: 509825654207903390
+    second: bg_cc_throneroom_tiles_31
+  - first:
+      213: -8336285658224362057
+    second: bg_cc_throneroom_tiles_32
+  - first:
+      213: 8066451205052105445
+    second: bg_cc_throneroom_tiles_33
+  - first:
+      213: -9151835373212716508
+    second: bg_cc_throneroom_tiles_34
+  - first:
+      213: 1680566844871334901
+    second: bg_cc_throneroom_tiles_35
+  - first:
+      213: 4429827574464713253
+    second: bg_cc_throneroom_tiles_36
+  - first:
+      213: 1179155510880600733
+    second: bg_cc_throneroom_tiles_37
+  - first:
+      213: -2906011798860246720
+    second: bg_cc_throneroom_tiles_38
+  - first:
+      213: 5602665392660487327
+    second: bg_cc_throneroom_tiles_39
+  - first:
+      213: 8235411668499212632
+    second: bg_cc_throneroom_tiles_40
+  - first:
+      213: -5405998518253158044
+    second: bg_cc_throneroom_tiles_41
+  - first:
+      213: -7318298922236882286
+    second: bg_cc_throneroom_tiles_42
+  - first:
+      213: -8339725806302508101
+    second: bg_cc_throneroom_tiles_43
+  - first:
+      213: 1234312043562984580
+    second: bg_cc_throneroom_tiles_44
+  - first:
+      213: 8337747009272521048
+    second: bg_cc_throneroom_tiles_45
+  - first:
+      213: 1003178336660255843
+    second: bg_cc_throneroom_tiles_46
+  - first:
+      213: 6668340156462649367
+    second: bg_cc_throneroom_tiles_47
+  - first:
+      213: 3939737040334662780
+    second: bg_cc_throneroom_tiles_48
+  - first:
+      213: -412565880597722436
+    second: bg_cc_throneroom_tiles_49
+  - first:
+      213: -7756264452913130589
+    second: bg_cc_throneroom_tiles_50
+  - first:
+      213: 8432406709865997878
+    second: bg_cc_throneroom_tiles_51
+  - first:
+      213: -2717973338483103265
+    second: bg_cc_throneroom_tiles_52
+  - first:
+      213: 47835873424315958
+    second: bg_cc_throneroom_tiles_53
+  - first:
+      213: -5996230364078996063
+    second: bg_cc_throneroom_tiles_54
+  - first:
+      213: 4038251796915390039
+    second: bg_cc_throneroom_tiles_55
+  - first:
+      213: -3883833306558530695
+    second: bg_cc_throneroom_tiles_56
+  - first:
+      213: -8276492521108393989
+    second: bg_cc_throneroom_tiles_57
+  - first:
+      213: 2053377733167853274
+    second: bg_cc_throneroom_tiles_58
+  - first:
+      213: 6241264745805101489
+    second: bg_cc_throneroom_tiles_59
+  - first:
+      213: -1457025621788708304
+    second: bg_cc_throneroom_tiles_60
+  - first:
+      213: 3151882297328117750
+    second: bg_cc_throneroom_tiles_61
+  - first:
+      213: 243027622368235544
+    second: bg_cc_throneroom_tiles_62
+  - first:
+      213: 2081618420281441459
+    second: bg_cc_throneroom_tiles_63
+  - first:
+      213: 5279389777921689425
+    second: bg_cc_throneroom_tiles_64
+  - first:
+      213: 8154990405019267088
+    second: bg_cc_throneroom_tiles_65
+  - first:
+      213: -6003414040672346765
+    second: bg_cc_throneroom_tiles_66
+  - first:
+      213: 3085337496925533028
+    second: bg_cc_throneroom_tiles_67
+  - first:
+      213: -6313493771351528664
+    second: bg_cc_throneroom_tiles_68
+  - first:
+      213: -5116956377463308719
+    second: bg_cc_throneroom_tiles_69
+  - first:
+      213: -4633264493689979424
+    second: bg_cc_throneroom_tiles_70
+  - first:
+      213: 1808470575044947690
+    second: bg_cc_throneroom_tiles_71
+  - first:
+      213: -971625662405172193
+    second: bg_cc_throneroom_tiles_72
+  - first:
+      213: -5233906350603877975
+    second: bg_cc_throneroom_tiles_73
+  - first:
+      213: 2152817106952641240
+    second: bg_cc_throneroom_tiles_74
+  - first:
+      213: 1709852173606972881
+    second: bg_cc_throneroom_tiles_75
+  - first:
+      213: 2039420569829941094
+    second: bg_cc_throneroom_tiles_76
+  - first:
+      213: 8908461067531825299
+    second: bg_cc_throneroom_tiles_77
+  - first:
+      213: -6353151512871930287
+    second: bg_cc_throneroom_tiles_78
+  - first:
+      213: 8930569197049237941
+    second: bg_cc_throneroom_tiles_79
+  - first:
+      213: -8917149691771708095
+    second: bg_cc_throneroom_tiles_80
+  - first:
+      213: 4232265903651544783
+    second: bg_cc_throneroom_tiles_81
+  - first:
+      213: 2927610981464407533
+    second: bg_cc_throneroom_tiles_82
+  - first:
+      213: 8694648870712660910
+    second: bg_cc_throneroom_tiles_83
+  - first:
+      213: 5358222069600421712
+    second: bg_cc_throneroom_tiles_84
+  - first:
+      213: -6442607492914995093
+    second: bg_cc_throneroom_tiles_85
+  - first:
+      213: 7312098176624409696
+    second: bg_cc_throneroom_tiles_86
+  - first:
+      213: -738551568522008875
+    second: bg_cc_throneroom_tiles_87
+  - first:
+      213: 125050946119198515
+    second: bg_cc_throneroom_tiles_88
+  - first:
+      213: -4741277420109793906
+    second: bg_cc_throneroom_tiles_89
+  - first:
+      213: -3486513278704900425
+    second: bg_cc_throneroom_tiles_90
+  - first:
+      213: -6538171624448054069
+    second: bg_cc_throneroom_tiles_91
+  - first:
+      213: -301133862072324934
+    second: bg_cc_throneroom_tiles_92
+  - first:
+      213: -1715512660399601270
+    second: bg_cc_throneroom_tiles_93
+  - first:
+      213: -5980803572581904121
+    second: bg_cc_throneroom_tiles_94
+  - first:
+      213: 608738977998642260
+    second: bg_cc_throneroom_tiles_95
+  - first:
+      213: -5596303824431730751
+    second: bg_cc_throneroom_tiles_96
+  - first:
+      213: 8900550096590470612
+    second: bg_cc_throneroom_tiles_97
+  - first:
+      213: -8240883693060249519
+    second: bg_cc_throneroom_tiles_98
+  - first:
+      213: 6542227819480049180
+    second: bg_cc_throneroom_tiles_99
+  - first:
+      213: 8008371164491782229
+    second: bg_cc_throneroom_tiles_100
+  - first:
+      213: 2738147259859969550
+    second: bg_cc_throneroom_tiles_101
+  - first:
+      213: 7128357675569315160
+    second: bg_cc_throneroom_tiles_102
+  - first:
+      213: 430464818095449610
+    second: bg_cc_throneroom_tiles_103
+  - first:
+      213: -2186271337779208097
+    second: bg_cc_throneroom_tiles_104
+  - first:
+      213: 6061873311797879030
+    second: bg_cc_throneroom_tiles_105
+  - first:
+      213: 4349693143487969658
+    second: bg_cc_throneroom_tiles_106
+  - first:
+      213: 4738103434819974210
+    second: bg_cc_throneroom_tiles_107
+  - first:
+      213: 3780723447477245280
+    second: bg_cc_throneroom_tiles_108
+  - first:
+      213: 4613165670147714908
+    second: bg_cc_throneroom_tiles_109
+  - first:
+      213: -2807076521829675899
+    second: bg_cc_throneroom_tiles_110
+  - first:
+      213: 3073457471434664981
+    second: bg_cc_throneroom_tiles_111
+  - first:
+      213: 4931920268406569491
+    second: bg_cc_throneroom_tiles_112
+  - first:
+      213: 968100825337483018
+    second: bg_cc_throneroom_tiles_113
+  - first:
+      213: 9179991380467913437
+    second: bg_cc_throneroom_tiles_114
+  - first:
+      213: -4148230770415465122
+    second: bg_cc_throneroom_tiles_115
+  - first:
+      213: 7445317757910501991
+    second: bg_cc_throneroom_tiles_116
+  - first:
+      213: -8366229805947304435
+    second: bg_cc_throneroom_tiles_117
+  - first:
+      213: 419188586141544005
+    second: bg_cc_throneroom_tiles_118
+  - first:
+      213: 1847494149798350257
+    second: bg_cc_throneroom_tiles_119
+  - first:
+      213: -1470099815319486767
+    second: bg_cc_throneroom_tiles_120
+  - first:
+      213: 991610994486333203
+    second: bg_cc_throneroom_tiles_121
+  - first:
+      213: -9025610412004008319
+    second: bg_cc_throneroom_tiles_122
+  - first:
+      213: -1734764726271768657
+    second: bg_cc_throneroom_tiles_123
+  - first:
+      213: 223918335046647650
+    second: bg_cc_throneroom_tiles_124
+  - first:
+      213: 8734742299585809460
+    second: bg_cc_throneroom_tiles_125
+  - first:
+      213: -7931556836583898324
+    second: bg_cc_throneroom_tiles_126
+  - first:
+      213: 2909005514864811218
+    second: bg_cc_throneroom_tiles_127
+  - first:
+      213: 3489769646319704908
+    second: bg_cc_throneroom_tiles_128
+  - first:
+      213: 4306186061414357248
+    second: bg_cc_throneroom_tiles_129
+  - first:
+      213: 1977924470911135743
+    second: bg_cc_throneroom_tiles_130
+  - first:
+      213: 1448050298703921171
+    second: bg_cc_throneroom_tiles_131
+  - first:
+      213: 9209790253906330933
+    second: bg_cc_throneroom_tiles_132
+  - first:
+      213: -6899144151673479562
+    second: bg_cc_throneroom_tiles_133
+  - first:
+      213: -5538609728327566856
+    second: bg_cc_throneroom_tiles_134
+  - first:
+      213: 8064970076988776616
+    second: bg_cc_throneroom_tiles_135
+  - first:
+      213: -4381210538823234930
+    second: bg_cc_throneroom_tiles_136
+  - first:
+      213: -3310216814036692240
+    second: bg_cc_throneroom_tiles_137
+  - first:
+      213: -8403386831976554807
+    second: bg_cc_throneroom_tiles_138
+  - first:
+      213: 8342735044055254000
+    second: bg_cc_throneroom_tiles_139
+  - first:
+      213: -2768049368909551379
+    second: bg_cc_throneroom_tiles_140
+  - first:
+      213: 707194542735573079
+    second: bg_cc_throneroom_tiles_141
+  - first:
+      213: -9002957185544322348
+    second: bg_cc_throneroom_tiles_142
+  - first:
+      213: 841426712377641230
+    second: bg_cc_throneroom_tiles_143
+  - first:
+      213: 5201264904733041398
+    second: bg_cc_throneroom_tiles_144
+  - first:
+      213: -907141388209173511
+    second: bg_cc_throneroom_tiles_145
+  - first:
+      213: 3719771174150541965
+    second: bg_cc_throneroom_tiles_146
+  - first:
+      213: 6823017777314914325
+    second: bg_cc_throneroom_tiles_147
+  - first:
+      213: -2614358401737109091
+    second: bg_cc_throneroom_tiles_148
+  - first:
+      213: -1526616698811203180
+    second: bg_cc_throneroom_tiles_149
+  - first:
+      213: -6999428496921473253
+    second: bg_cc_throneroom_tiles_150
+  - first:
+      213: 8687579300014652763
+    second: bg_cc_throneroom_tiles_151
+  - first:
+      213: 1589171346426612061
+    second: bg_cc_throneroom_tiles_152
+  - first:
+      213: -4693948866286160966
+    second: bg_cc_throneroom_tiles_153
+  - first:
+      213: -5959209837201745669
+    second: bg_cc_throneroom_tiles_154
+  - first:
+      213: 4417791124974038793
+    second: bg_cc_throneroom_tiles_155
+  - first:
+      213: 5223175873419610644
+    second: bg_cc_throneroom_tiles_156
+  - first:
+      213: 7356885746545714487
+    second: bg_cc_throneroom_tiles_157
+  - first:
+      213: 4553534970151222239
+    second: bg_cc_throneroom_tiles_158
+  - first:
+      213: 390400607770140921
+    second: bg_cc_throneroom_tiles_159
+  - first:
+      213: -562509547526441590
+    second: bg_cc_throneroom_tiles_160
+  - first:
+      213: 6215471450031366756
+    second: bg_cc_throneroom_tiles_161
+  - first:
+      213: -192867441718662943
+    second: bg_cc_throneroom_tiles_162
+  - first:
+      213: 335167367297390779
+    second: bg_cc_throneroom_tiles_163
+  - first:
+      213: -5027413466649189993
+    second: bg_cc_throneroom_tiles_164
+  - first:
+      213: -378802297457109701
+    second: bg_cc_throneroom_tiles_165
+  - first:
+      213: 9071769199740613863
+    second: bg_cc_throneroom_tiles_166
+  - first:
+      213: -1462291210860169942
+    second: bg_cc_throneroom_tiles_167
+  - first:
+      213: 579255097889758884
+    second: bg_cc_throneroom_tiles_168
+  - first:
+      213: 3500016358386828111
+    second: bg_cc_throneroom_tiles_169
+  - first:
+      213: 9060514784557323377
+    second: bg_cc_throneroom_tiles_170
+  - first:
+      213: -854558385500490469
+    second: bg_cc_throneroom_tiles_171
+  - first:
+      213: 6972035624734869153
+    second: bg_cc_throneroom_tiles_172
+  - first:
+      213: 6857886805229686013
+    second: bg_cc_throneroom_tiles_173
+  - first:
+      213: -2719813217573701837
+    second: bg_cc_throneroom_tiles_174
+  - first:
+      213: 8396133667733556585
+    second: bg_cc_throneroom_tiles_175
+  - first:
+      213: 8749508955878208570
+    second: bg_cc_throneroom_tiles_176
+  - first:
+      213: -585098241298978715
+    second: bg_cc_throneroom_tiles_177
+  - first:
+      213: 6848580607308494732
+    second: bg_cc_throneroom_tiles_178
+  - first:
+      213: 2968178711671521852
+    second: bg_cc_throneroom_tiles_179
+  - first:
+      213: -5420906034317235862
+    second: bg_cc_throneroom_tiles_180
+  - first:
+      213: -1446505681664130630
+    second: bg_cc_throneroom_tiles_181
+  - first:
+      213: 7917590438194628345
+    second: bg_cc_throneroom_tiles_182
+  - first:
+      213: -8263887116498959028
+    second: bg_cc_throneroom_tiles_183
+  - first:
+      213: 5091417405511161085
+    second: bg_cc_throneroom_tiles_184
+  - first:
+      213: 2349830271365788664
+    second: bg_cc_throneroom_tiles_185
+  - first:
+      213: 7195663376309309379
+    second: bg_cc_throneroom_tiles_186
+  - first:
+      213: -3546405441940849597
+    second: bg_cc_throneroom_tiles_187
+  - first:
+      213: 3874198108383597889
+    second: bg_cc_throneroom_tiles_188
+  - first:
+      213: -6582824905475273139
+    second: bg_cc_throneroom_tiles_189
+  - first:
+      213: -882775259722766207
+    second: bg_cc_throneroom_tiles_190
+  - first:
+      213: -1594361721969405834
+    second: bg_cc_throneroom_tiles_191
+  - first:
+      213: -5085144349645667429
+    second: bg_cc_throneroom_tiles_192
+  - first:
+      213: -2721107226543737458
+    second: bg_cc_throneroom_tiles_193
+  - first:
+      213: 7619027516481049883
+    second: bg_cc_throneroom_tiles_194
+  - first:
+      213: 234883980824504480
+    second: bg_cc_throneroom_tiles_195
+  - first:
+      213: -2622149998189633049
+    second: bg_cc_throneroom_tiles_196
+  - first:
+      213: 6521099309611749199
+    second: bg_cc_throneroom_tiles_197
+  - first:
+      213: 8716140530942683521
+    second: bg_cc_throneroom_tiles_198
+  - first:
+      213: 1171331136891091724
+    second: bg_cc_throneroom_tiles_199
+  - first:
+      213: 1246226885645050227
+    second: bg_cc_throneroom_tiles_200
+  - first:
+      213: -1009411213004675904
+    second: bg_cc_throneroom_tiles_201
+  - first:
+      213: -3772928720308008208
+    second: bg_cc_throneroom_tiles_202
+  - first:
+      213: -6259315393051217997
+    second: bg_cc_throneroom_tiles_203
+  - first:
+      213: 2065285642076832529
+    second: bg_cc_throneroom_tiles_204
+  - first:
+      213: 4335402146710734051
+    second: bg_cc_throneroom_tiles_205
+  - first:
+      213: 6397836933093374846
+    second: bg_cc_throneroom_tiles_206
+  - first:
+      213: 1633148468472934867
+    second: bg_cc_throneroom_tiles_207
+  - first:
+      213: 1916301651893437613
+    second: bg_cc_throneroom_tiles_208
+  - first:
+      213: 4154567716896294058
+    second: bg_cc_throneroom_tiles_209
+  - first:
+      213: 7494017444697715802
+    second: bg_cc_throneroom_tiles_210
+  - first:
+      213: -4803907673997738942
+    second: bg_cc_throneroom_tiles_211
+  - first:
+      213: 880834985724339088
+    second: bg_cc_throneroom_tiles_212
+  - first:
+      213: 203238569052629878
+    second: bg_cc_throneroom_tiles_213
+  - first:
+      213: -4417127390224563252
+    second: bg_cc_throneroom_tiles_214
+  - first:
+      213: -4286684237882178872
+    second: bg_cc_throneroom_tiles_215
+  - first:
+      213: 4461328076557271491
+    second: bg_cc_throneroom_tiles_216
+  - first:
+      213: 1184007921880381902
+    second: bg_cc_throneroom_tiles_217
+  - first:
+      213: 8010159896316736429
+    second: bg_cc_throneroom_tiles_218
+  - first:
+      213: -3636701972134057415
+    second: bg_cc_throneroom_tiles_219
+  - first:
+      213: -6453394874019639578
+    second: bg_cc_throneroom_tiles_220
+  - first:
+      213: 8958103472443764390
+    second: bg_cc_throneroom_tiles_221
+  - first:
+      213: 582449309547700953
+    second: bg_cc_throneroom_tiles_222
+  - first:
+      213: 2319209642626007067
+    second: bg_cc_throneroom_tiles_223
+  - first:
+      213: 6059457977990642230
+    second: bg_cc_throneroom_tiles_224
+  - first:
+      213: -4939890204682501166
+    second: bg_cc_throneroom_tiles_225
+  - first:
+      213: -1351698922544014822
+    second: bg_cc_throneroom_tiles_226
+  - first:
+      213: -364457387804552103
+    second: bg_cc_throneroom_tiles_227
+  - first:
+      213: -6172855266958377416
+    second: bg_cc_throneroom_tiles_228
+  - first:
+      213: -723026360317876878
+    second: bg_cc_throneroom_tiles_229
+  - first:
+      213: -2789700138886758397
+    second: bg_cc_throneroom_tiles_230
+  - first:
+      213: 1964099656796172451
+    second: bg_cc_throneroom_tiles_231
+  - first:
+      213: 3163431884558714040
+    second: bg_cc_throneroom_tiles_232
+  - first:
+      213: -8072660773372716816
+    second: bg_cc_throneroom_tiles_233
+  - first:
+      213: -3464438027576670705
+    second: bg_cc_throneroom_tiles_234
+  - first:
+      213: -2623545406619817139
+    second: bg_cc_throneroom_tiles_235
+  - first:
+      213: 5275339269403795106
+    second: bg_cc_throneroom_tiles_236
+  - first:
+      213: -9028636216161374643
+    second: bg_cc_throneroom_tiles_237
+  - first:
+      213: 7383913513979475808
+    second: bg_cc_throneroom_tiles_238
+  - first:
+      213: 8842301643126005177
+    second: bg_cc_throneroom_tiles_239
+  - first:
+      213: 1969486279447443749
+    second: bg_cc_throneroom_tiles_240
+  - first:
+      213: -8211553445778659541
+    second: bg_cc_throneroom_tiles_241
+  - first:
+      213: -2490008429102798636
+    second: bg_cc_throneroom_tiles_242
+  - first:
+      213: 1666396418610615695
+    second: bg_cc_throneroom_tiles_243
+  - first:
+      213: -1445366168707833392
+    second: bg_cc_throneroom_tiles_244
+  - first:
+      213: -5848064397980071606
+    second: bg_cc_throneroom_tiles_245
+  - first:
+      213: -6539018783502221776
+    second: bg_cc_throneroom_tiles_246
+  - first:
+      213: -7654365594037289131
+    second: bg_cc_throneroom_tiles_247
+  - first:
+      213: -3204156078279500950
+    second: bg_cc_throneroom_tiles_248
+  - first:
+      213: 7999780604389412735
+    second: bg_cc_throneroom_tiles_249
+  - first:
+      213: 4628757603722255315
+    second: bg_cc_throneroom_tiles_250
+  - first:
+      213: -6840785098656454052
+    second: bg_cc_throneroom_tiles_251
+  - first:
+      213: -187789234130799124
+    second: bg_cc_throneroom_tiles_252
+  - first:
+      213: 7569249443396346567
+    second: bg_cc_throneroom_tiles_253
+  - first:
+      213: -7843950863314058518
+    second: bg_cc_throneroom_tiles_254
+  - first:
+      213: 2874406395391305090
+    second: bg_cc_throneroom_tiles_255
+  - first:
+      213: 408415125166123175
+    second: bg_cc_throneroom_tiles_256
+  - first:
+      213: 8770714067636253681
+    second: bg_cc_throneroom_tiles_257
+  - first:
+      213: 6868789988078414604
+    second: bg_cc_throneroom_tiles_258
+  - first:
+      213: -3998833320633315074
+    second: bg_cc_throneroom_tiles_259
+  - first:
+      213: 2192537597702646849
+    second: bg_cc_throneroom_tiles_260
+  - first:
+      213: 1337307235492114944
+    second: bg_cc_throneroom_tiles_261
+  - first:
+      213: -3793165521288521973
+    second: bg_cc_throneroom_tiles_262
+  - first:
+      213: -8911420342108922792
+    second: bg_cc_throneroom_tiles_263
+  - first:
+      213: 5214081484089278662
+    second: bg_cc_throneroom_tiles_264
+  - first:
+      213: 509479151186245731
+    second: bg_cc_throneroom_tiles_265
+  - first:
+      213: -412324875634415695
+    second: bg_cc_throneroom_tiles_266
+  - first:
+      213: -8864974981742109133
+    second: bg_cc_throneroom_tiles_267
+  - first:
+      213: -2907635125217432465
+    second: bg_cc_throneroom_tiles_268
+  - first:
+      213: 2667561598491784460
+    second: bg_cc_throneroom_tiles_269
+  - first:
+      213: -8151607329835391788
+    second: bg_cc_throneroom_tiles_270
+  - first:
+      213: -2516875038853887832
+    second: bg_cc_throneroom_tiles_271
+  - first:
+      213: 4520540496064553890
+    second: bg_cc_throneroom_tiles_272
+  - first:
+      213: 4162066675440983787
+    second: bg_cc_throneroom_tiles_273
+  - first:
+      213: -6605402714483856182
+    second: bg_cc_throneroom_tiles_274
+  - first:
+      213: 5927009453243639829
+    second: bg_cc_throneroom_tiles_275
+  - first:
+      213: -8796379281489986613
+    second: bg_cc_throneroom_tiles_276
+  - first:
+      213: 1916713988831398771
+    second: bg_cc_throneroom_tiles_277
+  - first:
+      213: 3440464163370057426
+    second: bg_cc_throneroom_tiles_278
+  - first:
+      213: 8549192340989112405
+    second: bg_cc_throneroom_tiles_279
+  - first:
+      213: 8604192603758533489
+    second: bg_cc_throneroom_tiles_280
+  - first:
+      213: 4493057534396444095
+    second: bg_cc_throneroom_tiles_281
+  - first:
+      213: 8990607098651849807
+    second: bg_cc_throneroom_tiles_282
+  - first:
+      213: 1608856288534642741
+    second: bg_cc_throneroom_tiles_283
+  - first:
+      213: 8386909575492444878
+    second: bg_cc_throneroom_tiles_284
+  - first:
+      213: -6890246772376118553
+    second: bg_cc_throneroom_tiles_285
+  - first:
+      213: 45317251232163555
+    second: bg_cc_throneroom_tiles_286
+  - first:
+      213: -4171862391630158296
+    second: bg_cc_throneroom_tiles_287
+  - first:
+      213: -217215617960384413
+    second: bg_cc_throneroom_tiles_288
+  - first:
+      213: -1768577996013832110
+    second: bg_cc_throneroom_tiles_289
+  - first:
+      213: -1078322889382076143
+    second: bg_cc_throneroom_tiles_290
+  - first:
+      213: -4264129328438972769
+    second: bg_cc_throneroom_tiles_291
+  - first:
+      213: 5042337339968579957
+    second: bg_cc_throneroom_tiles_292
+  - first:
+      213: -6191279627583439355
+    second: bg_cc_throneroom_tiles_293
+  - first:
+      213: 5710921857712490614
+    second: bg_cc_throneroom_tiles_294
+  - first:
+      213: 4892773035083276470
+    second: bg_cc_throneroom_tiles_295
+  - first:
+      213: 1882617739136081653
+    second: bg_cc_throneroom_tiles_296
+  - first:
+      213: -8798673797350164552
+    second: bg_cc_throneroom_tiles_297
+  - first:
+      213: -4118103810180881169
+    second: bg_cc_throneroom_tiles_298
+  - first:
+      213: -6536010114883222048
+    second: bg_cc_throneroom_tiles_299
+  - first:
+      213: -3248583680482267122
+    second: bg_cc_throneroom_tiles_300
+  - first:
+      213: -1052315870841870043
+    second: bg_cc_throneroom_tiles_301
+  - first:
+      213: -5516906732704785189
+    second: bg_cc_throneroom_tiles_302
+  - first:
+      213: -3103216056896032411
+    second: bg_cc_throneroom_tiles_303
+  - first:
+      213: -7965828701644312234
+    second: bg_cc_throneroom_tiles_304
+  - first:
+      213: 4616845900929753475
+    second: bg_cc_throneroom_tiles_305
+  - first:
+      213: 8639297290798317269
+    second: bg_cc_throneroom_tiles_306
+  - first:
+      213: -3438846421569788494
+    second: bg_cc_throneroom_tiles_307
+  - first:
+      213: -245450163743340992
+    second: bg_cc_throneroom_tiles_308
+  - first:
+      213: -2479761638486318180
+    second: bg_cc_throneroom_tiles_309
+  - first:
+      213: -7480991086593279383
+    second: bg_cc_throneroom_tiles_310
+  - first:
+      213: 4199124516268415727
+    second: bg_cc_throneroom_tiles_311
+  - first:
+      213: -2297976437198245245
+    second: bg_cc_throneroom_tiles_312
+  - first:
+      213: -4871816321620295714
+    second: bg_cc_throneroom_tiles_313
+  - first:
+      213: 5741086428454692610
+    second: bg_cc_throneroom_tiles_314
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6bfacd30136f4fbc2a9f8f0a02266
+      internalID: -4915410714383146579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217651ae238bac478ec238204d665bf
+      internalID: -5312443267707947951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5418c824c872684e8c7630a4e85a042
+      internalID: -8573803083711648789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7eca48c0540d849b8b17649217859a
+      internalID: 3544310712782184651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863a0e43cb1497448490cb3528e46b3
+      internalID: 332151675050172179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d091e34c64c35ee4d9776991700b4d62
+      internalID: -6692627376111407938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf81acbe6d7924bb02f268f3dcc2c5
+      internalID: 4476606603145890846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2b83c0a9de834e91c57729249e74d
+      internalID: 1458342713623955169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3651c16131094ea148fffc6dd2257
+      internalID: -4005239713086540214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79e49faa1945442a4ce6e69530f399
+      internalID: 3628561299075513130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f392016e5d954e9e03582711e456a
+      internalID: 9051065119916430168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4243786218f8124fbd0bbca4db8ed5d
+      internalID: -3538258590473045822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4109a3fb31fb4aba03b2547fe8783
+      internalID: -7867850122048649045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a56850dbc01547a87b3dd6501b037
+      internalID: 707274006470879007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ce62405765e3439497cca8eba4a58
+      internalID: 4594292493200077574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0bf5855a7f314188d4f8a349b523f
+      internalID: 2193259607081690289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9aadc232db0024091fe7f2d58f23c8
+      internalID: -3193932918342327057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b4f1dbbc582d418a4cac8b35ba13f
+      internalID: -5270265175454344795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736025225e5ba946a52647e847f95cb
+      internalID: -8069217381560588588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb73eb816a2da704d80071942dfe6559
+      internalID: -7818613282815009912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6eda6f0c655244690a633561dff4b2
+      internalID: -7049187708889001652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80005a3acbc458949a0630fa2201da72
+      internalID: -7070380969388142334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cffed7ffaad3d47acc21425427d2bc
+      internalID: -7024102926035654407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041eee9578ce734c897b2d79d2125be
+      internalID: -4966503761438491079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843da1af3d976fe4a870f34b704df54b
+      internalID: -892833469296408227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed742979fe741147b7b334281e5e6eb
+      internalID: -5103061469571448116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03fdabedb61b64f8f207b9fabef810
+      internalID: -1754573753498275703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99ed6a48cd95b41913515d9f5c7851
+      internalID: 4983757307452421435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876bebac89c4373499949bca7e92ad77
+      internalID: -8405662274186555803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01610f8bc66a5224285b79f4d02c9b50
+      internalID: -4438342405119273231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad308259f3398144387ccd37d24bdfdc
+      internalID: 324598495621094866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06651eb98ebe3247a65836b8cb7b2b5
+      internalID: 509825654207903390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56046c8f1e95f14d8d4787e35835160
+      internalID: -8336285658224362057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06d2c147a390649a656e3aa991ac4f
+      internalID: 8066451205052105445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c790abae4f2405c4a81c7690676f3586
+      internalID: -9151835373212716508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97d2d4ef072514694934ff534bcde8
+      internalID: 1680566844871334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538964fec446bd64cbf30acc6a2efff0
+      internalID: 4429827574464713253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071663a57e8a024f8715774bdfd2e42
+      internalID: 1179155510880600733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed6af9ab2fc434cafce26adcc35bd8
+      internalID: -2906011798860246720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003587889a973d418856b01d8d5117f
+      internalID: 5602665392660487327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da838ebc772a5f84090118accdfac842
+      internalID: 8235411668499212632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e81631ba862cd4985d684751bb94c5
+      internalID: -5405998518253158044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac8f0069a3007499ea716de5a2ab7d
+      internalID: -7318298922236882286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4095a390e3ad354b8906925b5977c9e
+      internalID: -8339725806302508101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d0e0742a8656408612bb8b6e826dc
+      internalID: 1234312043562984580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519410319ad20ac4eb5f50956157dc45
+      internalID: 8337747009272521048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3602e04931de67c4d8a4f5c96a92ec70
+      internalID: 1003178336660255843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7293d3269d7874691350c908ebda4c
+      internalID: 6668340156462649367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f9448b9646a748b724bdcdeac1a01
+      internalID: 3939737040334662780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecba7fb5206b114b912825c4c36b5e3
+      internalID: -412565880597722436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4298ffdd7ed51684ebf3b2d4cd94291f
+      internalID: -7756264452913130589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e668d85b4408254e81ff2099f2055e7
+      internalID: 8432406709865997878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d7feee6067a348ba0beebd51b98f4
+      internalID: -2717973338483103265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e68cd953aa547349ab51229c823c54a
+      internalID: 47835873424315958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a34611fe517c5a4c9f2ed1dad147f1e
+      internalID: -5996230364078996063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8a1ebbf4793640988b5b545cd927f
+      internalID: 4038251796915390039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec154ee5861e2498edf5437d64db3b
+      internalID: -3883833306558530695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f80e066c1d964892b52b633704d80
+      internalID: -8276492521108393989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c3e3ceffedf746a07539ff7337371
+      internalID: 2053377733167853274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4283568328c0fdf4d8e172ebcd832a12
+      internalID: 6241264745805101489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112a0126014a6b4890434177ef38436
+      internalID: -1457025621788708304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a6f37f1e5fbe4a91b9d2aa780d811
+      internalID: 3151882297328117750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918bd8332a80baa42979c9fb48fd032e
+      internalID: 243027622368235544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cb9bfb9c22d24da1d2a53aab8f5d4
+      internalID: 2081618420281441459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48abc7d30ab99904088abe8fc57339cf
+      internalID: 5279389777921689425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd72a68f0d4d0645a9584d0be2afd81
+      internalID: 8154990405019267088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c03f76178d73d419c2c206c75abca9
+      internalID: -6003414040672346765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d9b9649a1bf549becadb90403c234
+      internalID: 3085337496925533028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2687e59e51737948bb6612d2dd8e6af
+      internalID: -6313493771351528664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f01dc9d3301b4da0aa0524934d9f9
+      internalID: -5116956377463308719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80814507e44838b40ad24c68aec3e5f9
+      internalID: -4633264493689979424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3f679709cbe94fb788c53c726f8e9
+      internalID: 1808470575044947690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862db0fbd3dd6f242b779df109e7e768
+      internalID: -971625662405172193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ed14d5dd3312b4d9c1cd7b8970ced9
+      internalID: -5233906350603877975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5529061545c9744bb8031e7cbfe9a0d
+      internalID: 2152817106952641240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51722de3d99e258458c2e44373786057
+      internalID: 1709852173606972881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32aeda5ac7c17d4a87c27d75c8ac5b5
+      internalID: 2039420569829941094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e2149c448e3d44a2236755c7e8e30
+      internalID: 8908461067531825299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dcc97fee774774cb65d12c05676e45
+      internalID: -6353151512871930287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7034b80fd58084ea88a37ce2327edc
+      internalID: 8930569197049237941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96242f561fbbf424aad2cf9279d32d9c
+      internalID: -8917149691771708095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96055ff98f908147b41ec5e5f6763bd
+      internalID: 4232265903651544783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d65e81553cd04eb45a53346418885
+      internalID: 2927610981464407533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da583f0951f717546807767cc6c83a4e
+      internalID: 8694648870712660910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f6bcaf91e17f43b8811aed0a597bf
+      internalID: 5358222069600421712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923f9d1a238fd84582c603d31682ab0
+      internalID: -6442607492914995093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8537f22e3cc267419eed2e9c82cdced
+      internalID: 7312098176624409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c0a80853cd5274a9aa1274663a1f65
+      internalID: -738551568522008875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0971536b8be933543a6b93dc19d567a0
+      internalID: 125050946119198515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3113789647564714eb7b216ec2fa50dd
+      internalID: -4741277420109793906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2f9404635a9349a1a50c29f963b91
+      internalID: -3486513278704900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529dec72d0530504892050eb22272a44
+      internalID: -6538171624448054069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97800ae3300efd9498f8b5d5ed08f525
+      internalID: -301133862072324934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2757a23c38ea47ad90bbfc688259d
+      internalID: -1715512660399601270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f032d3c2ec514847bd43b12338a18ec
+      internalID: -5980803572581904121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dfc6c51b32a824299124f916606142
+      internalID: 608738977998642260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d9eeca2f659243a343af0e27abf44
+      internalID: -5596303824431730751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b5f63325440946b0630ecad470b20
+      internalID: 8900550096590470612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad520cbf88addd74bb18196c43ca1bd9
+      internalID: -8240883693060249519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ac3e890d881342935df129dec3145
+      internalID: 6542227819480049180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ca1d454f0205468948215504b38ac
+      internalID: 8008371164491782229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4977153a3c4d49498f4f7686f3a80da
+      internalID: 2738147259859969550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7afd1dd43ceddd4a8955c7537ea9813
+      internalID: 7128357675569315160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d41c4d4901cea4e9cf478f52324117
+      internalID: 430464818095449610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a154a17fcbb344a53625ccff0f34d
+      internalID: -2186271337779208097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906335ca1d1f804f8ea16d51bab5333
+      internalID: 6061873311797879030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9368c4c53192946804a7a74f3594d1
+      internalID: 4349693143487969658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc742bfba60b5e40b967cba0cc05c9b
+      internalID: 4738103434819974210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb25b383e743741abaf2e056ccbcab
+      internalID: 3780723447477245280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a7278651fe0f4a9b754ea2679d588
+      internalID: 4613165670147714908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022526d472b18e438fea115994c37db
+      internalID: -2807076521829675899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85082994c432aaa4f8a765aba3d6c46f
+      internalID: 3073457471434664981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798521e72c06e834fbcdbb60260fcb6c
+      internalID: 4931920268406569491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b790b944e4ba64c9000324dac3b974
+      internalID: 968100825337483018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac86fe0aacf7242b0bdfa32ce873b5
+      internalID: 9179991380467913437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff733faa8899e468796e00bd18b478
+      internalID: -4148230770415465122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd209385f8875a4aaf8288577e4ae64
+      internalID: 7445317757910501991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082b382cb071514c904888b3572b5ea
+      internalID: -8366229805947304435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a36d4b63e91494bbfb5e0d59bb2980
+      internalID: 419188586141544005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9b98dc3df31948a6026a10e6a1113
+      internalID: 1847494149798350257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b25165dbec1ea4381176dbe1330b3b
+      internalID: -1470099815319486767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ce8d99a04921489a487ec20a97c42
+      internalID: 991610994486333203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982c8f9474058c4aa6f2262bb0929c5
+      internalID: -9025610412004008319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cf3a0a84c2fb409861b628e6fcce5
+      internalID: -1734764726271768657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a02d50bf8e814fa4e8a30ed1d609d
+      internalID: 223918335046647650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb3d72dd202f845a43e3ce88516cd1
+      internalID: 8734742299585809460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ca92b56c161148bc9d4c151efce13
+      internalID: -7931556836583898324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6de36366ec5a499d7186a6dcdc536
+      internalID: 2909005514864811218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df813d5f2c2b64e4484d458a10dcf99c
+      internalID: 3489769646319704908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce41010df3d3a47a1ed1ffe11a780d
+      internalID: 4306186061414357248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5244ba4c77d6f48975e1df03c1f2ef
+      internalID: 1977924470911135743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06aebe5a6c44b24a9451b512d99955b
+      internalID: 1448050298703921171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3725c7a12e5f54f8f5a297b12383ef
+      internalID: 9209790253906330933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1667080775bcd44c848d3a52c820b65
+      internalID: -6899144151673479562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1018bffea3f647af66f819f15150a
+      internalID: -5538609728327566856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113828fa8f0c264ebf0367538dbdf36
+      internalID: 8064970076988776616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32644348b62243e4281dc3f5eb921699
+      internalID: -4381210538823234930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780389f5df2631b479f226d3606053ed
+      internalID: -3310216814036692240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1172bf79c09f9ad49b30eea4c0534cc8
+      internalID: -8403386831976554807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503206d57f0e78c4c94454b296754712
+      internalID: 8342735044055254000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d089c657b7d8d784da90140f93a2ef28
+      internalID: -2768049368909551379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b4e06c9f4c324a979db4810e18003
+      internalID: 707194542735573079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abef4b029ba5014fbdafa0d5ed29808
+      internalID: -9002957185544322348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2430ac8d1d5faf419539e0c00d340c6
+      internalID: 841426712377641230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c41ac041a710649bc7a2a1e1b43004
+      internalID: 5201264904733041398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b8a9fa41e40e49ad16ced7471bacf
+      internalID: -907141388209173511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479918d45927d2438b3366d56423ce1
+      internalID: 3719771174150541965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e868b0969877c46ba3b832c3ea056d
+      internalID: 6823017777314914325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38589cd0863a8f546aa9ebeb1eb3c043
+      internalID: -2614358401737109091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c102c2779d99041a02fb1f0567e4d5
+      internalID: -1526616698811203180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64692612fc23e5745b3fb4b12cab8f77
+      internalID: -6999428496921473253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbefbe5fc1e45784c8c1f09e530b901e
+      internalID: 8687579300014652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e7e70829c9714db3fca8e12c51483
+      internalID: 1589171346426612061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e67bfe060296c4a9d506135297d2ce
+      internalID: -4693948866286160966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c6aa534ba86442b928f188ad22364
+      internalID: -5959209837201745669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2cd2ea436925442a6fe86d946dcdf1
+      internalID: 4417791124974038793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b713da79a0959f41a8cd25fedd179cf
+      internalID: 5223175873419610644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aad62583c108f488f38e75d69065b7
+      internalID: 7356885746545714487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6333434243db0498491a481734985f
+      internalID: 4553534970151222239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a8869c6d61d343aa01fa2b41318a2
+      internalID: 390400607770140921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b284a57641fc418193e450e3ac673
+      internalID: -562509547526441590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f04b980720cb489970ec9ea045033
+      internalID: 6215471450031366756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffed4e93cc4c524fbdbe5a84d365b93
+      internalID: -192867441718662943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5784162bfd764443a949627a3d730ec
+      internalID: 335167367297390779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b909679442ae41ae813cade686c20
+      internalID: -5027413466649189993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_165
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044216d6e90739745953a94ccbdbd6b4
+      internalID: -378802297457109701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_166
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee934254f6335941825b13cceb216ae
+      internalID: 9071769199740613863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001cb941c587e1f4fabeeecccf849eee
+      internalID: -1462291210860169942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_168
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8444b0b48347468af9cc0892031c1
+      internalID: 579255097889758884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_169
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6872bb717bd526438ac83663157cb7a
+      internalID: 3500016358386828111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_170
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c003cda2a8e6e4cbbeccad3a30590f
+      internalID: 9060514784557323377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6938a0e425519a47a56f49b8db8562a
+      internalID: -854558385500490469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0120efaa765445b0f7b56f4eb5802
+      internalID: 6972035624734869153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_173
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2744871b4b635449d54cda7f5ab79c
+      internalID: 6857886805229686013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_174
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7b81952d351845a5e5304851868a0
+      internalID: -2719813217573701837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4c44a71e4d3a4f92138acaab24f35
+      internalID: 8396133667733556585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a5a482f1c669249afe50ec2c7fbb6a
+      internalID: 8749508955878208570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0752d24b41c3adf4db57b414515e273f
+      internalID: -585098241298978715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_178
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a22f09fa9cb734b907a8af32f6d3c0
+      internalID: 6848580607308494732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06c959bbfcbc00499e7ae77935d1c4c
+      internalID: 2968178711671521852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_180
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ad33a66968ee4bb900b8814dfb3f2
+      internalID: -5420906034317235862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_181
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9699775c126a04b9fccc8ee23aae6b
+      internalID: -1446505681664130630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_182
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe5ec9b15af0f4897558995268ff35
+      internalID: 7917590438194628345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3430e28736680194babf9d6eb0ec1447
+      internalID: -8263887116498959028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8409f20bf4330e4e9fb5df364bd3e46
+      internalID: 5091417405511161085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_185
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e30e1b3d5b46241865397790626395
+      internalID: 2349830271365788664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_186
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d8b90c5ccd144bb8a0f4ece959dde
+      internalID: 7195663376309309379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb83ba9495f6246bdaafaf12076989
+      internalID: -3546405441940849597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_188
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1535db03514cb4db99dc3765f37c72
+      internalID: 3874198108383597889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a348eb23c7a040a938f17b929ae57
+      internalID: -6582824905475273139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_190
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081b7a3309439a488c9d2718e18b7d6
+      internalID: -882775259722766207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84fa38e05a24d74ea36f6c4a0c7e345
+      internalID: -1594361721969405834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_192
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3ccc6fcffc4f4da541a64c1f92071
+      internalID: -5085144349645667429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_193
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef67d2945be0b94987d000fdcd32e97
+      internalID: -2721107226543737458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_194
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad29c5f1a63a745a83a0c539031a3b
+      internalID: 7619027516481049883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce53a7ecc62aa14eb5c4c6f5b909c51
+      internalID: 234883980824504480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5ffb2c30f64b4eb456466dddfc9de
+      internalID: -2622149998189633049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_197
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e609015fc0883e42bc8efd2b043dd38
+      internalID: 6521099309611749199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_198
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa41b1dbc4136740893e607b74843f4
+      internalID: 8716140530942683521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_199
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef78b09b19c9b04da696155f2a75d41
+      internalID: 1171331136891091724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_200
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8e41cb6f1a714fa30342265d73c59
+      internalID: 1246226885645050227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_201
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f821fc4664848b46b322ae1ff8941a0
+      internalID: -1009411213004675904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_202
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820249cc0b2493a4b95703bf7174799c
+      internalID: -3772928720308008208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f02976906cc340b0590471565b8d2
+      internalID: -6259315393051217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_204
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117b75b6895d16a428f691d81a2ad8b6
+      internalID: 2065285642076832529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132da909c9383114db5a6a2f01be853e
+      internalID: 4335402146710734051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_206
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b442b9e9dd9143a76b53261f49a34
+      internalID: 6397836933093374846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca5d63be650c14488027dd943a6613
+      internalID: 1633148468472934867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_208
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1f62c0c32b5b46be28e5e7be4d704
+      internalID: 1916301651893437613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_209
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41608fa6abc146438b6ef256a7850e5
+      internalID: 4154567716896294058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_210
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c069f48800a0f34a844a0f2d2fe41b9
+      internalID: 7494017444697715802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_211
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a02e71b1a0ec4aa2e2baa735c49f4
+      internalID: -4803907673997738942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_212
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1554faee3f074db25786cf91cf19a
+      internalID: 880834985724339088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a00d4841d28d647a2e0036c2a04a7e
+      internalID: 203238569052629878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_214
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66afd2ad2863484d9c23206407c41b0
+      internalID: -4417127390224563252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da016b7090c3be549a3a0d0c6a8308d8
+      internalID: -4286684237882178872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_216
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61b77a481a77a49a84b44887f458b1
+      internalID: 4461328076557271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_217
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab697ab0c000ed4fb81e45d5af2d1b8
+      internalID: 1184007921880381902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_218
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baaebb00158b924795623d4e1d5226c
+      internalID: 8010159896316736429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92508461b54008e4caee18a0ee898e65
+      internalID: -3636701972134057415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_220
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf56c6961778b24fa060f0493121cd3
+      internalID: -6453394874019639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_221
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b499bb4ed7a2048af202207a12f704
+      internalID: 8958103472443764390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_222
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735a8b18d467c04d9937110ba7ae79f
+      internalID: 582449309547700953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961930a86e75ac047b0a3c4f4d7dfcb3
+      internalID: 2319209642626007067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_224
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c217ff4722ef245ba7ffcf924c6e29
+      internalID: 6059457977990642230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_225
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260738304c9b9746aadc3d59a529132
+      internalID: -4939890204682501166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_226
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed47868a9a08f4d9d84772041a5125
+      internalID: -1351698922544014822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66702ab15f2fe004298a93c7cbba94cd
+      internalID: -364457387804552103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_228
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ccb03b6c954b4d84fc8d6d215ead3
+      internalID: -6172855266958377416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_229
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab85a5fed5df12c42969995e02ea08c1
+      internalID: -723026360317876878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_230
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ddcb24edff81499edb896fd1cae2d
+      internalID: -2789700138886758397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9983b59ea0394d9395bdb3a00eb97
+      internalID: 1964099656796172451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_232
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c073d228f70540a751731068e42ca
+      internalID: 3163431884558714040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_233
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e55868488a6134da694c6354a6943b
+      internalID: -8072660773372716816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_234
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf7fba7d8ca8d4086d1f7e67e1f4ec
+      internalID: -3464438027576670705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24141397fd018f04f9e58f0e298d76d0
+      internalID: -2623545406619817139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_236
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729cf1fe758aa5346b81492cd1290dda
+      internalID: 5275339269403795106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_237
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ec2a81a79e284689f6d11b44d3f82
+      internalID: -9028636216161374643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_238
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfb7bb83d0d524a829064f025cf45b
+      internalID: 7383913513979475808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31863012e0c43e438f9bd7d659ff83a
+      internalID: 8842301643126005177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_240
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80434a4fa018eb4786f7adf2651f8e5
+      internalID: 1969486279447443749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_241
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0bfebcc282974e9ce3e04a530c6cf
+      internalID: -8211553445778659541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_242
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d43cf739ee5114a8c4b80afdf3eac6
+      internalID: -2490008429102798636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273dbc4d8c1c5904c9dfe9d97de20e9d
+      internalID: 1666396418610615695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_244
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c6a721f9a8194fbb2d72206d915c8
+      internalID: -1445366168707833392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_245
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22836ecce3fa2348aa77b8c6a4cd096
+      internalID: -5848064397980071606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_246
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ccf5d9b4a1e2f4990691ddf7f5ec2b
+      internalID: -6539018783502221776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_247
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8076fefd82be347a5b22e84620d427
+      internalID: -7654365594037289131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_248
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d021f2e44683d246b2dd0648ca8a42d
+      internalID: -3204156078279500950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_249
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a357f5f2ac13c4dbb029d48c154704
+      internalID: 7999780604389412735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_250
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd0bb3d8d823b3428b7c9f33797b205
+      internalID: 4628757603722255315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_251
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c28d19ec5ad44f99dbc10c1574703
+      internalID: -6840785098656454052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_252
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef697848b7e5ea44a5aae7e214115bd
+      internalID: -187789234130799124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_253
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1161bce785edc40b2d6f1c4ffb98bc
+      internalID: 7569249443396346567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_254
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc595b96ad30502438f8abea4967fafa
+      internalID: -7843950863314058518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812109f5e6db50944bb81e997f0658d9
+      internalID: 2874406395391305090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_256
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ce6b2295717344a969cc56502e978
+      internalID: 408415125166123175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_257
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad4b1b25568b54e8081cf086804d7b
+      internalID: 8770714067636253681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_258
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae44846e7780345b62eb9fdecda72f
+      internalID: 6868789988078414604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_259
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2718293df7d61443b4854634d5395ea
+      internalID: -3998833320633315074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_260
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36e36c68301f24cb7b137d98b65448
+      internalID: 2192537597702646849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_261
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043209165d2e7f74ebc0706d68a0aa0e
+      internalID: 1337307235492114944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_262
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fba76b5c42b0241bb923a68dff7510
+      internalID: -3793165521288521973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_263
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77c62f3689739468bae1819085a4e3
+      internalID: -8911420342108922792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_264
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6129ba94a2bae24fb7c3a85974c3a16
+      internalID: 5214081484089278662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_265
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd48244f101600478994f57abc72bb3
+      internalID: 509479151186245731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_266
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1c24f2d9fe7143b4ac14c85b5ef31
+      internalID: -412324875634415695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6f9a7b6cca744a85a77517211c371
+      internalID: -8864974981742109133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_268
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47332112db3ecc3448d88449ec72408f
+      internalID: -2907635125217432465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_269
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b128b191b68e24aba8cf3bbdfd752c
+      internalID: 2667561598491784460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_270
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad2d7053eced34db0e41cf8cb1c460
+      internalID: -8151607329835391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34907b03a8f57a0438daf909031e4f45
+      internalID: -2516875038853887832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_272
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3a4c92ad689334cb207c1e7b062469
+      internalID: 4520540496064553890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_273
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4225c4a7ed71441abb6345f4129e3a
+      internalID: 4162066675440983787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_274
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f47a0494017c147b4064f4db8a48a7
+      internalID: -6605402714483856182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_275
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca008d6d72adb0d48b7f5a2d57dcd826
+      internalID: 5927009453243639829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_276
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580bb2575d8f7e48b197bf513224653
+      internalID: -8796379281489986613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_277
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf92c37047900244a93dfa98744d901
+      internalID: 1916713988831398771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_278
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c751816216d7d44b8aabe0313099f11
+      internalID: 3440464163370057426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc852f5af848a584d9e284179874ea56
+      internalID: 8549192340989112405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_280
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19994f7b388024c4586b38222ce4322b
+      internalID: 8604192603758533489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_281
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed1ab6b5a867441a110c0f4e1c3467
+      internalID: 4493057534396444095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_282
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a379b62c724a942b46a1cabd6f7b85
+      internalID: 8990607098651849807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_283
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c26e435933a84090286bd35b1f9f7
+      internalID: 1608856288534642741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_284
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af8513aa771144785be7ba1a074b88
+      internalID: 8386909575492444878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_285
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7f60878770814785436b4e4cf14f6
+      internalID: -6890246772376118553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_286
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5851736cc5a832488f0c004ccc59582
+      internalID: 45317251232163555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_287
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800beea2c88d9744a22f8cb50266495
+      internalID: -4171862391630158296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_288
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e471e36685dc01f4face36f345d5b1cd
+      internalID: -217215617960384413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_289
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b7b4c0ef437cf4895ef96733837513
+      internalID: -1768577996013832110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_290
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cfd321b07f90345b7b6432c884f741
+      internalID: -1078322889382076143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_291
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15e01e661cf6646b43edd80d7f59cb
+      internalID: -4264129328438972769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_292
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17fbe49f5d52f4398596f419d9b9b9
+      internalID: 5042337339968579957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_293
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74841e6ba8ff2a94ab4ff4da93ace5bd
+      internalID: -6191279627583439355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_294
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0007a619e8600448c3d77e41090eea
+      internalID: 5710921857712490614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_295
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd001104b02e54ba6881743e97fe2c
+      internalID: 4892773035083276470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_296
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6e2ea049053c409bc30ad2a26fdc5
+      internalID: 1882617739136081653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_297
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae7a8c905d12e46947529a0346fcce
+      internalID: -8798673797350164552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_298
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce07b61cc640d49adfa1254b5f34e8
+      internalID: -4118103810180881169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_299
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc684d57de27d4fb6af5a60d44a452
+      internalID: -6536010114883222048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_300
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974613e7147788d4f975fdac02d5639a
+      internalID: -3248583680482267122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_301
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ca460959a73244aa11f08e22f2c0d
+      internalID: -1052315870841870043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_302
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945c3062bb283a40a5b0d31917f2e18
+      internalID: -5516906732704785189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_303
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92457de3f9784da4dab343554b60b58a
+      internalID: -3103216056896032411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_304
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5777d6eb58e4e4896b1c1f0f5b2663
+      internalID: -7965828701644312234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_305
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376904bf759f1af4ca5b7c26a83ded7a
+      internalID: 4616845900929753475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_306
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5096fda2b7adea479665182b50604fe
+      internalID: 8639297290798317269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_307
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7e653d5f3c27468dd137b60f64fa5
+      internalID: -3438846421569788494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_308
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589d45c7bb68d54f8a9a79635adb330
+      internalID: -245450163743340992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_309
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267baca5f895ca468df362658c76410
+      internalID: -2479761638486318180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_310
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de4ffb19fabc24da2f13be84129a85
+      internalID: -7480991086593279383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_311
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d953dc4349684eacb16102e9669e8
+      internalID: 4199124516268415727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_312
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149c080963dce945bf3eb3a6b3425c8
+      internalID: -2297976437198245245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_313
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc907400a1f0314086d95aad8371efe
+      internalID: -4871816321620295714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_cc_throneroom_tiles_314
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd4087907572047b4bdfea594eae05
+      internalID: 5741086428454692610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3ae29c0f8cc10648b4072183b0fa488
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

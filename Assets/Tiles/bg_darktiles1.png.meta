@@ -1,0 +1,7205 @@
+fileFormatVersion: 2
+guid: 1808c7c1136b3624b84ee3567586eb79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4268526364197512124
+    second: bg_darktiles1_0
+  - first:
+      213: -8254823525905597202
+    second: bg_darktiles1_1
+  - first:
+      213: 7512148946664408751
+    second: bg_darktiles1_2
+  - first:
+      213: 4724176076002132624
+    second: bg_darktiles1_3
+  - first:
+      213: 8543551636871830179
+    second: bg_darktiles1_4
+  - first:
+      213: -6851382089688031675
+    second: bg_darktiles1_5
+  - first:
+      213: 3137764957636621582
+    second: bg_darktiles1_6
+  - first:
+      213: -8696932548463706182
+    second: bg_darktiles1_7
+  - first:
+      213: -3409326996085401641
+    second: bg_darktiles1_8
+  - first:
+      213: -7574273742690075477
+    second: bg_darktiles1_9
+  - first:
+      213: 4013070650653805187
+    second: bg_darktiles1_10
+  - first:
+      213: -7356751464544462840
+    second: bg_darktiles1_11
+  - first:
+      213: -9197808835374349505
+    second: bg_darktiles1_12
+  - first:
+      213: 6653155827768764057
+    second: bg_darktiles1_13
+  - first:
+      213: 1305065051915169815
+    second: bg_darktiles1_14
+  - first:
+      213: 5315049227551774740
+    second: bg_darktiles1_15
+  - first:
+      213: 5762477088735448901
+    second: bg_darktiles1_16
+  - first:
+      213: 7387762609240491757
+    second: bg_darktiles1_17
+  - first:
+      213: -7241554536689563524
+    second: bg_darktiles1_18
+  - first:
+      213: 9127005691522160962
+    second: bg_darktiles1_19
+  - first:
+      213: -5928190993607893465
+    second: bg_darktiles1_20
+  - first:
+      213: -8754774488406550865
+    second: bg_darktiles1_21
+  - first:
+      213: 1577002374241796600
+    second: bg_darktiles1_22
+  - first:
+      213: 1822867513221864406
+    second: bg_darktiles1_23
+  - first:
+      213: -724842937948950880
+    second: bg_darktiles1_24
+  - first:
+      213: 583195113423136174
+    second: bg_darktiles1_25
+  - first:
+      213: -4889000485761389557
+    second: bg_darktiles1_26
+  - first:
+      213: -7769128237774910455
+    second: bg_darktiles1_27
+  - first:
+      213: 8166703043795183661
+    second: bg_darktiles1_28
+  - first:
+      213: 8038074505169354189
+    second: bg_darktiles1_29
+  - first:
+      213: 4123975110546064829
+    second: bg_darktiles1_30
+  - first:
+      213: -7902965652553199164
+    second: bg_darktiles1_31
+  - first:
+      213: -9001797303856900629
+    second: bg_darktiles1_32
+  - first:
+      213: 8810372108987277487
+    second: bg_darktiles1_33
+  - first:
+      213: -8994955172675242368
+    second: bg_darktiles1_34
+  - first:
+      213: -3616302604317402183
+    second: bg_darktiles1_35
+  - first:
+      213: -865740469945139496
+    second: bg_darktiles1_36
+  - first:
+      213: -3578209430989092445
+    second: bg_darktiles1_37
+  - first:
+      213: 874331632516822478
+    second: bg_darktiles1_38
+  - first:
+      213: 1132144764423263106
+    second: bg_darktiles1_39
+  - first:
+      213: 7893013920885683485
+    second: bg_darktiles1_40
+  - first:
+      213: 6275457811734016368
+    second: bg_darktiles1_41
+  - first:
+      213: -5745353205472269088
+    second: bg_darktiles1_42
+  - first:
+      213: 4949580163854920486
+    second: bg_darktiles1_43
+  - first:
+      213: 2407176416088081225
+    second: bg_darktiles1_44
+  - first:
+      213: 4878163513231262654
+    second: bg_darktiles1_45
+  - first:
+      213: -7897606566811090177
+    second: bg_darktiles1_46
+  - first:
+      213: 4991154409069532858
+    second: bg_darktiles1_47
+  - first:
+      213: 2094717672735457732
+    second: bg_darktiles1_48
+  - first:
+      213: -2466367339453196593
+    second: bg_darktiles1_49
+  - first:
+      213: -4881028819949884131
+    second: bg_darktiles1_50
+  - first:
+      213: -8635532301643041023
+    second: bg_darktiles1_51
+  - first:
+      213: 27651256988050781
+    second: bg_darktiles1_52
+  - first:
+      213: 2348266940819446047
+    second: bg_darktiles1_53
+  - first:
+      213: -3760964582688363625
+    second: bg_darktiles1_54
+  - first:
+      213: 3389186125655377681
+    second: bg_darktiles1_55
+  - first:
+      213: -1845379750201968801
+    second: bg_darktiles1_56
+  - first:
+      213: -3579008854973635465
+    second: bg_darktiles1_57
+  - first:
+      213: 39031437415174335
+    second: bg_darktiles1_58
+  - first:
+      213: -6533074163383007062
+    second: bg_darktiles1_59
+  - first:
+      213: -6572845350676085405
+    second: bg_darktiles1_60
+  - first:
+      213: -6323216916283095613
+    second: bg_darktiles1_61
+  - first:
+      213: -4831235808788050882
+    second: bg_darktiles1_62
+  - first:
+      213: -4290000144958683967
+    second: bg_darktiles1_63
+  - first:
+      213: 6717820919743770750
+    second: bg_darktiles1_64
+  - first:
+      213: -8235414798914399618
+    second: bg_darktiles1_65
+  - first:
+      213: -6987542215331687160
+    second: bg_darktiles1_66
+  - first:
+      213: 3001037143628059823
+    second: bg_darktiles1_67
+  - first:
+      213: 2774896862743199947
+    second: bg_darktiles1_68
+  - first:
+      213: 8396246120908839240
+    second: bg_darktiles1_69
+  - first:
+      213: -6176107843917426879
+    second: bg_darktiles1_70
+  - first:
+      213: -5822857916627896127
+    second: bg_darktiles1_71
+  - first:
+      213: -9087035461891899998
+    second: bg_darktiles1_72
+  - first:
+      213: -2318519040595051695
+    second: bg_darktiles1_73
+  - first:
+      213: -2890281162138100796
+    second: bg_darktiles1_74
+  - first:
+      213: -4295924629900364977
+    second: bg_darktiles1_75
+  - first:
+      213: -2711450176237446337
+    second: bg_darktiles1_76
+  - first:
+      213: -6230844772925254268
+    second: bg_darktiles1_77
+  - first:
+      213: -4377692298554252480
+    second: bg_darktiles1_78
+  - first:
+      213: -1519019931446150972
+    second: bg_darktiles1_79
+  - first:
+      213: -9003008037753929723
+    second: bg_darktiles1_80
+  - first:
+      213: 6239351835457230065
+    second: bg_darktiles1_81
+  - first:
+      213: -2524760446327402276
+    second: bg_darktiles1_82
+  - first:
+      213: 1487036200583805044
+    second: bg_darktiles1_83
+  - first:
+      213: -389557046776670274
+    second: bg_darktiles1_84
+  - first:
+      213: -301140232065056841
+    second: bg_darktiles1_85
+  - first:
+      213: 5212245386731440880
+    second: bg_darktiles1_86
+  - first:
+      213: -7649714715120309383
+    second: bg_darktiles1_87
+  - first:
+      213: -6619429468788989855
+    second: bg_darktiles1_88
+  - first:
+      213: 8657683681472581474
+    second: bg_darktiles1_89
+  - first:
+      213: 2675683008690676584
+    second: bg_darktiles1_90
+  - first:
+      213: 8695938382811942109
+    second: bg_darktiles1_91
+  - first:
+      213: 3718528136184424561
+    second: bg_darktiles1_92
+  - first:
+      213: 8406927030485085279
+    second: bg_darktiles1_93
+  - first:
+      213: 8217350591555509928
+    second: bg_darktiles1_94
+  - first:
+      213: 615338030376316128
+    second: bg_darktiles1_95
+  - first:
+      213: -5845032239093635635
+    second: bg_darktiles1_96
+  - first:
+      213: 6913427924334633871
+    second: bg_darktiles1_97
+  - first:
+      213: -2445764311837446191
+    second: bg_darktiles1_98
+  - first:
+      213: 1200923228248436284
+    second: bg_darktiles1_99
+  - first:
+      213: 6646903525541135830
+    second: bg_darktiles1_100
+  - first:
+      213: 9106231170009431916
+    second: bg_darktiles1_101
+  - first:
+      213: -6237246476244625880
+    second: bg_darktiles1_102
+  - first:
+      213: 7993866506091989065
+    second: bg_darktiles1_103
+  - first:
+      213: 4094358156694780341
+    second: bg_darktiles1_104
+  - first:
+      213: 5975970825699144210
+    second: bg_darktiles1_105
+  - first:
+      213: -392911453209514317
+    second: bg_darktiles1_106
+  - first:
+      213: 7891971161124296965
+    second: bg_darktiles1_107
+  - first:
+      213: -8373957654336720998
+    second: bg_darktiles1_108
+  - first:
+      213: 6962749246970904061
+    second: bg_darktiles1_109
+  - first:
+      213: 2006445704564412139
+    second: bg_darktiles1_110
+  - first:
+      213: -340250977963659630
+    second: bg_darktiles1_111
+  - first:
+      213: -2132505589489786829
+    second: bg_darktiles1_112
+  - first:
+      213: -1589781904601659072
+    second: bg_darktiles1_113
+  - first:
+      213: -2658275401855629750
+    second: bg_darktiles1_114
+  - first:
+      213: 747601566422209395
+    second: bg_darktiles1_115
+  - first:
+      213: 278754843891072073
+    second: bg_darktiles1_116
+  - first:
+      213: 3650484587910061619
+    second: bg_darktiles1_117
+  - first:
+      213: 3879299613501593923
+    second: bg_darktiles1_118
+  - first:
+      213: 4493785190033277886
+    second: bg_darktiles1_119
+  - first:
+      213: 3997627367046581598
+    second: bg_darktiles1_120
+  - first:
+      213: -5582583297360281323
+    second: bg_darktiles1_121
+  - first:
+      213: 7767571426424611853
+    second: bg_darktiles1_122
+  - first:
+      213: 7493287277133637352
+    second: bg_darktiles1_123
+  - first:
+      213: -5854735139533267259
+    second: bg_darktiles1_124
+  - first:
+      213: 251136997741082025
+    second: bg_darktiles1_125
+  - first:
+      213: -8949468481227010048
+    second: bg_darktiles1_126
+  - first:
+      213: 1999141471815474613
+    second: bg_darktiles1_127
+  - first:
+      213: 4536572396256740996
+    second: bg_darktiles1_128
+  - first:
+      213: -1181266505620975773
+    second: bg_darktiles1_129
+  - first:
+      213: -2413077843113616673
+    second: bg_darktiles1_130
+  - first:
+      213: -1240805911241388641
+    second: bg_darktiles1_131
+  - first:
+      213: -214812236648657955
+    second: bg_darktiles1_132
+  - first:
+      213: 1741106747691720342
+    second: bg_darktiles1_133
+  - first:
+      213: -1586669785986340894
+    second: bg_darktiles1_134
+  - first:
+      213: 5032896302419146475
+    second: bg_darktiles1_135
+  - first:
+      213: -1829601033798447659
+    second: bg_darktiles1_136
+  - first:
+      213: 7068314509815164751
+    second: bg_darktiles1_137
+  - first:
+      213: -929212278504842248
+    second: bg_darktiles1_138
+  - first:
+      213: -680357838628665029
+    second: bg_darktiles1_139
+  - first:
+      213: -2595880118620961901
+    second: bg_darktiles1_140
+  - first:
+      213: 5986022089070236792
+    second: bg_darktiles1_141
+  - first:
+      213: 157311914042510966
+    second: bg_darktiles1_142
+  - first:
+      213: -466249984626521156
+    second: bg_darktiles1_143
+  - first:
+      213: 1647144662303547305
+    second: bg_darktiles1_144
+  - first:
+      213: 2107290051851447677
+    second: bg_darktiles1_145
+  - first:
+      213: -7144211517132709118
+    second: bg_darktiles1_146
+  - first:
+      213: 3190139882228998282
+    second: bg_darktiles1_147
+  - first:
+      213: 3721781417414525992
+    second: bg_darktiles1_148
+  - first:
+      213: 8485110675888374868
+    second: bg_darktiles1_149
+  - first:
+      213: -4176114905246390216
+    second: bg_darktiles1_150
+  - first:
+      213: -2459712077509909539
+    second: bg_darktiles1_151
+  - first:
+      213: 7604100574552719160
+    second: bg_darktiles1_152
+  - first:
+      213: 8289849116803166020
+    second: bg_darktiles1_153
+  - first:
+      213: 6534471642470276706
+    second: bg_darktiles1_154
+  - first:
+      213: -6454098259764258568
+    second: bg_darktiles1_155
+  - first:
+      213: 4129393838701878045
+    second: bg_darktiles1_156
+  - first:
+      213: -1380956461363943035
+    second: bg_darktiles1_157
+  - first:
+      213: 905153257338548194
+    second: bg_darktiles1_158
+  - first:
+      213: 1240896516201457253
+    second: bg_darktiles1_159
+  - first:
+      213: 8636005178038586222
+    second: bg_darktiles1_160
+  - first:
+      213: -5287914507694062137
+    second: bg_darktiles1_161
+  - first:
+      213: -2699434469171732946
+    second: bg_darktiles1_162
+  - first:
+      213: -6671095097084961837
+    second: bg_darktiles1_163
+  - first:
+      213: -2893547127559915794
+    second: bg_darktiles1_164
+  - first:
+      213: 6572928660287596187
+    second: bg_darktiles1_165
+  - first:
+      213: 6453847914402921925
+    second: bg_darktiles1_166
+  - first:
+      213: -8638140141494062692
+    second: bg_darktiles1_167
+  - first:
+      213: -6996237482479351180
+    second: bg_darktiles1_168
+  - first:
+      213: -4786385222439384553
+    second: bg_darktiles1_169
+  - first:
+      213: -4620228483614881972
+    second: bg_darktiles1_170
+  - first:
+      213: -2349666959996931254
+    second: bg_darktiles1_171
+  - first:
+      213: -1942500352209951583
+    second: bg_darktiles1_172
+  - first:
+      213: 4272537382606605071
+    second: bg_darktiles1_173
+  - first:
+      213: 2011080622612211152
+    second: bg_darktiles1_174
+  - first:
+      213: 4831167071362457836
+    second: bg_darktiles1_175
+  - first:
+      213: 465097410273289238
+    second: bg_darktiles1_176
+  - first:
+      213: -209550626436782176
+    second: bg_darktiles1_177
+  - first:
+      213: -8230858332202580628
+    second: bg_darktiles1_178
+  - first:
+      213: -2602240689309441155
+    second: bg_darktiles1_179
+  - first:
+      213: 6253666434277612401
+    second: bg_darktiles1_180
+  - first:
+      213: -1439950767539191787
+    second: bg_darktiles1_181
+  - first:
+      213: 93714728610362589
+    second: bg_darktiles1_182
+  - first:
+      213: 6971035507074305649
+    second: bg_darktiles1_183
+  - first:
+      213: 7405232512455014929
+    second: bg_darktiles1_184
+  - first:
+      213: -6861520180609287229
+    second: bg_darktiles1_185
+  - first:
+      213: -3520095691473356581
+    second: bg_darktiles1_186
+  - first:
+      213: -2973884424876504693
+    second: bg_darktiles1_187
+  - first:
+      213: 7508178733592200443
+    second: bg_darktiles1_188
+  - first:
+      213: -7693586971131032111
+    second: bg_darktiles1_189
+  - first:
+      213: -4270615356023263187
+    second: bg_darktiles1_190
+  - first:
+      213: -1462523450989729157
+    second: bg_darktiles1_191
+  - first:
+      213: 6359436518118098170
+    second: bg_darktiles1_192
+  - first:
+      213: -757539200576036460
+    second: bg_darktiles1_193
+  - first:
+      213: 4501361704318983562
+    second: bg_darktiles1_194
+  - first:
+      213: 6234082669767766419
+    second: bg_darktiles1_195
+  - first:
+      213: -4518409866553763291
+    second: bg_darktiles1_196
+  - first:
+      213: 7095849634476614229
+    second: bg_darktiles1_197
+  - first:
+      213: 708049176714791161
+    second: bg_darktiles1_198
+  - first:
+      213: -1468035009832466839
+    second: bg_darktiles1_199
+  - first:
+      213: -4287835783225798898
+    second: bg_darktiles1_200
+  - first:
+      213: 7431629445507461795
+    second: bg_darktiles1_201
+  - first:
+      213: 9160009753243005491
+    second: bg_darktiles1_202
+  - first:
+      213: -1940280409924201902
+    second: bg_darktiles1_203
+  - first:
+      213: 6345143552168656016
+    second: bg_darktiles1_204
+  - first:
+      213: -2558143242760567394
+    second: bg_darktiles1_205
+  - first:
+      213: 7337452369794985636
+    second: bg_darktiles1_206
+  - first:
+      213: -2900216793438853009
+    second: bg_darktiles1_207
+  - first:
+      213: -8476090448627083975
+    second: bg_darktiles1_208
+  - first:
+      213: -5498094490985749647
+    second: bg_darktiles1_209
+  - first:
+      213: 6763601924614743776
+    second: bg_darktiles1_210
+  - first:
+      213: -2882181682179899923
+    second: bg_darktiles1_211
+  - first:
+      213: -323898195199473843
+    second: bg_darktiles1_212
+  - first:
+      213: 7840141180585914501
+    second: bg_darktiles1_213
+  - first:
+      213: -5796952298676454832
+    second: bg_darktiles1_214
+  - first:
+      213: -6545710508523266350
+    second: bg_darktiles1_215
+  - first:
+      213: -1159055931526227020
+    second: bg_darktiles1_216
+  - first:
+      213: -2451667661485836987
+    second: bg_darktiles1_217
+  - first:
+      213: 7576988597589233486
+    second: bg_darktiles1_218
+  - first:
+      213: 2825139539068491247
+    second: bg_darktiles1_219
+  - first:
+      213: -6800268816850255341
+    second: bg_darktiles1_220
+  - first:
+      213: -8229831293440550370
+    second: bg_darktiles1_221
+  - first:
+      213: -2110097835988718077
+    second: bg_darktiles1_222
+  - first:
+      213: -8919784880157559047
+    second: bg_darktiles1_223
+  - first:
+      213: 5099930521195833193
+    second: bg_darktiles1_224
+  - first:
+      213: 7572596802087902843
+    second: bg_darktiles1_225
+  - first:
+      213: 6130485116314604212
+    second: bg_darktiles1_226
+  - first:
+      213: -5838295019576352014
+    second: bg_darktiles1_227
+  - first:
+      213: 2191755972304715708
+    second: bg_darktiles1_228
+  - first:
+      213: -6758103707920679822
+    second: bg_darktiles1_229
+  - first:
+      213: 1685789872934917088
+    second: bg_darktiles1_230
+  - first:
+      213: -6032356111760606267
+    second: bg_darktiles1_231
+  - first:
+      213: -1533367750229550822
+    second: bg_darktiles1_232
+  - first:
+      213: 1022461056630521100
+    second: bg_darktiles1_233
+  - first:
+      213: -3925207881231823722
+    second: bg_darktiles1_234
+  - first:
+      213: -3858082878819646953
+    second: bg_darktiles1_235
+  - first:
+      213: -4255944754191484357
+    second: bg_darktiles1_236
+  - first:
+      213: 5447463532985696900
+    second: bg_darktiles1_237
+  - first:
+      213: -5494059900475650483
+    second: bg_darktiles1_238
+  - first:
+      213: -6774773238495955363
+    second: bg_darktiles1_239
+  - first:
+      213: 5587375821526602946
+    second: bg_darktiles1_240
+  - first:
+      213: 8223132932665377063
+    second: bg_darktiles1_241
+  - first:
+      213: 9093766344457022987
+    second: bg_darktiles1_242
+  - first:
+      213: 6984207934029314633
+    second: bg_darktiles1_243
+  - first:
+      213: -3981007923932914826
+    second: bg_darktiles1_244
+  - first:
+      213: 8661469216498529682
+    second: bg_darktiles1_245
+  - first:
+      213: 7563537519713512570
+    second: bg_darktiles1_246
+  - first:
+      213: -1453325995278212921
+    second: bg_darktiles1_247
+  - first:
+      213: 1649465935959366938
+    second: bg_darktiles1_248
+  - first:
+      213: -2363340882847371828
+    second: bg_darktiles1_249
+  - first:
+      213: 7161522204069226895
+    second: bg_darktiles1_250
+  - first:
+      213: 3443717028482521225
+    second: bg_darktiles1_251
+  - first:
+      213: 7546197051569871850
+    second: bg_darktiles1_252
+  - first:
+      213: -5411361320187725929
+    second: bg_darktiles1_253
+  - first:
+      213: -7445950917712884558
+    second: bg_darktiles1_254
+  - first:
+      213: -595787391633300112
+    second: bg_darktiles1_255
+  - first:
+      213: -5441850581098575417
+    second: bg_darktiles1_256
+  - first:
+      213: 4117701160798796242
+    second: bg_darktiles1_257
+  - first:
+      213: 5202837491220777071
+    second: bg_darktiles1_258
+  - first:
+      213: -1053357932739178527
+    second: bg_darktiles1_259
+  - first:
+      213: -3685760571955708187
+    second: bg_darktiles1_260
+  - first:
+      213: -1323817081513535080
+    second: bg_darktiles1_261
+  - first:
+      213: -1865279114485989474
+    second: bg_darktiles1_262
+  - first:
+      213: -495072410072302687
+    second: bg_darktiles1_263
+  - first:
+      213: 1350228246802924485
+    second: bg_darktiles1_264
+  - first:
+      213: 5616129176918412173
+    second: bg_darktiles1_265
+  - first:
+      213: -1410805054601507675
+    second: bg_darktiles1_266
+  - first:
+      213: -7474013796353863545
+    second: bg_darktiles1_267
+  - first:
+      213: -7341800126311706187
+    second: bg_darktiles1_268
+  - first:
+      213: -2922670399140522487
+    second: bg_darktiles1_269
+  - first:
+      213: -810117131285603079
+    second: bg_darktiles1_270
+  - first:
+      213: -1913527743914837199
+    second: bg_darktiles1_271
+  - first:
+      213: 2925483489152197931
+    second: bg_darktiles1_272
+  - first:
+      213: -8020318369758695561
+    second: bg_darktiles1_273
+  - first:
+      213: -6662563977870296705
+    second: bg_darktiles1_274
+  - first:
+      213: 5106370079938241408
+    second: bg_darktiles1_275
+  - first:
+      213: 4178269066408986862
+    second: bg_darktiles1_276
+  - first:
+      213: -4791300829991629952
+    second: bg_darktiles1_277
+  - first:
+      213: 8425227049215285316
+    second: bg_darktiles1_278
+  - first:
+      213: -6288883258363284723
+    second: bg_darktiles1_279
+  - first:
+      213: -8583261671554639023
+    second: bg_darktiles1_280
+  - first:
+      213: -9191076327298395132
+    second: bg_darktiles1_281
+  - first:
+      213: 8904988983383987310
+    second: bg_darktiles1_282
+  - first:
+      213: -7252351683381457880
+    second: bg_darktiles1_283
+  - first:
+      213: -8971012229740526119
+    second: bg_darktiles1_284
+  - first:
+      213: -6660317983081743721
+    second: bg_darktiles1_285
+  - first:
+      213: 8021994845103476649
+    second: bg_darktiles1_286
+  - first:
+      213: -478281439889398681
+    second: bg_darktiles1_287
+  - first:
+      213: -791378977258941411
+    second: bg_darktiles1_288
+  - first:
+      213: -6000989708492866134
+    second: bg_darktiles1_289
+  - first:
+      213: 2290720113142218361
+    second: bg_darktiles1_290
+  - first:
+      213: 901619026127858782
+    second: bg_darktiles1_291
+  - first:
+      213: 1241081361362939712
+    second: bg_darktiles1_292
+  - first:
+      213: 7369870249803359593
+    second: bg_darktiles1_293
+  - first:
+      213: -8498120018813646419
+    second: bg_darktiles1_294
+  - first:
+      213: 7548186750955458901
+    second: bg_darktiles1_295
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_darktiles1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3c0f5aa0489f409bc6da93343a294
+      internalID: -4268526364197512124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854458f2e134654683e3ae117ea90e0
+      internalID: -8254823525905597202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a9bf3669134848b7aa25b4cf89e2a
+      internalID: 7512148946664408751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d998c9862359047b0651a001f7b011
+      internalID: 4724176076002132624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936ed520d81a8147afbc2d13e5f56c8
+      internalID: 8543551636871830179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c1ef3faeb388479eb2fe7ada125d8
+      internalID: -6851382089688031675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab44cf2dcc16e54bba85332be3b20c3
+      internalID: 3137764957636621582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09819c71fb5e65748aec56b97be4fc0b
+      internalID: -8696932548463706182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed76ef1b03d5f149bb5a52371b986ff
+      internalID: -3409326996085401641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40ecb765c1a8f4994f4ab811858c3f
+      internalID: -7574273742690075477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a7636e08068242893bcc4b7d74ac5
+      internalID: 4013070650653805187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee36e2f9f60f7842a0c892aa521d747
+      internalID: -7356751464544462840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04499002355e91644836b3e78efc2f47
+      internalID: -9197808835374349505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443a3053ac12bd41bcfd925d17f0df3
+      internalID: 6653155827768764057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f442e7a0c2fc81458f3ef8557b1f2ec
+      internalID: 1305065051915169815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f2a557451dba458a94266c517ab14
+      internalID: 5315049227551774740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60af7d32cfa85154ca7e87e3909cfffc
+      internalID: 5762477088735448901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3e8de4d47b89240889db708f100f0e
+      internalID: 7387762609240491757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47ee66f26be37448581705da8be10f
+      internalID: -7241554536689563524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a46406735b2284d84252ffe9dfe60f
+      internalID: 9127005691522160962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc5267aae065114fb0df432e867cf17
+      internalID: -5928190993607893465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03767c19f10024e95d851d4b40e55d
+      internalID: -8754774488406550865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657e7fb2994b04740ab747ffb0ee6cdd
+      internalID: 1577002374241796600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e685de7d21b32664b92143c489054c6a
+      internalID: 1822867513221864406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ec4b8aa3913c43af504f93641bb94
+      internalID: -724842937948950880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1447a6afe760f34e9b39e0ae33bb2e8
+      internalID: 583195113423136174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e1f3fe6dc1ad4d96330b944d98d97
+      internalID: -4889000485761389557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc1e2f527addc4d9ebc2fe2e02dffe
+      internalID: -7769128237774910455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be19e5c6703b04a930b2e76f9bd313
+      internalID: 8166703043795183661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 740
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be112d6da458948984c69bbceb92f8
+      internalID: 8038074505169354189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c693dc8c955b468c0ba95432a3c72
+      internalID: 4123975110546064829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981f70d39d620f439c3834e33a81597
+      internalID: -7902965652553199164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14985f3c57b22214b89cafc18e69d1c5
+      internalID: -9001797303856900629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c946620f1e3886147b1081b1096d331d
+      internalID: 8810372108987277487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2647968cb8f944e96a21ed1a4c3a9e
+      internalID: -8994955172675242368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f379224c7b9c04e97a72bc996a1068
+      internalID: -3616302604317402183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4843f7809807af6408d64bae5241bdbf
+      internalID: -865740469945139496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87339b6f2fd39a94fae2bb63c25bf333
+      internalID: -3578209430989092445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4509ac085555b248bdbf5b5339db46c
+      internalID: 874331632516822478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60832785cfa5d4e4e9903ca27abd342d
+      internalID: 1132144764423263106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaea6c77804e46498bc20bf0a5ce8ab
+      internalID: 7893013920885683485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1625d2546f15448635c0e9c5d02d2
+      internalID: 6275457811734016368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc681b3cf187d8945ad4821dc197aa2c
+      internalID: -5745353205472269088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee90f5568f6a374f9ac92f99f71a74a
+      internalID: 4949580163854920486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307dfe5f1b862e4e8d50ab11f81e376
+      internalID: 2407176416088081225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab46a95eded167408f9b2be946c5bb6
+      internalID: 4878163513231262654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1187b0493c376c439b999f3588345e3
+      internalID: -7897606566811090177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2c04b74862bf41b437934e2441b74
+      internalID: 4991154409069532858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b4fbd6d98ef54d97e47e2a56e34ea
+      internalID: 2094717672735457732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5c0c0642e6074eab29d69fa254091
+      internalID: -2466367339453196593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59a58e07c6e1f46868a8ec54f4d1b6
+      internalID: -4881028819949884131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc4f03d4a2be1468f855f3fa6c68a8
+      internalID: -8635532301643041023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae47d7e1b5cbba4cb8fe4ce34494eb5
+      internalID: 27651256988050781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ab46cd07411e43beba2a8d395d5a2
+      internalID: 2348266940819446047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda92f525d193c846baef60123f4bcb4
+      internalID: -3760964582688363625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f561d36f54d0047a10b93f7de7b0dd
+      internalID: 3389186125655377681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa11f9e17d22db40af6c3892213da61
+      internalID: -1845379750201968801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ce5ed57c8f96459e7f0f2f094b6db
+      internalID: -3579008854973635465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca129bda281730a4ab9febc741bb5d7b
+      internalID: 39031437415174335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 680
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f421f5e8f732c42b63eb801967b527
+      internalID: -6533074163383007062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b35f524fb12a46b75de4c14415859
+      internalID: -6572845350676085405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461ae177554449d4e935e6804fb3f481
+      internalID: -6323216916283095613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d970c3bcbe49459969eca234c80ff
+      internalID: -4831235808788050882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064978601b21375479239363a8485efb
+      internalID: -4290000144958683967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144bea2ee30804740b31e7f16ecede16
+      internalID: 6717820919743770750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3845815c192744900154574d165db
+      internalID: -8235414798914399618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b613c2ac90dc4a41baee9da06577261
+      internalID: -6987542215331687160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8bf94bf6658044c96a3928f80b4d3e
+      internalID: 3001037143628059823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b33bdab358bf14bb6c732070efa937
+      internalID: 2774896862743199947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 660
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554e233bd156c44aa28468b14f42826
+      internalID: 8396246120908839240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b14f365ceb3f4fae1302f74711e7b
+      internalID: -6176107843917426879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde6937cef789b4eb5209a459639160
+      internalID: -5822857916627896127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa744a020470aa042954aacad0ca2e4d
+      internalID: -9087035461891899998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69586620349312b4a97baf3a5c1b9295
+      internalID: -2318519040595051695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8d5a1eca54a64fa5826d0b7bc5423
+      internalID: -2890281162138100796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca2ce2235649f469375b0c96ee1863
+      internalID: -4295924629900364977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df6cc32861ad844acf5de0e5a670a4
+      internalID: -2711450176237446337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4e204a75455b9439f60b32667d949d
+      internalID: -6230844772925254268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9555445e53c2e42bd31fa34e4fb9df
+      internalID: -4377692298554252480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 640
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1368598688714554dac976a5c521fb18
+      internalID: -1519019931446150972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c05620e08d3e44be5355a1d4aa491
+      internalID: -9003008037753929723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7bdfe36a47e048935249966cb09d9
+      internalID: 6239351835457230065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48619619fcecbd5499452ca2ba0b75c8
+      internalID: -2524760446327402276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c066f93932b0b479ebda940ab328a2
+      internalID: 1487036200583805044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc65fc81c6c70d44ca36eb1936b0fa51
+      internalID: -389557046776670274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0d25ffd0a8534c80d3fa0e40899b5
+      internalID: -301140232065056841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bbb0ea37596ff47acaa68725eed618
+      internalID: 5212245386731440880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccddc8ed06f46a4fa57d127c2683740
+      internalID: -7649714715120309383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3726696c8002e649a40dadab764adb6
+      internalID: -6619429468788989855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0163fb61704ee45b4f610ead95bd1b
+      internalID: 8657683681472581474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145de4bd8e9e3c4f8c0c00fcc787afa
+      internalID: 2675683008690676584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73127f8d68a45fb4a8d253392c192328
+      internalID: 8695938382811942109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cea80166c1bd4bb6d8a5ee2ee9c92
+      internalID: 3718528136184424561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_93
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411ffb7b0fd8e641b72abee5e637922
+      internalID: 8406927030485085279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7367cc18f7676499913890c51441f5
+      internalID: 8217350591555509928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd4ff70d6d3f3489fc934126d57c10
+      internalID: 615338030376316128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300121fd8fae484d85590f3628aec27
+      internalID: -5845032239093635635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_97
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797642e8ac849a448f307f5ac30a7ec
+      internalID: 6913427924334633871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d541e9d2a181434097e71a685413ca5
+      internalID: -2445764311837446191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be77327f23d7a44bd2b5af6026fd81
+      internalID: 1200923228248436284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7623b949626e4459d8c3931be4cd31
+      internalID: 6646903525541135830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e61b7dfe3beab44b2405e13d6b3608
+      internalID: 9106231170009431916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4e83172a9bd444a82dea7d4ac8863
+      internalID: -6237246476244625880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c24f73b863d547bfe8a66f0b24f38
+      internalID: 7993866506091989065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9cf41eddaee94ebe14d3af65a1cf6
+      internalID: 4094358156694780341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdf1232dc6c1144aa8cf1393c4c71c
+      internalID: 5975970825699144210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae670ad00d5d374ea9e7b2e087ed724
+      internalID: -392911453209514317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234ac36087140a4686b0aa8e2cf61d5
+      internalID: 7891971161124296965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 580
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424b65c175c988439ad77cb34dfab9a
+      internalID: -8373957654336720998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda90f7f90fd1054a9f8e7077dc8a011
+      internalID: 6962749246970904061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff219a3ecf5fb40afeb3ad79eac97a
+      internalID: 2006445704564412139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962eed458cc1ed4897c4ff95cafde33
+      internalID: -340250977963659630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9301d39b27e0bd4db4a50b1425a7e8a
+      internalID: -2132505589489786829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696dcbcc41edaf4e8beadc28518171c
+      internalID: -1589781904601659072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c49c09c7939c45be415bec938e102
+      internalID: -2658275401855629750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3538a4220e772544683090b10245387f
+      internalID: 747601566422209395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d49ad9ed7dc59a48b717ec3abf531b8
+      internalID: 278754843891072073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ee40340178b5c4baa744fc6888892c
+      internalID: 3650484587910061619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681ac3c14b311f4c99fc36f4e8de000
+      internalID: 3879299613501593923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_119
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2694055c110a342ba7ff6530275522
+      internalID: 4493785190033277886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d8beed4a59be459f0aa948612050d
+      internalID: 3997627367046581598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 540
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f18262aa5317c4a8854f8527405822
+      internalID: -5582583297360281323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45d56754e071740bc0337e7e163594
+      internalID: 7767571426424611853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_123
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201708fd7fc6ba54a9613db56e830197
+      internalID: 7493287277133637352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546023302ececcf49802ff82cd5aef92
+      internalID: -5854735139533267259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_125
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 520
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d6095d43aa2e4381ef81c6fdc43a4
+      internalID: 251136997741082025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa60b301665964cb20abe0b454c964
+      internalID: -8949468481227010048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0ec84c7cf1774c859b14b1616479a
+      internalID: 1999141471815474613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a62157c71755438a2533ff9ff0688
+      internalID: 4536572396256740996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 500
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7757a0ea73e0794c9c25d6f547bb138
+      internalID: -1181266505620975773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa346dce4f141b42bfc49ffa39a2c5d
+      internalID: -2413077843113616673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e4b3ca396bb84a9dd071503c119b2
+      internalID: -1240805911241388641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d1dee1712e1f468d539851deb754d
+      internalID: -214812236648657955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03910cc07c3a44a8f07c646b2773c0
+      internalID: 1741106747691720342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe87b5a9632c34596c94954d0a38da
+      internalID: -1586669785986340894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f89658a5efdad48af9a0bf6a85d3fd
+      internalID: 5032896302419146475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52dad2f22809d418f586db4bdec39d
+      internalID: -1829601033798447659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_137
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65775f0941d43644bb37bc62ef1c80ea
+      internalID: 7068314509815164751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0203c8bc889d514aa8af645fcb8985a
+      internalID: -929212278504842248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3cc16e5852944ab82a10b309e9202
+      internalID: -680357838628665029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017a43b8fd5ecf4e8f7a3802d9b8a91
+      internalID: -2595880118620961901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d20a446745b5340b123a3e07a58436
+      internalID: 5986022089070236792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_142
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1effbfc193cc8ca40aafec10cb88b959
+      internalID: 157311914042510966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1471e442ea28458ade98b3a2d2bcf
+      internalID: -466249984626521156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73f053fe63a514294bf8868037e7fa
+      internalID: 1647144662303547305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83446ba474266b44686943d19f31a45f
+      internalID: 2107290051851447677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e331b82be36b5e479bbc1dbfb690bee
+      internalID: -7144211517132709118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_147
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34ff95fce58cf428c5c1576b6f4068
+      internalID: 3190139882228998282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7438e13c720e24ebc715cf27a3b067
+      internalID: 3721781417414525992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 460
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020aa39309425d14e9882bfa18ee2c08
+      internalID: 8485110675888374868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_150
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091556d3d1856448aa746dbc6eb1039
+      internalID: -4176114905246390216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f459fa5869572498aef042177b904e
+      internalID: -2459712077509909539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_152
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438c1137f970074dad9ffd39dd68951
+      internalID: 7604100574552719160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_153
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d36471404287a4b8e1fe87eab9f109
+      internalID: 8289849116803166020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a5c6c98dd8b74f963d88aae09970f
+      internalID: 6534471642470276706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18fd3d441eb56f419a169f3ff19e230
+      internalID: -6454098259764258568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_156
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7f59cb8984394082cfbaedd1b412d
+      internalID: 4129393838701878045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3db2f85611bc3448b870cd00052610
+      internalID: -1380956461363943035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495df7aec5046184ebd52952a2ab8a7e
+      internalID: 905153257338548194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49582c537aee84e4aa7ee5a54244ace4
+      internalID: 1240896516201457253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d01101dee0bd7449f36d1a4c5978b9
+      internalID: 8636005178038586222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_161
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f46dac28db33469544abc32cf86c3
+      internalID: -5287914507694062137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121575bbe913e545bd2fb2c44c46ca9
+      internalID: -2699434469171732946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567931065086cb04fb311f399c29a8c4
+      internalID: -6671095097084961837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_164
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da27b9326657341ad199986c359489
+      internalID: -2893547127559915794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d578d45482021c4085a08f60bdeca0f
+      internalID: 6572928660287596187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_166
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0ecfb181aa8b44816442f0566a38e
+      internalID: 6453847914402921925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80328bab0fe33f4587009f8dcd7f8a0
+      internalID: -8638140141494062692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_168
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce08b788223e294bbfe6d5a917db947
+      internalID: -6996237482479351180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7673459c324754a9369c7b453bd926
+      internalID: -4786385222439384553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_170
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36baed9b9ec297044a3a818634d9ea97
+      internalID: -4620228483614881972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a335d97da106488edc4f3ddc97dc3
+      internalID: -2349666959996931254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa107287e63994db3aacc226411e50
+      internalID: -1942500352209951583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_173
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b3eb266d971b4c801b39d5c0e537d
+      internalID: 4272537382606605071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c322f5399c3bd45b8e8161b2c590bd
+      internalID: 2011080622612211152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_175
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f61b55542c65a43877f4d4c8a5740d
+      internalID: 4831167071362457836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_176
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5148537aec6ecd42aaf3a2346e5b0f2
+      internalID: 465097410273289238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2401dc6aa80f634ba203f104a0623ed
+      internalID: -209550626436782176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e5ac9d40d6104a98d7f820322c730
+      internalID: -8230858332202580628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_179
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29cdff6e594aa74cb2d9f6bff2261cc
+      internalID: -2602240689309441155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_180
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d042ab06ee73664694626e690cb7351
+      internalID: 6253666434277612401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_181
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb72e811a3bea345875b18ee4efd2cd
+      internalID: -1439950767539191787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_182
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e56145edc7f254c9d62ce3200b80c2
+      internalID: 93714728610362589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_183
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ac60e04f5c5b4a88a9c08d9f91cd0
+      internalID: 6971035507074305649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3cd42cdf92ea44e8813bbd6841dcb8
+      internalID: 7405232512455014929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_185
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ede60d65aff841902da747c03abf6
+      internalID: -6861520180609287229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576aa542002e3743b74a905c935b161
+      internalID: -3520095691473356581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd78e8b4214a4145a9b7f699cd81f62
+      internalID: -2973884424876504693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee64532f5c95d4fb1f75bc787897ba
+      internalID: 7508178733592200443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32455abde97d87348875b27166a50219
+      internalID: -7693586971131032111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_190
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e30d145e338c1740bb10001c35c7fdd
+      internalID: -4270615356023263187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_191
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570b77a35d40c54ba73a1b7b261461f
+      internalID: -1462523450989729157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab07efb8a6890458f7989af4c1ea00
+      internalID: 6359436518118098170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_193
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ce8e07ddbf844b874d8fb02381352
+      internalID: -757539200576036460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a350856c4d8146bf3a3655ade3d0f
+      internalID: 4501361704318983562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_195
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 340
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781729c6fd61af4c92019a440902b87
+      internalID: 6234082669767766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_196
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085668478a4706438e81e30814b335c
+      internalID: -4518409866553763291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_197
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00147ef4460ca4fa502d5bf4653882
+      internalID: 7095849634476614229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_198
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd0dbc30ff7fb4f85502f8dcfc3e9d
+      internalID: 708049176714791161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_199
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 320
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73272a355eb5694b8d77283f465760c
+      internalID: -1468035009832466839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d536a9d7067c7141a695704a236c3f8
+      internalID: -4287835783225798898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4bff8303fc84b48a1511a18624c364
+      internalID: 7431629445507461795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167f16be2d0e614da6daf6f5eb24e48
+      internalID: 9160009753243005491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594b4d3d51b2fa0488fd0a8322e73a1c
+      internalID: -1940280409924201902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb5d78deb59904aa8e4c4373d7ab37
+      internalID: 6345143552168656016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0921b99e01e834045b5fdd84d36d015d
+      internalID: -2558143242760567394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9afabdbc9b08499fd8493e197716c
+      internalID: 7337452369794985636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42169762f93b44482de410356a0225
+      internalID: -2900216793438853009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41753b1b9efa6204e83c6ede5bee4a8d
+      internalID: -8476090448627083975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfb20382fe4b744af111e81ab8f0b5
+      internalID: -5498094490985749647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47f9c914508364199cecd91a935747
+      internalID: 6763601924614743776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_211
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b499a31514914285754692cc17c87
+      internalID: -2882181682179899923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_212
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637bb8e67a97d94680cbabba47ef573
+      internalID: -323898195199473843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_213
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09aac00206a6ac4f8a88927c577ec02
+      internalID: 7840141180585914501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_214
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be8cc687523d924b94b44bfbd684562
+      internalID: -5796952298676454832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_215
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2424734b932e40a9861b709a20f22
+      internalID: -6545710508523266350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_216
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8fbb31a2927e4408ceaa01dc5fefb8
+      internalID: -1159055931526227020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_217
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02497f795ff05418fe2974a0e48554
+      internalID: -2451667661485836987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee25ad9ec99fb4880a108535f4a1a8
+      internalID: 7576988597589233486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_219
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc6d20bfa546c4eb68ad235f7efa34
+      internalID: 2825139539068491247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57bace46c301742b6985613819f96f
+      internalID: -6800268816850255341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_221
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e470e090fb68408c6990c2284a493
+      internalID: -8229831293440550370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_222
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2dbe9c288366b479513996a83c4726
+      internalID: -2110097835988718077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_223
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d4ebce8509164dbb0f9fac48c8e8f
+      internalID: -8919784880157559047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_224
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1567cdfd00d6ee4abb1859a496d4da2
+      internalID: 5099930521195833193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_225
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5c2a2abd03f549a4c1ae35020e09c
+      internalID: 7572596802087902843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_226
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e4c14e28db3b4083997b1e96bd4d5
+      internalID: 6130485116314604212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_227
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb627ca4b7a69f04f8a8c9a1b856b86f
+      internalID: -5838295019576352014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_228
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02cbe9e64490344b9273d28f422518
+      internalID: 2191755972304715708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_229
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c2509c7dc13f49b23bd45ab6fd835
+      internalID: -6758103707920679822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d2de83ade1104cac8898e107d56a5
+      internalID: 1685789872934917088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_231
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2ea98335f37e4e83bcc76eadfe95d
+      internalID: -6032356111760606267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dcf7682cbcf284ea54879daa8b9a79
+      internalID: -1533367750229550822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_233
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f4fc64d52e7f24b99599f9ee6c91b6
+      internalID: 1022461056630521100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_234
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c09a9e2d5ba994eaddd0cd71790723
+      internalID: -3925207881231823722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_235
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93873f61c301bb47bded389dc309251
+      internalID: -3858082878819646953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_236
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d81d7b94a1df458afb650c6f35848
+      internalID: -4255944754191484357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_237
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1becf2e507e3429d152c460410834
+      internalID: 5447463532985696900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_238
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4120fcfe18d0847947b2404b9aece0
+      internalID: -5494059900475650483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_239
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684c171f31a5b44aa355cd8dc4422e2
+      internalID: -6774773238495955363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866ee142520ec4479769f4e6ae56465
+      internalID: 5587375821526602946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_241
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505f862e27f4cd4d9798f708c55f4b1
+      internalID: 8223132932665377063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_242
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb6dd7531d7fc499645d3b56574beb
+      internalID: 9093766344457022987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_243
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45325487eb1ff49498966e259774513b
+      internalID: 6984207934029314633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_244
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281fb228723b97f44ae60286c8bdd4a9
+      internalID: -3981007923932914826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_245
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309c1e717d2bb841a33959f0a9b6bbe
+      internalID: 8661469216498529682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_246
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea249b6cef5484d4b9dc1f0bcd701aad
+      internalID: 7563537519713512570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_247
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ccf8ac6e66d0478a215137861db77
+      internalID: -1453325995278212921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_248
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4994352a7c35b044822f2660ce9fa2f
+      internalID: 1649465935959366938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_249
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20d5623c04dab4dbb9c5e2c911c0ad
+      internalID: -2363340882847371828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4cc437d9b94374890844786cd7b5a0
+      internalID: 7161522204069226895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb565cbbe44a5488c88b7253530774
+      internalID: 3443717028482521225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf24c452bf6bcfc42a320ee27bc70eb8
+      internalID: 7546197051569871850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175206137fcbc844b50a7c2233e67c4
+      internalID: -5411361320187725929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addd0c0b74519e5408dc6aa739cfae23
+      internalID: -7445950917712884558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_255
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6c456a5c12434bb55c594b2d183a3
+      internalID: -595787391633300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_256
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b2764438a7c04ea91ef90c872f656
+      internalID: -5441850581098575417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_257
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d742717847781bb479d801de9d637078
+      internalID: 4117701160798796242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535ceaf317fd274b89a574e272b78d4
+      internalID: 5202837491220777071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 200
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ea37e22a5f4c4aa4e25108d9c6ce5
+      internalID: -1053357932739178527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f9994084486a44aefca6b9f883b42
+      internalID: -3685760571955708187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_261
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f341d0d31928848a1acf6f2ff079eb
+      internalID: -1323817081513535080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_262
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591288b2dff0ed47bb52d234de4e667
+      internalID: -1865279114485989474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_263
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b56e869ec3f854ebe7958623df061f
+      internalID: -495072410072302687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_264
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc62c078c579874280b7f077420020d
+      internalID: 1350228246802924485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_265
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1ea68d15c920418ecc98f1d65b28c
+      internalID: 5616129176918412173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_266
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f1b16f05979a498af51e3a4f54dd8
+      internalID: -1410805054601507675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_267
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b505a8ffa0e27447a652ab01dd85848
+      internalID: -7474013796353863545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_268
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b76d416ff9c72478adc529a23e03ff
+      internalID: -7341800126311706187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_269
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3141d8f917e777a49b5c93b5719e2144
+      internalID: -2922670399140522487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553018da6b79a7409e505fb9def256d
+      internalID: -810117131285603079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_271
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348789f92539e3f499b20658ad54c37a
+      internalID: -1913527743914837199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_272
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed26da96d86d84cac133da437b62e1
+      internalID: 2925483489152197931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_273
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a388d8594117f49b13cbd7c50e3e4b
+      internalID: -8020318369758695561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_274
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ad85b4488b614991d542deb2ca6a0
+      internalID: -6662563977870296705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_275
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ddb8510ffa264098fecd0508d2959
+      internalID: 5106370079938241408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_276
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971cb65bcad6164ba41b4d3951be9da
+      internalID: 4178269066408986862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_277
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb028ea632da8340a3c06d13816fe97
+      internalID: -4791300829991629952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_278
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af3e4f6ddf3c64c94f1b253590688c
+      internalID: 8425227049215285316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_279
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994644e56993e41468a8706b25c1851a
+      internalID: -6288883258363284723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_280
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c9ad8bda6aad4db10a6ecdb5465f5
+      internalID: -8583261671554639023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_281
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d94b3abf0f4d45a606a4bfcd9fc19
+      internalID: -9191076327298395132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_282
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da2e7553777af04f885a2689c899e1c
+      internalID: 8904988983383987310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_283
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fd1cf449412714f91bd323289ee33c
+      internalID: -7252351683381457880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_284
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69578e519803c7e4e9f178afd9432a08
+      internalID: -8971012229740526119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_285
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ddae319abcd0a4e8d1b38385b8a885
+      internalID: -6660317983081743721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_286
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474928bd1d63d974594097d1e10ce8a5
+      internalID: 8021994845103476649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_287
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acf68401a6c564e9457154315a003c
+      internalID: -478281439889398681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_288
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c3e870a60d8c9428b25aa278471f72
+      internalID: -791378977258941411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_289
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01cc562efe41c47925fb10cee0ff0e
+      internalID: -6000989708492866134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_290
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98cdef1982f645438f313a2639fcc9c
+      internalID: 2290720113142218361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_291
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75844ecaf309d1e489c6f310f57dc242
+      internalID: 901619026127858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_292
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5cf875bcc92743a7f211d7fe78ac8
+      internalID: 1241081361362939712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_293
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10d675e3f3d7542b65f745a8287308
+      internalID: 7369870249803359593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_294
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5fb694adab73b47ba1044c833569f4
+      internalID: -8498120018813646419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_darktiles1_295
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d6336af3b44414d8ce8b4fde0aa5d3
+      internalID: 7548186750955458901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 022eca33affea9149859483fcb5174ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
