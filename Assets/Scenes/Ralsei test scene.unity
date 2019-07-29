@@ -265,9 +265,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: ecd87f3bb90be9b43a940f4fa0c9bee7,
+    m_HighlightedSprite: {fileID: 21300000, guid: acb33130ed02763488e825b9177c28a0,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: c44791fdb181c59498a65a3a0a856f55, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: d652babc27b46244aa7c3c357337629f, type: 3}
     m_SelectedSprite: {fileID: 21300000, guid: ecd87f3bb90be9b43a940f4fa0c9bee7, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: 71e9b931fda5f014d9dfa76ac9e881cc, type: 3}
   m_AnimationTriggers:
@@ -276,7 +276,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 125723837}
   m_OnClick:
     m_PersistentCalls:
@@ -314,7 +314,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 71e9b931fda5f014d9dfa76ac9e881cc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e6e0a5531aedd8140b393e4796da810b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -441,9 +441,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: cc6b0e568fc52c149bb19eb30d49ef5d,
+    m_HighlightedSprite: {fileID: 21300000, guid: acb33130ed02763488e825b9177c28a0,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: abda001089c40fc44b89c03f8c5ff99c, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: d652babc27b46244aa7c3c357337629f, type: 3}
     m_SelectedSprite: {fileID: 21300000, guid: cc6b0e568fc52c149bb19eb30d49ef5d, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: cc52d16e282d3ff48b057a12e836460b, type: 3}
   m_AnimationTriggers:
@@ -452,7 +452,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 311395427}
   m_OnClick:
     m_PersistentCalls:
@@ -490,7 +490,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: cc52d16e282d3ff48b057a12e836460b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e6e0a5531aedd8140b393e4796da810b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -979,15 +979,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 103
-  m_Sprite: {fileID: 21300000, guid: d0d5ab3c68f415e498d74560f7d84d55, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3cfa0c18d7e96b04298bf6a0badeebd6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.39, y: 0.22}
+  m_Size: {x: 0.35, y: 0.18}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &587700207
@@ -1165,9 +1165,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 1dc2a6f19928d8042b4ec02e39bdec8e,
+    m_HighlightedSprite: {fileID: 21300000, guid: acb33130ed02763488e825b9177c28a0,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: ea49a3499b92def4c94dc5437586af5b, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: d652babc27b46244aa7c3c357337629f, type: 3}
     m_SelectedSprite: {fileID: 21300000, guid: 1dc2a6f19928d8042b4ec02e39bdec8e, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: b10affef894e6784c94af5b57a42ac59, type: 3}
   m_AnimationTriggers:
@@ -1176,7 +1176,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 635116574}
   m_OnClick:
     m_PersistentCalls:
@@ -1214,7 +1214,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b10affef894e6784c94af5b57a42ac59, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ac553f49c374314418427ae6858a090d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1272,7 +1272,7 @@ Animator:
   m_GameObject: {fileID: 718186635}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6b424e84bcaa22442a3be2c0e170310b, type: 2}
+  m_Controller: {fileID: 9100000, guid: 409d3264fb9139441a36bbef8a6088ac, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2271,7 +2271,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1608513546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3100,7 +3100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1833479696}
-  isFollowing: 1
+  enableX: 1
+  enableY: 1
 --- !u!1 &1963117955
 GameObject:
   m_ObjectHideFlags: 0
@@ -3280,9 +3281,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 06ec5c7e50d4ad64e8b6afc456c0c4f7,
+    m_HighlightedSprite: {fileID: 21300000, guid: 0d208942a2a9e524e858010b646578f7,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 2e5ac93ae07078542a369bdc39c5dc6e, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: e02e6f5a94504a64592ff6ea75c00752, type: 3}
     m_SelectedSprite: {fileID: 21300000, guid: 06ec5c7e50d4ad64e8b6afc456c0c4f7, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: 60a37d663e86ad94faa06412df8cd8bf, type: 3}
   m_AnimationTriggers:
@@ -3291,7 +3292,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 1970200560}
   m_OnClick:
     m_PersistentCalls:
@@ -3329,7 +3330,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 60a37d663e86ad94faa06412df8cd8bf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ff178f2fa8e2bfb458a08128ca88a007, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

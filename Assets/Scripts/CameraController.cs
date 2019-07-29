@@ -10,7 +10,8 @@ public class CameraController : MonoBehaviour
 {
     public GameObject player;
     Transform tr;
-    public bool isFollowing = true;
+    public bool enableX = true;
+    public bool enableY = true;
 
     void Start()
     {
@@ -19,9 +20,13 @@ public class CameraController : MonoBehaviour
     
     void Update()
     {
-        if(isFollowing)
+        if(enableX)
         {
-            tr.position = player.transform.position + new Vector3(0,0,-3f);
-        }   // 5AM coding ftw.
+            tr.position = new Vector3(player.transform.position.x, tr.position.y, -3f);
+        }
+        if(enableY)
+        {
+            tr.position = new Vector3(tr.position.x, player.transform.position.y, -3f);
+        }
     }
 }

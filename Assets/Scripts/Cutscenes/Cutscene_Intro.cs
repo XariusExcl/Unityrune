@@ -34,6 +34,15 @@ public class Cutscene_Intro : MonoBehaviour
         string json = Resources.Load<TextAsset>("Json/text_en").text;
         textLibrary = JsonConvert.DeserializeObject<Dictionary<string, DialogEvent>>(json);
     }
+    public void StartDialogue()
+    {
+
+    }
+    
+    public void DisplayNextSentence()
+    {
+        
+    }
     void Update()
     {
         switch(i)
