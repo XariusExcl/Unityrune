@@ -116,7 +116,7 @@
       }
     ]
   },
-  "intro_2a": {
+  "intro_2": {
     "textboxes": [
       {
         "text": "It was\na LEGEND of HOPE.",
@@ -156,7 +156,7 @@
       }
     ]
   },
-  "intro_3a": {
+  "intro_3": {
     "textboxes": [
       {
         "text": "This is the legend of",
@@ -264,7 +264,7 @@
       }
     ]
   },
-  "intro_6a": {
+  "intro_6": {
     "textboxes": [
       {
         "text": "A HUMAN,",
