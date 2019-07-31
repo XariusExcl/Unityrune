@@ -46,7 +46,7 @@ public class MenuCharaInfo : MonoBehaviour
 
             nameText.text = nameTextSB.ToString();
 
-            playerImg.sprite = Resources.Load<Sprite>("Sprites/Ui/" + character.Name + "_Img");
+            playerImg.sprite = Resources.Load<Sprite>("Sprites/Ui/head" + character.Name + "0");
             
             StringBuilder hpTextSB = new StringBuilder();
 
@@ -64,13 +64,13 @@ public class MenuCharaInfo : MonoBehaviour
 
             hpText.text = hpTextSB.ToString();
 
-            float barScale = ((float)character.Hp/character.Maxhp)*2;
+            float barScale = ((float)character.Hp/character.Maxhp)*8;
             if (barScale < 0)
                 barScale = 0;
-            if (barScale > 2)
-                barScale = 2;
+            if (barScale > 8)
+                barScale = 8;
 
-            hpBar.transform.localScale = new Vector3 (barScale, 2f, 0f);
+            hpBar.transform.localScale = new Vector3 (barScale, 8f, 0f);
 
             hpBar.GetComponent<SpriteRenderer>().color = new Color (character.Color[0], character.Color[1], character.Color[2]);
         }

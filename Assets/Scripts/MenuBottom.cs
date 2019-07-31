@@ -79,9 +79,9 @@ public class MenuBottom : MonoBehaviour
                 break;
 
             case 3:
-                childrensTransforms[0].transform.localPosition = new Vector3 (-436, 80, 0);
+                childrensTransforms[0].transform.localPosition = new Vector3 (-426, 80, 0);
                 childrensTransforms[1].transform.localPosition = new Vector3 (0, 80, 0);
-                childrensTransforms[2].transform.localPosition = new Vector3 (436, 80, 0);
+                childrensTransforms[2].transform.localPosition = new Vector3 (426, 80, 0);
                 break;
         }
     }

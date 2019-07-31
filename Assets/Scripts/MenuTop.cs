@@ -15,12 +15,24 @@ public class MenuTop : MonoBehaviour
     public static bool enableMenu = true;
     Animator anim;
     private Component[] buttons;
+
+    public bool langIsJapanese;
+    public SpriteRenderer description;
+    public Sprite[] menuDesc;
+
+    int jap;
+    
     void Start()
     {
         anim = gameObject.GetComponent<Animator>();
     }
     void Update()
     {
+        if (langIsJapanese)
+        {
+            jap = 5;
+        } else { jap = 0;}
+
         if (Input.GetButtonDown("Menu") && enableMenu == true)
         {
             isOpen = !isOpen;
@@ -42,22 +54,37 @@ public class MenuTop : MonoBehaviour
             }
         }
     }
-
+    public void HoverItems()
+    {
+        description.sprite = menuDesc[0 + jap];
+    }
     public void SelectItems()
     {
         Debug.Log("Selected Items!");
     }
 
+    public void HoverEquipment()
+    {
+        description.sprite = menuDesc[1 + jap];
+    }
     public void SelectEquipment()
     {
         Debug.Log("Selected Equipment!");
     }
 
+    public void HoverStats()
+    {
+        description.sprite = menuDesc[3 + jap];
+    }
     public void SelectStats()
     {
         Debug.Log("Selected Stats!");
     }
 
+    public void HoverSettings()
+    {
+        description.sprite = menuDesc[4 + jap];
+    }
     public void SelectSettings()
     {
         Debug.Log("Selected Settings!");
