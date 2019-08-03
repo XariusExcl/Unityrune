@@ -11,10 +11,16 @@ public class MenuCharaInfo : MonoBehaviour
 {
     public Character character;
     public Text nameText;
-    public SpriteRenderer playerImg;
+    public Image playerImg;
     public Text hpText;
+    public Text maxHpText;
     public GameObject hpBar;
-
+    RectTransform rt;
+     
+    public void Start()
+    {
+        rt = playerImg.GetComponent<RectTransform>();
+    }
     // Update is called once per frame
     void Update()
     {
@@ -43,36 +49,16 @@ public class MenuCharaInfo : MonoBehaviour
                 nameTextSB.Append(letter);
             }
             
-
             nameText.text = nameTextSB.ToString();
 
             playerImg.sprite = Resources.Load<Sprite>("Sprites/Ui/head" + character.Name + "0");
-            
-            StringBuilder hpTextSB = new StringBuilder();
+            rt.sizeDelta = new Vector2 (playerImg.sprite.rect.width, playerImg.sprite.rect.height);
 
-            // Adds automatic spaces to HP display
-            hpTextSB.Append(character.Hp);
+            maxHpText.text = character.Maxhp.ToString();
+            hpText.text = character.Hp.ToString();
+            hpBar.transform.localScale = new Vector3 (Mathf.Clamp((float)character.Hp/character.Maxhp, 0f, 1f), 1f, 1f);
 
-            if (character.Maxhp < 10)
-                hpTextSB.Append("/        ");
-            else if (character.Maxhp < 100)
-                hpTextSB.Append("/     ");
-            else
-                hpTextSB.Append("/  ");
-            
-            hpTextSB.Append(character.Maxhp);
-
-            hpText.text = hpTextSB.ToString();
-
-            float barScale = ((float)character.Hp/character.Maxhp)*8;
-            if (barScale < 0)
-                barScale = 0;
-            if (barScale > 8)
-                barScale = 8;
-
-            hpBar.transform.localScale = new Vector3 (barScale, 8f, 0f);
-
-            hpBar.GetComponent<SpriteRenderer>().color = new Color (character.Color[0], character.Color[1], character.Color[2]);
+            hpBar.GetComponent<Image>().color = new Color (character.Color[0], character.Color[1], character.Color[2]);
         }
     }
 }

@@ -70,18 +70,18 @@ public class MenuBottom : MonoBehaviour
         switch (gameObject.transform.childCount)
         {
             case 1:
-                childrensTransforms[0].transform.localPosition = new Vector3 (0, 80, 0);
+                childrensTransforms[0].transform.localPosition = new Vector3 (0, 32, 0);
                 break;
 
             case 2:
-                childrensTransforms[0].transform.localPosition = new Vector3 (-213, 80, 0);
-                childrensTransforms[1].transform.localPosition = new Vector3 (213, 80, 0);
+                childrensTransforms[0].transform.localPosition = new Vector3 (-107, 32, 0);
+                childrensTransforms[1].transform.localPosition = new Vector3 (107, 32, 0);
                 break;
 
             case 3:
-                childrensTransforms[0].transform.localPosition = new Vector3 (-426, 80, 0);
-                childrensTransforms[1].transform.localPosition = new Vector3 (0, 80, 0);
-                childrensTransforms[2].transform.localPosition = new Vector3 (426, 80, 0);
+                childrensTransforms[0].transform.localPosition = new Vector3 (-214, 32, 0);
+                childrensTransforms[1].transform.localPosition = new Vector3 (0, 32, 0);
+                childrensTransforms[2].transform.localPosition = new Vector3 (214, 32, 0);
                 break;
         }
     }

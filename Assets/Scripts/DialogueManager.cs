@@ -20,27 +20,32 @@ using System.Text;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Newtonsoft.Json;
 
 public class DialogueManager : MonoBehaviour
 {
-
     public Text textboxText;
     public GameObject goTextbox;
-	public SpriteRenderer textboxImage;
+	public Image textboxImage;
 	[HideInInspector]
 	public DialogTextBox Textbox;
 	[HideInInspector]
 	public string fullText;
-    private Queue<DialogTextBox> Textboxes;
-	private AudioClip voice;
-	private AudioSource audioClip;
-	private Coroutine co;
-	private bool typing;
+    Queue<DialogTextBox> Textboxes;
+	Dictionary<string, string> Faces = new Dictionary<string, string>();
+	AudioClip voice;
+	AudioSource audioClip;
+	Coroutine co;
+	RectTransform rt;
+	bool typing;
 
 	void Start ()
 	{
 		audioClip = GetComponent<AudioSource>();
 		Textboxes = new Queue<DialogTextBox>();
+		rt = textboxImage.GetComponent<RectTransform>();
+        string json = Resources.Load<TextAsset>("Json/faces").text;
+        Faces = JsonConvert.DeserializeObject<Dictionary<string, string>>(json);
 	}
 
 	void Update()
@@ -82,43 +87,48 @@ public class DialogueManager : MonoBehaviour
 			EndDialogue();
 			return;
 		}
-		DialogTextBox Textbox = Textboxes.Dequeue();  // Loads next textbox in "Textbox"
+		DialogTextBox Textbox = Textboxes.Dequeue();
 
+		// VOICE OF THE TEXTBOX
 		if (Textbox.Character != null)
 		{
 			string[] split = Textbox.Character.Split('_');  // Formatting :)
 			voiceStr = split[0];
 		}
-
-
-		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + voiceStr);  // Load the voice clip
+		voice = Resources.Load<AudioClip>("Audio/Voices/Voice_" + voiceStr);
 		audioClip.clip = voice;
 
+		// FACE SPRITE OF THE TEXTBOX
+		textboxImage.sprite = Resources.Load<Sprite>("Sprites/Faces/" + Faces[Textbox.Character]);
+        rt.sizeDelta = new Vector2 (textboxImage.sprite.rect.width, textboxImage.sprite.rect.height);
 
-		textboxImage.sprite = Resources.Load<Sprite>("Sprites/Faces/" + Textbox.Character);  // Load the face to display
-
-
+		// POSITION OF THE TEXTBOX RECT
 		if (Textbox.Pos != new Vector2(0, 0))
 		{
 			textboxText.rectTransform.anchoredPosition = Textbox.Pos;  // Use custom pos when set
-		}else if(Textbox.Character != null){
-			textboxText.rectTransform.anchoredPosition = new Vector2(-83, -12); // Default pos for character textboxes
-		}else{
-			textboxText.rectTransform.anchoredPosition = new Vector2(10, 0); // Default pos for floating text
+		} else if(Textbox.Character != null) {
+			textboxText.rectTransform.anchoredPosition = new Vector2(-42, -6); // Default pos for character textboxes
+		} else {
+			textboxText.rectTransform.anchoredPosition = new Vector2(5, 0); // Default pos for floating text
 		}
 
-
+		// SIZE OF THE TEXTBOX RECT
 		if (Textbox.Size != new Vector2(0, 0))
 		{
 			textboxText.rectTransform.sizeDelta = Textbox.Size;  // Use custom size when set
-		}else if(Textbox.Character == "Narrator" || Textbox.Character == null){
-			textboxText.rectTransform.sizeDelta = new Vector2(1020,250);  // Use larger textarea when narrating
-		}else{
-			textboxText.rectTransform.sizeDelta = new Vector2(800,250);   // Default size
+		} else if (Textbox.Character == "Narrator" || Textbox.Character == null){
+			textboxText.rectTransform.sizeDelta = new Vector2(505,125);  // Use larger textarea when narrating
+		} else {
+			textboxText.rectTransform.sizeDelta = new Vector2(400,125);   // Default size
 		}
 		
-		if (co != null) {StopCoroutine(co);}
-		fullText = Textbox.Text;
+		// TEXT FORMATTING
+		fullText = WordWrap(Textbox.Text, -2 + (int)textboxText.rectTransform.sizeDelta.x/16);
+		Debug.Log((int)textboxText.rectTransform.sizeDelta.x/16);
+
+		if (co != null) 
+			StopCoroutine(co);
+
 		co = StartCoroutine(TypeSentence(fullText, Textbox.Character, Textbox.ShortDelay, Textbox.LongDelay));
 	}
 
@@ -137,11 +147,11 @@ public class DialogueManager : MonoBehaviour
 
 			char[] array = {',','.','?','!'};
 
-			if (array.Contains(letter))		// Don't play voice + longer pause if the letter is one of those
+			if (array.Contains(letter))		// No sound, longer pause
 			{
 				yield return new WaitForSeconds(longDelay);
 
-			} else if(letter != ' ') {		// Normal pause, but no sound for spaces
+			} else if(letter != ' ') {		// Normal pause, no sound
 				audioClip.Play();
 			}
 
@@ -156,5 +166,34 @@ public class DialogueManager : MonoBehaviour
 		textboxText.text = "";
 		PlayerController.inMenu = false;
 		MenuTop.enableMenu = true;
+	}
+
+	private static string WordWrap(string text, int maxLineLength)
+	{
+		var list = new List<string>();
+
+		int currentIndex;
+		var lastWrap = 0;
+		var whitespace = new[] {' ', '\r', '\n', '\t'};
+		do
+		{
+			currentIndex =
+				lastWrap +
+				maxLineLength > text.Length
+					? text.Length
+					: (text.LastIndexOfAny(new[] {' ', ',', '.', '?', '!', ':', ';', '-', '\n', '\r', '\t'},
+							Math.Min(text.Length - 1, lastWrap + maxLineLength)) + 1);
+			if (currentIndex <= lastWrap)
+				currentIndex = Math.Min(lastWrap + maxLineLength, text.Length);
+			list.Add(text.Substring(lastWrap, currentIndex - lastWrap).Trim(whitespace));
+			lastWrap = currentIndex;
+		} while (currentIndex < text.Length);
+
+		string str = "";
+
+		foreach (string line in list)
+			str += line + "\n";
+
+		return str.TrimEnd('\n');
 	}
 }

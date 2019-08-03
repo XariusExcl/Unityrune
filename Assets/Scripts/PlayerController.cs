@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour {
 	Rigidbody2D rb;
 	Animator anim;
 	Transform tr;
+	public GameObject talk;
+	Vector2 direction;
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
@@ -28,25 +30,34 @@ public class PlayerController : MonoBehaviour {
 		
 		if (MenuTop.isOpen || inMenu) // If inside of a menu/textbox
 		{
-		inputHorizontal = 0f;
-		inputVertical = 0f;
+			inputHorizontal = 0f;
+			inputVertical = 0f;
 		} else {
-		inputHorizontal = Input.GetAxisRaw("Horizontal");
-		inputVertical = Input.GetAxisRaw("Vertical");
-		}
+			inputHorizontal = Input.GetAxisRaw("Horizontal");
+			inputVertical = Input.GetAxisRaw("Vertical");
+			
+			if (inputHorizontal != 0f || inputVertical != 0f)
+				direction = new Vector2(inputHorizontal/5, -.15f + inputVertical/5);
 
-		if (Input.GetButton("Sprint"))
-		{
-			inputHorizontal *= 1.5f;
-			inputVertical *= 1.5f;
+
+			if (Input.GetButton("Sprint"))
+			{
+				inputHorizontal *= 1.5f;
+				inputVertical *= 1.5f;
+			}
+
+			if (Input.GetButtonDown("Confirm")) // Enter or Z key
+			{
+				talk.SetActive(true);
+				talk.transform.localPosition = direction;
+			}
+			if (Input.GetButtonUp("Confirm"))
+			{
+				talk.gameObject.SetActive(false);
+			}	
 		}
 
 		/*
-		if (Input.GetButtonDown("Confirm")) // Enter or Z key
-		{
-			Debug.Log("Confirm key pressed!");
-		}
-
 		if (Input.GetButtonDown("Cancel")) // Backspace or X key
 		{
 			Debug.Log("Cancel key pressed!");

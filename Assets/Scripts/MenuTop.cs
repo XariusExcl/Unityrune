@@ -15,24 +15,26 @@ public class MenuTop : MonoBehaviour
     public static bool enableMenu = true;
     Animator anim;
     private Component[] buttons;
-
     public bool langIsJapanese;
-    public SpriteRenderer description;
-    public Sprite[] menuDesc;
-
-    int jap;
+    public Image description;
+    List<Sprite> menuDesc = new List<Sprite>();
     
+
     void Start()
     {
         anim = gameObject.GetComponent<Animator>();
+        
+        for (int i = 0; i < 5; i++)
+        {
+            if (langIsJapanese)
+                menuDesc.Add(Resources.Load<Sprite>("Sprites/Ui/ja_darkmenudesc" + i.ToString()));
+            else
+                menuDesc.Add(Resources.Load<Sprite>("Sprites/Ui/darkmenudesc" + i.ToString()));
+        }
+        
     }
     void Update()
     {
-        if (langIsJapanese)
-        {
-            jap = 5;
-        } else { jap = 0;}
-
         if (Input.GetButtonDown("Menu") && enableMenu == true)
         {
             isOpen = !isOpen;
@@ -48,7 +50,7 @@ public class MenuTop : MonoBehaviour
             if (isOpen)
             {
                 Button firstButton = GetComponentInChildren<Button>();
-
+                
                 firstButton.Select();
                 firstButton.OnSelect(null);
             }
@@ -56,7 +58,7 @@ public class MenuTop : MonoBehaviour
     }
     public void HoverItems()
     {
-        description.sprite = menuDesc[0 + jap];
+        description.sprite = menuDesc[0];
     }
     public void SelectItems()
     {
@@ -65,7 +67,7 @@ public class MenuTop : MonoBehaviour
 
     public void HoverEquipment()
     {
-        description.sprite = menuDesc[1 + jap];
+        description.sprite = menuDesc[1];
     }
     public void SelectEquipment()
     {
@@ -74,7 +76,7 @@ public class MenuTop : MonoBehaviour
 
     public void HoverStats()
     {
-        description.sprite = menuDesc[3 + jap];
+        description.sprite = menuDesc[3];
     }
     public void SelectStats()
     {
@@ -83,7 +85,7 @@ public class MenuTop : MonoBehaviour
 
     public void HoverSettings()
     {
-        description.sprite = menuDesc[4 + jap];
+        description.sprite = menuDesc[4];
     }
     public void SelectSettings()
     {

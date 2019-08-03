@@ -119,7 +119,7 @@
   "intro_2": {
     "textboxes": [
       {
-        "text": "It was\na LEGEND of HOPE.",
+        "text": "It was\na LEGEND\nof HOPE.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
         "width": 320,
@@ -127,7 +127,7 @@
         "posx" : -320
       },
       {
-        "text": "It was\na LEGEND of LIGHT.",
+        "text": "It was\na LEGEND\nof LIGHT.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
         "width" : 320,
@@ -139,7 +139,7 @@
   "intro_2b": {
     "textboxes": [
       {
-        "text": "It was\na LEGEND of DREAMS.",
+        "text": "It was\na LEGEND\nof DREAMS.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
         "width" : 320,
@@ -147,7 +147,7 @@
         "posx" : 280
       },
       {
-        "text": "It was\na LEGEND of DARK.",
+        "text": "It was\na LEGEND\nof DARK.",
         "shortDelay": 0.1,
         "longDelay": 0.1,
         "width" : 320,
@@ -383,7 +383,7 @@
     "textboxes": [
       {
         "text": "* Oh, Kris!",
-        "character": "Ralsei_shocked"
+        "character": "face_r_dark3"
       },
       {
         "text": "(You look at the training dummy.)",
@@ -391,11 +391,31 @@
       },
       {
         "text": "* It's the training dummy I made!",
-        "character": "Ralsei_happy"
+        "character": "face_r_dark8"
       },
       {
         "text": "* Now seems like a great chance to prepare for the enemy.",
-        "character": "Ralsei_happy"
+        "character": "face_r_dark8"
+      }
+    ]
+  },
+  "mysterious_i": {
+    "textboxes": [
+      {
+        "text": "* Ummm...",
+        "character": "face_r_dark8"
+      },
+      {
+        "text": "* What is this, exactly ...?",
+        "character": "face_r_dark8"
+      },
+      {
+        "text": "* It looks like an I.",
+        "character": "face_r_dark11"
+      },
+      {
+        "text": "* Maybe it's because you and I make a great team!",
+        "character": "face_r_dark7"
       }
     ]
   }
