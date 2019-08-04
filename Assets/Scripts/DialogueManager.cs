@@ -99,8 +99,14 @@ public class DialogueManager : MonoBehaviour
 		audioClip.clip = voice;
 
 		// FACE SPRITE OF THE TEXTBOX
-		textboxImage.sprite = Resources.Load<Sprite>("Sprites/Faces/" + Faces[Textbox.Character]);
-        rt.sizeDelta = new Vector2 (textboxImage.sprite.rect.width, textboxImage.sprite.rect.height);
+		if (Textbox.Character != "Narrator")
+		{
+			textboxImage.color = new Color(255, 255, 255, 255);
+			textboxImage.sprite = Resources.Load<Sprite>("Sprites/Faces/" + Faces[Textbox.Character]);
+        	rt.sizeDelta = new Vector2 (textboxImage.sprite.rect.width, textboxImage.sprite.rect.height);
+		} else {
+			textboxImage.color = new Color(255, 255, 255, 0);
+		}
 
 		// POSITION OF THE TEXTBOX RECT
 		if (Textbox.Pos != new Vector2(0, 0))
@@ -124,7 +130,6 @@ public class DialogueManager : MonoBehaviour
 		
 		// TEXT FORMATTING
 		fullText = WordWrap(Textbox.Text, -2 + (int)textboxText.rectTransform.sizeDelta.x/16);
-		Debug.Log((int)textboxText.rectTransform.sizeDelta.x/16);
 
 		if (co != null) 
 			StopCoroutine(co);

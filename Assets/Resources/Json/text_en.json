@@ -5,7 +5,7 @@
         "text": "oh no..."
       },
       {
-        "text": "it seems...                    the game...                    has crashed."
+        "text": "it seems the game has crashed."
       },
       {
         "text": "it does that sometimes..."
@@ -383,7 +383,7 @@
     "textboxes": [
       {
         "text": "* Oh, Kris!",
-        "character": "face_r_dark3"
+        "character": "Ralsei_3"
       },
       {
         "text": "(You look at the training dummy.)",
@@ -391,11 +391,11 @@
       },
       {
         "text": "* It's the training dummy I made!",
-        "character": "face_r_dark8"
+        "character": "Ralsei_8"
       },
       {
         "text": "* Now seems like a great chance to prepare for the enemy.",
-        "character": "face_r_dark8"
+        "character": "Ralsei_8"
       }
     ]
   },
@@ -403,19 +403,19 @@
     "textboxes": [
       {
         "text": "* Ummm...",
-        "character": "face_r_dark8"
+        "character": "Ralsei_8"
       },
       {
         "text": "* What is this, exactly ...?",
-        "character": "face_r_dark8"
+        "character": "Ralsei_8"
       },
       {
         "text": "* It looks like an I.",
-        "character": "face_r_dark11"
+        "character": "Ralsei_11"
       },
       {
         "text": "* Maybe it's because you and I make a great team!",
-        "character": "face_r_dark7"
+        "character": "Ralsei_7"
       }
     ]
   }
