@@ -37,14 +37,23 @@ public class PlayerController : MonoBehaviour {
 			inputVertical = Input.GetAxisRaw("Vertical");
 			
 			if (inputHorizontal != 0f || inputVertical != 0f)
+			{
+				anim.enabled = true;
 				direction = new Vector2(inputHorizontal/5, -.15f + inputVertical/5);
-
+			} else {
+				if (anim.enabled == true)
+				{
+					anim.Play(anim.GetCurrentAnimatorClipInfo(0)[0].clip.name, 0, 0);
+					Invoke("DisableAnimation", 0.016f);
+				}
+			}
 
 			if (Input.GetButton("Sprint"))
 			{
+				anim.speed = 2f;
 				inputHorizontal *= 1.5f;
 				inputVertical *= 1.5f;
-			}
+			} else { anim.speed = 1f; }
 
 			if (Input.GetButtonDown("Confirm")) // Enter or Z key
 			{
@@ -82,5 +91,9 @@ public class PlayerController : MonoBehaviour {
                                   Convert.ToSingle(Math.Round(tr.position.y, 2)),
                                   tr.position.z);
 	}
+	    void DisableAnimation()
+    {
+        anim.enabled = false;
+    }
 	
 }

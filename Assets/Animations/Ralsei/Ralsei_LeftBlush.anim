@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ralsei_RightWalk
+  m_Name: Ralsei_LeftBlush
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,13 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 9e62e17638d45c74d9f7d8e5da74779d, type: 3}
+      value: {fileID: 21300000, guid: 162e32bff8e0825439ab030f1eaf9852, type: 3}
     - time: 0.16666667
-      value: {fileID: 21300000, guid: 1ff8011d79cd8cb47aa7d8b8e2c8de13, type: 3}
+      value: {fileID: 21300000, guid: a814b4e3c0d5f674e91c531d4e202cf8, type: 3}
     - time: 0.33333334
-      value: {fileID: 21300000, guid: f670d5983afc0f0408308ce076286f1b, type: 3}
+      value: {fileID: 21300000, guid: e27ea93eb7d1de74ba857db1a7bd8364, type: 3}
     - time: 0.5
-      value: {fileID: 21300000, guid: 731be5670199bcc48805ad9be2b0868d, type: 3}
+      value: {fileID: 21300000, guid: dff9f46247730f84da00f3a8a2a1a842, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,10 +46,10 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 9e62e17638d45c74d9f7d8e5da74779d, type: 3}
-    - {fileID: 21300000, guid: 1ff8011d79cd8cb47aa7d8b8e2c8de13, type: 3}
-    - {fileID: 21300000, guid: f670d5983afc0f0408308ce076286f1b, type: 3}
-    - {fileID: 21300000, guid: 731be5670199bcc48805ad9be2b0868d, type: 3}
+    - {fileID: 21300000, guid: 162e32bff8e0825439ab030f1eaf9852, type: 3}
+    - {fileID: 21300000, guid: a814b4e3c0d5f674e91c531d4e202cf8, type: 3}
+    - {fileID: 21300000, guid: e27ea93eb7d1de74ba857db1a7bd8364, type: 3}
+    - {fileID: 21300000, guid: dff9f46247730f84da00f3a8a2a1a842, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

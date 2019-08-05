@@ -26,21 +26,29 @@ public class NPCController : MonoBehaviour
         anim = GetComponent<Animator>();
 
         float i;
-        for (i = -0.28f; i <= 0; i += 0.02f)
+        for (i = -(size-1)*2; i <= 0; i += 0.02f)
         {
             Enqueue(playerPos + new Vector3(i, 0, 0));
+            // might be a great idea to check for walls before putting all of those positions
         }
     }
 
     void FixedUpdate()
     {
         playerPos = playerGo.transform.position;
-        npcPos = gameObject.GetComponent<Transform>().position;
+        npcPos = transform.position;
 
         if (playerLastPos != playerPos) // If the player has moved since last frame
         {
+            anim.enabled = true;
             Enqueue(playerPos);
             playerLastPos = playerPos;
+        } else {
+            if (anim.enabled == true)
+            {
+                anim.Play(anim.GetCurrentAnimatorClipInfo(0)[0].clip.name, 0, 0);
+                Invoke("DisableAnimation", 0.016f);
+            }
         }
 
         anim.SetFloat("Horizontal", npcPos.x - npcLastPos.x);
@@ -59,4 +67,8 @@ public class NPCController : MonoBehaviour
         }
     }
 
+    void DisableAnimation()
+    {
+        anim.enabled = false;
+    }
 }
