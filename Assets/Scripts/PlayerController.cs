@@ -13,10 +13,12 @@ public class PlayerController : MonoBehaviour {
 	Animator anim;
 	Transform tr;
 	public GameObject talk;
+	BoxCollider2D talkbc;
 	Vector2 direction;
 
 	float inputHorizontal = 0f;
 	float inputVertical = 0f;
+	float speedSquared = 0f;
 	public static bool inMenu = false;
 
 	void Start()
@@ -24,6 +26,7 @@ public class PlayerController : MonoBehaviour {
         tr = GetComponent<Transform>();
 		rb = GetComponent<Rigidbody2D>();
 		anim = GetComponent<Animator>();
+		talkbc = talk.GetComponent<BoxCollider2D>();
     }
 	void Update ()
 	{	
@@ -32,37 +35,39 @@ public class PlayerController : MonoBehaviour {
 		{
 			inputHorizontal = 0f;
 			inputVertical = 0f;
+			anim.SetFloat("Speed", 0f);
 		} else {
 			inputHorizontal = Input.GetAxisRaw("Horizontal");
 			inputVertical = Input.GetAxisRaw("Vertical");
-			
-			if (inputHorizontal != 0f || inputVertical != 0f)
+
+			speedSquared = inputHorizontal*inputHorizontal + inputVertical*inputVertical;
+			anim.SetFloat("Speed", speedSquared);
+
+			if (speedSquared != 0f)
 			{
-				anim.enabled = true;
-				direction = new Vector2(inputHorizontal/5, -.15f + inputVertical/5);
-			} else {
-				if (anim.enabled == true)
-				{
-					anim.Play(anim.GetCurrentAnimatorClipInfo(0)[0].clip.name, 0, 0);
-					Invoke("DisableAnimation", 0.016f);
-				}
+				anim.SetFloat("Horizontal", inputHorizontal);
+				anim.SetFloat("Vertical", inputVertical);
+				direction = new Vector2(inputHorizontal/6, -.15f + inputVertical/6);
 			}
 
 			if (Input.GetButton("Sprint"))
 			{
-				anim.speed = 2f;
+				anim.speed = 1.5f;
 				inputHorizontal *= 1.5f;
 				inputVertical *= 1.5f;
 			} else { anim.speed = 1f; }
 
 			if (Input.GetButtonDown("Confirm")) // Enter or Z key
 			{
+				talkbc.isTrigger = true;
 				talk.SetActive(true);
 				talk.transform.localPosition = direction;
 			}
 			if (Input.GetButtonUp("Confirm"))
 			{
-				talk.gameObject.SetActive(false);
+				talkbc.isTrigger = false;
+				talk.SetActive(false); 
+				talk.transform.localPosition = new Vector3(0, -.15f, 0);
 			}	
 		}
 
@@ -77,11 +82,6 @@ public class PlayerController : MonoBehaviour {
 			Debug.Log("Menu key pressed!");
 		}
 		*/
-
-
-		// Setting them in the animator
-		anim.SetFloat("Horizontal", inputHorizontal);
-		anim.SetFloat("Vertical", inputVertical);
 	}
 	
 	void FixedUpdate()
@@ -91,9 +91,5 @@ public class PlayerController : MonoBehaviour {
                                   Convert.ToSingle(Math.Round(tr.position.y, 2)),
                                   tr.position.z);
 	}
-	    void DisableAnimation()
-    {
-        anim.enabled = false;
-    }
 	
 }

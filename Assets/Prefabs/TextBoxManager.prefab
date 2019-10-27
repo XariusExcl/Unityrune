@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3394240847509065359}
   m_Layer: 0
   m_Name: TextBoxManager
-  m_TagString: Untagged
+  m_TagString: DialogueManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45,8 +45,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textboxText: {fileID: 0}
-  goTextbox: {fileID: 0}
-  textboxImageManager: {fileID: 0}
+  goTextbox: {fileID: 4746906511427803857, guid: 6e5ac244566569d4bb3be7d18ff3e0d1,
+    type: 3}
+  textboxImage: {fileID: 4746906511427803863, guid: 6e5ac244566569d4bb3be7d18ff3e0d1,
+    type: 3}
+  fullText: 
 --- !u!82 &3394240847509065359
 AudioSource:
   m_ObjectHideFlags: 0

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ralsei test scene.unity
     guid: 223e188aef015274ea64e822f150509e
+  - enabled: 1
+    path: Assets/Scenes/Ralsei test scene 1.unity
+    guid: 38cdd07ae7a42c042b1e962a2b628379
   m_configObjects: {}

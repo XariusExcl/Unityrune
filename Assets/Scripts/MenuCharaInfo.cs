@@ -10,6 +10,7 @@ using UnityEngine.UI;
 public class MenuCharaInfo : MonoBehaviour
 {
     public Character character;
+    
     public Text nameText;
     public Image playerImg;
     public Text hpText;
