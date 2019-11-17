@@ -8,6 +8,7 @@ TagManager:
   - TalkTrigger
   - LevelChanger
   - DialogueManager
+  - Door
   layers:
   - Default
   - TransparentFX

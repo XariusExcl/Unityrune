@@ -30,7 +30,7 @@ public class DialogueTrigger : MonoBehaviour
 
         if (automaticTrigger) {
             talkTrigger = GameObject.FindGameObjectWithTag("Player").GetComponent<BoxCollider2D>();
-            if(talkTrigger == null) {Debug.Log("Door : Player's BoxCollider2D not found!");}
+            if(talkTrigger == null) {Debug.Log("Dialogue Trigger : Player's BoxCollider2D not found!");}
         } else {
             talkTrigger = GameObject.FindGameObjectWithTag("TalkTrigger").GetComponent<BoxCollider2D>();
             if(talkTrigger == null) {Debug.Log("Dialogue Trigger : TalkTrigger's BoxCollider2D not found !");}

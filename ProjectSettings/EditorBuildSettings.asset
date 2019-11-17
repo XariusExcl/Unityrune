@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Ralsei test scene.unity
     guid: 223e188aef015274ea64e822f150509e
   - enabled: 1
-    path: Assets/Scenes/Ralsei test scene 1.unity
-    guid: 38cdd07ae7a42c042b1e962a2b628379
+    path: Assets/Scenes/DoorsDebug1.unity
+    guid: fda1741ca39718b4287d93bc869d5b6c
+  - enabled: 1
+    path: Assets/Scenes/DoorsDebug2.unity
+    guid: b4ddb80a3550b1648ae5d282ad63f9e9
   m_configObjects: {}

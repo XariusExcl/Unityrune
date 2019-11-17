@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    public GameObject player;
+    Transform player;
     Transform tr;
     public bool enableX = true;
     public bool enableY = true;
@@ -16,17 +16,18 @@ public class CameraController : MonoBehaviour
     void Start()
     {
         tr = GetComponent<Transform>();
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
-    
+
     void Update()
     {
         if(enableX)
         {
-            tr.position = new Vector3(player.transform.position.x, tr.position.y, -3f);
+            tr.position = new Vector3(player.position.x, tr.position.y, -3f);
         }
         if(enableY)
         {
-            tr.position = new Vector3(tr.position.x, player.transform.position.y, -3f);
+            tr.position = new Vector3(tr.position.x, player.position.y, -3f);
         }
     }
 }

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 9185775608078969979}
   m_Layer: 0
   m_Name: Door
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,4 +121,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   level: Ralsei test scene 1
-  lc: {fileID: 8201851590051453946, guid: 917b8abfef35f9e47a3f6aa38e032bb1, type: 3}
+  playerSpawner: {fileID: 3245744747375921870, guid: cca044427fdf1df4eb89b8a331d2ce09,
+    type: 3}
